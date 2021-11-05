@@ -1,0 +1,1274 @@
+propertyCode,address,province,municipality,district,country,neighborhood,latitude,longitude,distance,floor,price,propertyType,size,exterior,rooms,bathrooms,status,hasLift
+93713058,Calle Doctor Nicasio Benlloch,València,València,Benicalap,es,Benicalap,39.4891251,-0.3973836,2645,bj,500,flat,52,True,2,1,good,1.0
+95768330,Juan Bautista Comes,València,València,L'Olivereta,es,La Llum,39.4679683,-0.4140414,3178,3,490,flat,76,True,2,1,good,0.0
+95768462,Calle de Felipe Salvador,València,València,Camins al Grau,es,Aiora,39.4629836,-0.3380281,3485,3,650,flat,60,False,2,1,good,0.0
+95767951,"Calle de la Democracia, Nou Moles",València,València,L'Olivereta,es,Nou Moles,39.4717632,-0.40129549999999997,2066,5,730,flat,75,True,2,1,good,1.0
+95720789,barrio La Petxina,València,València,Extramurs,es,La Petxina,39.4725289,-0.39004059999999996,1110,3,720,flat,80,True,3,1,good,0.0
+95726855,barrio El Mercat,València,València,Ciutat Vella,es,El Mercat,39.4735918,-0.38033469999999997,382,1,1000,flat,90,True,3,2,good,0.0
+95599661,barrio Malilla,València,València,Quatre Carreres,es,Malilla,39.4489341,-0.37817039999999996,2468,6,900,flat,70,True,2,1,good,0.0
+95767501,Calle Santos Justo y Pastor,València,València,Algirós,es,L'Illa Perduda,39.4664176,-0.34339909999999996,2951,3,600,flat,67,True,2,1,good,1.0
+95767433,"av malvarosa, 20",València,València,Poblats Marítims,es,Playa de la Malvarrosa,39.4778758,-0.3278585,4304,2,650,flat,80,True,3,1,good,0.0
+95600514,barrio Sant Francesc,València,València,Ciutat Vella,es,Sant Francesc,39.4694075,-0.3765881,198,1,800,flat,70,True,2,1,good,0.0
+95599612,barrio Russafa,València,València,L'Eixample,es,Russafa,39.461043599999996,-0.36820189999999997,1362,2,800,flat,80,True,2,1,good,0.0
+95302774,barrio Campanar,València,València,Campanar,es,Campanar,39.482768,-0.39052899999999996,1725,4,1200,flat,100,True,3,2,good,0.0
+95234995,barrio En Corts,València,València,Quatre Carreres,es,En Corts,39.4542964,-0.3739655,1891,5,900,flat,70,True,2,1,good,0.0
+95659654,barrio El Carme,València,València,Ciutat Vella,es,El Carme,39.4764912,-0.3827694,762,5,960,penthouse,80,True,2,2,good,0.0
+91679352,"Francisco Cubells, 10  ",València,València,Poblats Marítims,es,El Grau,39.4632642,-0.3342127,3795,3,599,flat,66,True,3,1,good,1.0
+95302409,barrio El Cabanyal-El Canyamelar,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4713938,-0.32673599999999997,4334,2,950,flat,90,True,4,2,good,1.0
+95320802,barrio La Creu Coberta,València,València,Jesús,es,La Creu Coberta,39.4527742,-0.3858569,2170,2,650,flat,70,True,2,1,good,1.0
+95302103,barrio Benimaclet,València,València,Benimaclet,es,Benimaclet,39.4878381,-0.35773469999999996,2501,1,700,flat,90,True,2,1,good,0.0
+95163599,barrio Benicalap,València,València,Benicalap,es,Benicalap,39.4926192,-0.39165069999999996,2691,4,900,flat,80,True,3,1,good,0.0
+95766665,barrio Sant Francesc,València,València,Ciutat Vella,es,Sant Francesc,39.4703238,-0.3760593,134,4,875,penthouse,55,True,1,1,renew,1.0
+95766638,"Avenida Valladolid, 3",València,València,Rascanya,es,Sant Llorenç,39.4898011,-0.3635701,2385,9,800,flat,75,True,2,2,good,1.0
+33924117,Avenida del Cardenal Benlloch,València,València,El Pla del Real,es,Mestalla,39.473796,-0.354981,1933,1,700,flat,70,True,3,1,good,1.0
+95464308,Calle San Vicente Mártir,València,València,Ciutat Vella,es,Sant Francesc,39.4733041,-0.37657219999999997,249,3,1350,flat,98,True,2,1,good,1.0
+95449159,Calle de Colón,València,València,Ciutat Vella,es,Sant Francesc,39.4666807,-0.3743516,552,8,1000,flat,50,True,2,1,good,1.0
+95765238,"Avenida del Primado Reig, 113",València,València,La Saïdia,es,Trinitat,39.4851233,-0.36420949999999996,1916,4,690,flat,54,True,1,1,good,1.0
+95763674,barrio En Corts,València,València,Quatre Carreres,es,En Corts,39.4576954,-0.37259749999999997,1545,3,625,flat,100,False,2,1,good,1.0
+95761970,Calle de Pere de València,València,València,Algirós,es,L'Illa Perduda,39.4667836,-0.33711959999999996,3477,3,900,flat,97,True,4,1,good,1.0
+95761969,"Calle de la Puebla de Valverde, 7",València,València,Patraix,es,Vara de Quart,39.4601459,-0.4020354,2453,6,650,flat,66,True,3,1,good,1.0
+95761772,barrio Sant Llorenç,València,València,Rascanya,es,Sant Llorenç,39.4942034,-0.3629384,2844,9,890,flat,100,True,3,2,good,1.0
+86741556,barrio Ciutat Fallera,València,València,Benicalap,es,Ciutat Fallera,39.495961199999996,-0.397592,3267,4,580,flat,80,False,3,1,good,1.0
+95761479,Calle de Dolores Marqués,València,València,Benimaclet,es,Benimaclet,39.4877724,-0.3638164,2180,5,650,flat,61,False,2,1,good,1.0
+88099280,barrio Mestalla,València,València,El Pla del Real,es,Mestalla,39.4710528,-0.35721339999999996,1718,7,1150,flat,60,True,2,1,good,1.0
+95759621,La Constitución - Canaleta,València,Mislata,La Constitución - Canaleta,es,,39.4720093,-0.41532979999999997,3271,4,800,flat,96,False,4,2,good,1.0
+95759210,barrio Tormos,València,València,La Saïdia,es,Tormos,39.4853826,-0.3786052,1589,bj,800,flat,81,True,3,1,good,1.0
+95756481,"Gran Via Fernando el Católico, 70",València,València,Extramurs,es,El Botànic,39.4748195,-0.38788799999999996,1002,en,1200,flat,84,False,3,2,good,1.0
+82411193,barrio Benimaclet,València,València,Benimaclet,es,Benimaclet,39.4794236,-0.3571255,1957,11,675,flat,65,False,1,1,good,1.0
+95753656,barrio Sant Francesc,València,València,Ciutat Vella,es,Sant Francesc,39.4700206,-0.37408349999999996,297,,1300,flat,91,True,3,2,good,1.0
+95752777,Calle de Sant Pius X,València,València,Jesús,es,Sant Marcellí,39.4449977,-0.3881614,3052,3,620,flat,70,False,3,1,renew,0.0
+95752602,barrio El Carme,València,València,Ciutat Vella,es,El Carme,39.475017,-0.3829845,656,6,1400,penthouse,78,True,2,1,good,1.0
+95752244,barrio El Mercat,València,València,Ciutat Vella,es,El Mercat,39.4736662,-0.37903929999999997,322,3,1500,flat,92,True,2,2,good,1.0
+95751671,barrio La Petxina,València,València,Extramurs,es,La Petxina,39.4738927,-0.3880204,975,1,1200,flat,65,True,2,1,good,1.0
+95751360,Calle del Pare Rico,València,València,Extramurs,es,La Petxina,39.4731234,-0.3872934,891,3,720,flat,81,True,3,1,good,1.0
+95748088,"Avenida del Puerto, 109",València,València,Camins al Grau,es,Aiora,39.4649943,-0.3488944,2526,3,800,penthouse,50,True,2,1,good,0.0
+95741591,Calle Pintor Peiró,València,València,El Pla del Real,es,Exposició,39.4764371,-0.3658385,1142,2,1200,flat,90,True,2,2,good,1.0
+95738471,Calle de Don Juan de Austria,València,València,Ciutat Vella,es,Sant Francesc,39.4685961,-0.3744862,367,2,750,flat,50,True,1,2,good,1.0
+95736076,Avenida de Burjassot,València,València,La Saïdia,es,Marxalenes,39.4839727,-0.3842536,1550,2,845,flat,81,True,3,1,good,1.0
+95735852,Calle Salvador Perles s/n,València,València,Jesús,es,Sant Marcellí,39.4428574,-0.3911715,3362,1,720,flat,85,True,3,2,good,1.0
+95735706,barrio El Mercat,València,València,Ciutat Vella,es,El Mercat,39.4738674,-0.3791578,346,4,1700,flat,83,True,2,2,good,1.0
+95735682,"Calle Santa Genoveva Torres, 2",València,València,Rascanya,es,Sant Llorenç,39.4949131,-0.3617223,2961,7,999,flat,100,True,3,2,good,1.0
+95733247,Calle de Vicent Sancho Tello,València,València,El Pla del Real,es,Mestalla,39.4677239,-0.3576157,1726,5,750,flat,75,True,2,1,good,1.0
+94779007,Calle Don Juan de Austria,València,València,Ciutat Vella,es,Sant Francesc,39.4691189,-0.37425559999999997,339,3,630,studio,52,True,0,1,good,1.0
+94210159,"Calle del Comte d'Altea, 34",València,València,L'Eixample,es,Gran Vía,39.4663975,-0.3666353,1050,4,850,flat,90,True,4,2,good,1.0
+92070684,barrio Sant Francesc,València,València,Ciutat Vella,es,Sant Francesc,39.4676907,-0.37857169999999996,398,2,900,flat,43,False,2,1,good,1.0
+91943309,Paseo Serra d 'Espadá,València,Alboraya,La Patacona,es,,39.489108,-0.32957759999999997,4552,7,1900,flat,92,True,2,2,good,1.0
+91755682,Plaza Poeta Badenes,València,València,Quatre Carreres,es,Na Rovella,39.4575976,-0.3617757,2005,6,1200,flat,100,True,2,2,good,1.0
+91237308,barrio Gran Vía,València,València,L'Eixample,es,Gran Vía,39.4636187,-0.3690636,1090,1,850,flat,80,True,2,1,good,1.0
+89727388,barrio Sant Francesc,València,València,Ciutat Vella,es,Sant Francesc,39.468499,-0.3767694,294,9,2000,flat,60,True,1,1,good,1.0
+95668208,barrio El Cabanyal-El Canyamelar,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4716041,-0.32969339999999997,4081,2,1250,penthouse,100,True,3,1,good,0.0
+95659700,barrio El Cabanyal-El Canyamelar,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4615679,-0.33252729999999997,3982,1,1000,flat,90,True,2,1,good,0.0
+95654534,barrio Malilla,València,València,Quatre Carreres,es,Malilla,39.4572386,-0.3743315,1563,2,950,flat,94,True,2,2,good,1.0
+95614955,barrio La Seu,València,València,Ciutat Vella,es,La Seu,39.4769104,-0.3774864,643,4,800,flat,38,True,1,1,good,0.0
+95568845,barrio En Corts,València,València,Quatre Carreres,es,En Corts,39.457772,-0.3709637,1579,2,1000,penthouse,60,True,1,2,good,0.0
+95568276,barrio La Petxina,València,València,Extramurs,es,La Petxina,39.4701091,-0.3912613,1209,6,1200,flat,65,True,1,1,good,1.0
+95543183,Calle Periodista Badía,València,València,El Pla del Real,es,Exposició,39.4786152,-0.3631532,1468,1,800,flat,80,True,2,1,good,1.0
+95525691,Calle de la Reina,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4717998,-0.32926859999999997,4117,2,790,flat,67,True,3,1,good,0.0
+95760185,barrio Ciutat Fallera,València,València,Benicalap,es,Ciutat Fallera,39.4983628,-0.3956766,3417,2,750,flat,90,False,4,2,good,1.0
+93170044,Avenida Real de Madrid,València,La Torre,,es,,39.430738,-0.3927865,4684,1,500,flat,85,True,2,1,good,1.0
+95715217,barrio Penya-Roja,València,València,Camins al Grau,es,Penya-Roja,39.4650684,-0.3587439,1724,2,660,flat,63,True,2,1,good,1.0
+95207292,Calle Escultor José Capuz,València,València,Quatre Carreres,es,Mont-Olivet,39.4597598,-0.3633655,1736,4,970,flat,100,True,2,2,good,1.0
+89289756,Calle de la Sénia,València,València,Ciutat Vella,es,El Mercat,39.4737849,-0.3774036,296,1,1929,flat,67,False,2,2,good,0.0
+95720720,Calle de Trinitarios,València,València,Ciutat Vella,es,La Xerea,39.4756305,-0.37016879999999996,786,2,1100,flat,100,True,2,2,good,1.0
+95733267,"Gran Vía del Marqués del Turia, 4",València,València,L'Eixample,es,Gran Vía,39.4651604,-0.37247369999999996,778,1,800,flat,70,True,1,1,good,1.0
+95732381,Calle Molinell,València,València,La Saïdia,es,Trinitat,39.4834675,-0.3695198,1524,3,650,flat,88,True,3,1,good,1.0
+95694356,"Calle Santiago Rusiñol, 26",València,València,Rascanya,es,Els Orriols,39.4952037,-0.36663389999999996,2827,3,800,flat,85,True,3,1,good,1.0
+34117979,"Avenida del doctor waksman, 35",València,València,Quatre Carreres,es,En Corts,39.4562873,-0.3717512,1715,10,800,flat,87,True,3,2,good,1.0
+91980532,Sedavi,València,Sedavi,,es,,39.42674,-0.38488000000000006,4978,1,600,flat,88,False,2,2,good,1.0
+35017601,"Avenida jacinto benavente, 5",València,València,L'Eixample,es,Gran Vía,39.4680537,-0.36396799999999996,1188,4,1150,flat,89,True,2,2,good,1.0
+95596194,Calle de la Reina,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4701981,-0.3298587,4067,2,790,flat,70,True,3,1,good,0.0
+95593845,Calle de Colón,València,València,L'Eixample,es,El Pla del Remei,39.46955,-0.36787000000000003,822,1,1000,flat,73,True,2,2,good,1.0
+95593562,Paseo Alameda,València,València,Camins al Grau,es,Penya-Roja,39.4546755,-0.3441045,3381,3,750,flat,68,True,1,1,good,1.0
+95560332,Calle Arquitecto Alfaro s/n,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4641452,-0.335024,3705,1,1400,flat,78,True,3,1,good,0.0
+95515474,Calle de Just Vilar,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4674775,-0.3314689,3949,1,580,flat,70,True,3,1,good,0.0
+91709217,Gran Via del Marqués del Túria,València,València,L'Eixample,es,Gran Vía,39.4660604,-0.37397369999999996,628,1,800,flat,70,False,1,1,good,1.0
+95495798,Calle de Ciscar,València,València,L'Eixample,es,Gran Vía,39.4662614,-0.3662007,1090,5,1600,penthouse,94,False,2,2,good,1.0
+95235390,jeronima gales,València,València,Jesús,es,L'Hort de Senabre,39.4490425,-0.3941361,2851,5,600,flat,80,True,3,1,good,1.0
+89890085,"San Martín, 7",València,València,Ciutat Vella,es,Sant Francesc,39.4733586,-0.37528279999999997,299,2,850,studio,50,True,0,1,good,1.0
+90132883,"Avenida de les Corts Valencianes, 46",València,València,Benicalap,es,Benicalap,39.4937972,-0.40099599999999996,3242,2,600,studio,30,True,0,1,good,1.0
+89891542,"Ribera, 13",València,València,Ciutat Vella,es,Sant Francesc,39.4679602,-0.3757086,375,3,1200,studio,50,True,0,1,renew,1.0
+93832407,ernesto anastacio,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4631366,-0.3336324,3846,3,700,flat,75,True,1,1,good,1.0
+90132879,"Avenida de les Corts Valencianes, 46",València,València,Benicalap,es,Benicalap,39.4937972,-0.40099599999999996,3242,2,690,flat,50,True,1,1,good,1.0
+39254167,Calle de la Cruz Roja,València,València,Patraix,es,Vara de Quart,39.4594224,-0.4135604,3378,2,750,duplex,65,True,1,1,good,1.0
+95740814,Paseo alameda,València,València,Camins al Grau,es,Penya-Roja,39.4581423,-0.3514412,2643,3,750,flat,80,True,1,1,good,1.0
+95107042,"Calle del Almirante Cadarso, 30",València,València,L'Eixample,es,Gran Vía,39.464169,-0.3674614,1141,7,650,penthouse,30,True,1,1,good,1.0
+95732932,Pedro Cabanes,València,València,Rascanya,es,Torrefiel,39.4954765,-0.37523029999999996,2713,2,600,flat,80,True,2,1,good,1.0
+95732721,Calle Carrícola,València,València,Jesús,es,La Creu Coberta,39.4526211,-0.3890713,2294,2,650,flat,70,True,2,1,good,1.0
+95644068,"TAPINERIA, 6",València,València,Ciutat Vella,es,La Seu,39.4743092,-0.3764479,360,4,900,duplex,83,True,1,1,good,1.0
+95614656,Calle de Salvador Pau s/n,València,València,Camins al Grau,es,Albors,39.4707267,-0.3535374,2034,1,850,flat,100,True,3,1,good,1.0
+94437477,Calle de Xàtiva,València,València,Extramurs,es,La Roqueta,39.4690831,-0.3771617,226,5,650,flat,50,True,1,1,good,1.0
+95517007,Calle Pintor Pascual Capuz,València,València,Patraix,es,Patraix,39.46215,-0.39636000000000005,1920,1,730,flat,70,True,2,2,good,1.0
+94318830,Calle del mar,València,València,Ciutat Vella,es,La Xerea,39.4752634,-0.3740073,537,5,600,flat,50,True,1,1,good,1.0
+95427818,Calle Arquitecto Alfaro,València,València,Poblats Marítims,es,El Grau,39.4631873,-0.3340894,3807,1,1400,flat,80,True,3,1,good,1.0
+95427410,"Calle de l'Hospital, 22",València,València,Ciutat Vella,es,El Pilar,39.4710536,-0.3823374,437,3,700,flat,55,True,2,2,good,1.0
+95414951,Paseo de la Alameda,València,València,Camins al Grau,es,Penya-Roja,39.4558712,-0.34271799999999997,3414,3,750,flat,67,True,1,1,good,1.0
+95385238,barrio Russafa,València,València,L'Eixample,es,Russafa,39.464709,-0.3743395,755,3,725,flat,55,True,1,1,good,0.0
+95166059,Carricola,València,València,Jesús,es,La Creu Coberta,39.4522742,-0.3849569,2198,2,650,flat,70,True,2,1,good,1.0
+94942347,Calle de Pere Aleixandre,València,València,Quatre Carreres,es,Mont-Olivet,39.4599315,-0.3612915,1849,3,670,flat,74,True,2,1,good,1.0
+93512229,Avenida del Mestre Rodrigo,València,València,Campanar,es,Sant Pau,39.4857088,-0.4049193,2876,13,895,flat,95,True,2,2,good,1.0
+95756312,Av. del Cid,València,València,L'Olivereta,es,Tres Forques,39.4702215,-0.3994757,1911,4,750,flat,85,True,3,1,good,1.0
+95752523,barrio Penya-Roja,València,València,Camins al Grau,es,Penya-Roja,39.4584279,-0.3525772,2544,7,1000,flat,97,True,3,2,good,1.0
+95741733,Calle Pintor Peiró,València,València,El Pla del Real,es,Exposició,39.4759371,-0.36573849999999997,1122,4,900,flat,60,True,1,1,good,1.0
+88608099,Calle Mayor Nazaret,València,València,Poblats Marítims,es,Natzaret,39.4493965,-0.3347691,4373,1,625,flat,78,True,3,1,good,0.0
+95645862,barrio En Corts,València,València,Quatre Carreres,es,En Corts,39.4517389,-0.37122089999999996,2216,7,950,flat,100,True,4,1,good,1.0
+94198529,Calle del Conde de Montornes,València,València,Ciutat Vella,es,La Xerea,39.4748642,-0.3707851,692,1,750,flat,60,True,1,1,good,1.0
+95619368,barrio El Cabanyal-El Canyamelar,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4727383,-0.33104249999999996,3968,2,2000,flat,50,True,2,1,good,0.0
+95619143,barrio El Cabanyal-El Canyamelar,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4699383,-0.3332425,3778,2,2000,flat,50,True,2,2,good,0.0
+95587806,Calle d'Ernest Anastasio,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4628366,-0.3333324,3879,3,700,flat,78,True,1,1,good,1.0
+95587748,Calle ESCULTOR JOSÉ CAPUZ,València,València,Quatre Carreres,es,Mont-Olivet,39.4596546,-0.36202799999999996,1824,4,1000,flat,100,True,2,1,good,1.0
+95581635,barrio Benimaclet,València,València,Benimaclet,es,Benimaclet,39.4841194,-0.35687199999999997,2267,1,700,flat,70,True,2,1,good,0.0
+95568406,"Calle Avellanas, 11",València,València,Ciutat Vella,es,La Seu,39.4746411,-0.3743573,462,1,1500,studio,60,True,0,1,good,1.0
+95568088,Calle de la Reina,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.472911,-0.3273621,4285,2,790,flat,67,True,3,1,good,0.0
+95558572,barrio Campanar,València,València,Campanar,es,Campanar,39.4777146,-0.39954049999999997,2049,10,800,flat,90,True,3,2,good,0.0
+95512761,barrio El Grau,València,València,Poblats Marítims,es,El Grau,39.4600873,-0.3355894,3779,1,1400,flat,97,True,3,1,good,0.0
+95511499,Gran Via del Marqués del Túria,València,València,L'Eixample,es,Gran Vía,39.4647604,-0.37297369999999996,796,1,800,flat,65,True,1,1,good,1.0
+86642069,CIUDAD GRAN TURIA s/n,València,València,Patraix,es,Vara de Quart,39.4616193,-0.4125732,3211,1,660,duplex,85,True,1,1,good,1.0
+95334480,"CID, 110",València,València,L'Olivereta,es,Nou Moles,39.4698731,-0.4036278,2269,3,600,flat,85,True,3,1,good,1.0
+95285806,"Calle Amador Martínez Rochína, 2",València,València,Campanar,es,Sant Pau,39.4858883,-0.4026339,2728,7,1100,flat,100,True,3,2,good,1.0
+95261682,"Calle Santa Genoveva Torres, 2",València,València,Rascanya,es,Sant Llorenç,39.4949131,-0.3617223,2961,7,975,flat,100,True,3,2,good,1.0
+95133031,Calle de l'Hedra,València,València,Ciutat Vella,es,El Mercat,39.4711492,-0.37839659999999997,99,2,700,flat,59,True,1,1,good,1.0
+83878932,"Los Angeles, 87",València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4711249,-0.3310594,3963,bj,850,flat,80,True,1,1,good,0.0
+94674793,Avenida del Puerto,València,València,Camins al Grau,es,Aiora,39.4632695,-0.3417578,3168,4,750,flat,95,True,3,2,good,1.0
+94311737,Paseo Sierra Espadán s/n,València,Alboraya,La Patacona,es,,39.4865453,-0.32852349999999997,4518,7,1900,flat,90,True,2,2,good,1.0
+83416192,"Calle Poeta Llombart, 4",València,València,Ciutat Vella,es,El Mercat,39.4724704,-0.37838659999999996,179,1,950,flat,50,True,1,1,good,1.0
+94155298,"la paz, 16",València,València,Ciutat Vella,es,La Xerea,39.4733687,-0.3739343,377,4,1200,flat,90,True,3,1,good,1.0
+36221589,"Calle del Peu de la Creu, 9",València,València,Ciutat Vella,es,El Pilar,39.4732088,-0.3807636,381,3,450,flat,45,False,1,1,good,1.0
+35563634,"Pie de la Cruz, 9",València,València,Ciutat Vella,es,El Pilar,39.4732088,-0.3807636,381,6,800,penthouse,76,True,2,2,good,1.0
+85567862,Avenida Mare Nostrum,València,Alboraya,La Patacona,es,,39.4902412,-0.327293,4784,,800,flat,80,False,2,1,good,
+81458321,"ARQUITECTO LUCINI, 20",València,València,La Saïdia,es,Tormos,39.4906609,-0.3761408,2174,3,800,flat,97,True,3,2,good,1.0
+95734874,Calle de Sant Jacint,València,València,Extramurs,es,La Petxina,39.4730287,-0.3895953,1081,3,570,flat,70,True,3,1,good,0.0
+95734271,barrio Sant Francesc,València,València,Ciutat Vella,es,Sant Francesc,39.4714028,-0.3761294,100,1,750,flat,55,True,1,1,good,1.0
+95723412,La Patacona,València,Alboraya,La Patacona,es,,39.4866238,-0.3292812,4462,6,774,flat,77,True,1,1,good,1.0
+95722961,barrio Aiora,València,València,Camins al Grau,es,Aiora,39.4678462,-0.34906739999999997,2445,1,700,studio,80,True,0,1,good,1.0
+95721825,barrio Sant Llorenç,València,València,Rascanya,es,Sant Llorenç,39.4915018,-0.36157419999999996,2634,6,1100,flat,100,True,3,2,good,1.0
+95721517,barrio Ciutat Fallera,València,València,Benicalap,es,Ciutat Fallera,39.4999862,-0.3941016,3520,2,750,flat,86,True,4,2,good,1.0
+95720845,barrio Ciutat Fallera,València,València,Benicalap,es,Ciutat Fallera,39.4970994,-0.3925858,3174,2,750,flat,86,True,4,2,good,1.0
+95686420,Calle La Olivereta,València,València,L'Olivereta,es,Nou Moles,39.4731994,-0.39593229999999996,1621,1,600,flat,75,True,3,1,good,0.0
+95676355,Calle de la Marina Baixa,València,València,Campanar,es,Sant Pau,39.4901765,-0.4059701,3250,5,1000,penthouse,95,True,2,2,good,1.0
+95660463,santa clara,València,València,Ciutat Vella,es,Sant Francesc,39.4667781,-0.3741577,550,6,800,studio,47,True,0,1,good,1.0
+95600342,Calle de Matías Perelló,València,València,L'Eixample,es,Russafa,39.4618977,-0.3690889,1241,2,800,flat,80,False,2,1,good,1.0
+37373014,Calle de la Serra Martés,València,València,Benicalap,es,Benicalap,39.4878026,-0.3927458,2282,7,625,flat,74,True,3,1,good,1.0
+95551486,Santa Clara,València,València,Ciutat Vella,es,Sant Francesc,39.4689656,-0.37426159999999997,350,7,800,studio,47,True,0,1,good,1.0
+95465127,barrio Mestalla,València,València,El Pla del Real,es,Mestalla,39.4672437,-0.3563612,1843,5,800,flat,60,True,1,1,good,1.0
+95429041,Calle Molinell,València,València,La Saïdia,es,Trinitat,39.4866675,-0.3686198,1879,1,700,flat,90,True,3,1,good,1.0
+95406765,barrio El Cabanyal-El Canyamelar,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4713108,-0.32755229999999996,4264,bj,1050,chalet,90,False,1,2,good,
+95371029,Calle Historiador Diago,València,València,Extramurs,es,Arrancapins,39.4675763,-0.3844855,736,2,900,flat,70,True,2,1,good,1.0
+95308715,barrio En Corts,València,València,Quatre Carreres,es,En Corts,39.4573262,-0.3717083,1605,3,745,flat,89,True,2,1,good,1.0
+95220217,Calle de Santa Genoveva Torres,València,València,Rascanya,es,Sant Llorenç,39.4950491,-0.3631316,2922,11,1000,flat,89,True,2,2,good,1.0
+95096672,barrio El Mercat,València,València,Ciutat Vella,es,El Mercat,39.4725551,-0.38086949999999997,350,3,900,flat,90,True,3,1,good,0.0
+94959175,Calle del Conde de Altea,València,València,L'Eixample,es,Gran Vía,39.46744,-0.3631751,1274,2,900,flat,84,True,3,1,good,1.0
+94893436,barrio Playa de la Malvarrosa,València,València,Poblats Marítims,es,Playa de la Malvarrosa,39.477325,-0.3288605,4208,1,750,flat,90,True,3,1,good,0.0
+94686973,barrio El Mercat,València,València,Ciutat Vella,es,El Mercat,39.4734386,-0.3807914,399,4,1300,flat,85,True,1,1,good,1.0
+94605965,barrio La Petxina,València,València,Extramurs,es,La Petxina,39.477016,-0.39197509999999997,1424,3,1000,flat,90,True,2,2,good,1.0
+94310256,barrio Albors,València,València,Camins al Grau,es,Albors,39.4694191,-0.35233539999999997,2145,3,1800,flat,98,True,3,1,good,0.0
+93806401,barrio La Seu,València,València,Ciutat Vella,es,La Seu,39.4739611,-0.374341,401,2,1450,flat,63,True,2,1,good,1.0
+93203944,Calle Salinas s/n,València,València,Ciutat Vella,es,El Carme,39.476997,-0.37910859999999996,672,3,899,flat,50,True,1,1,good,0.0
+93235118,barrio El Cabanyal-El Canyamelar,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4655189,-0.3291505,4174,2,800,flat,70,True,2,2,good,0.0
+93209925,barrio El Cabanyal-El Canyamelar,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4647189,-0.33155049999999997,3985,2,900,penthouse,69,True,2,1,good,0.0
+93178062,Calle del Pare Lluís Navarro,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4632189,-0.3313505,4035,2,850,flat,70,True,2,1,good,0.0
+92792991,barrio Les Tendetes,València,València,Campanar,es,Les Tendetes,39.485523,-0.3852286,1741,1,1050,flat,83,True,3,1,good,0.0
+95706371,barrio Benimaclet,València,València,Benimaclet,es,Benimaclet,39.4884489,-0.36025579999999996,2415,6,1000,penthouse,80,True,3,1,good,1.0
+95660051,barrio Exposició,València,València,El Pla del Real,es,Exposició,39.4761016,-0.36489499999999997,1195,,900,flat,52,True,1,1,good,1.0
+95658745,barrio Exposició,València,València,El Pla del Real,es,Exposició,39.474501599999996,-0.36489499999999997,1123,,1200,flat,80,True,2,2,good,1.0
+95653578,Benimàmet,València,Benimàmet,,es,,39.5000005,-0.42100509999999997,4941,4,450,flat,69,True,3,1,good,0.0
+95633152,barrio El Cabanyal-El Canyamelar,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4720941,-0.3328324,3812,,775,flat,80,True,1,2,good,0.0
+95632848,barrio Penya-Roja,València,València,Camins al Grau,es,Penya-Roja,39.4618471,-0.35589139999999997,2102,6,1300,flat,92,True,3,2,good,1.0
+95596188,barrio Benimaclet,València,València,Benimaclet,es,Benimaclet,39.4843194,-0.35837199999999997,2185,,700,flat,70,False,2,1,good,0.0
+95703586,barrio En Corts,València,València,Quatre Carreres,es,En Corts,39.4524581,-0.37412,2092,7,950,flat,100,True,4,1,good,1.0
+93483238,Calle de Salvador Giner,València,València,Ciutat Vella,es,El Carme,39.48011,-0.37887000000000004,1009,,1100,flat,90,True,3,2,good,1.0
+87471708,Denia,València,València,L'Eixample,es,Russafa,39.4631709,-0.3768723,884,3,650,flat,45,True,2,1,good,0.0
+95749908,Avenida Gregorio Gea,València,Mislata,La Constitución - Canaleta,es,,39.475563,-0.42285619999999996,3946,3,600,flat,60,True,2,1,good,0.0
+95733946,Calle los Naranjos,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4755058,-0.3265682,4376,2,790,flat,67,True,3,1,good,0.0
+95727706,Calle d'Olimpia Arozena Torres,València,València,L'Olivereta,es,Nou Moles,39.4696563,-0.3928693,1351,2,750,flat,91,True,2,1,good,0.0
+95727577,Paseo de l'Albereda,València,València,Camins al Grau,es,Penya-Roja,39.4551712,-0.34521799999999997,3271,3,750,flat,81,True,1,1,good,1.0
+95726732,Avenida de la Malva-Rosa,València,València,Poblats Marítims,es,Playa de la Malvarrosa,39.4820201,-0.3263452,4532,2,750,flat,61,True,1,1,good,1.0
+95693370,Calle de Carme Crespo,València,València,Benimaclet,es,Benimaclet,39.4843194,-0.357672,2229,1,700,flat,70,True,2,1,good,0.0
+92760464,Calle de Xàtiva,València,València,Extramurs,es,La Roqueta,39.4694466,-0.37685409999999997,189,7,650,flat,50,True,1,1,good,1.0
+95632568,Calle de les Illes Canàries,València,València,Camins al Grau,es,La Creu del Grau,39.4625106,-0.3392463,3398,2,680,flat,85,True,3,1,good,0.0
+92961519,Calle de Josep Benlliure,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4625372,-0.3304896,4124,1,800,duplex,70,True,2,1,good,0.0
+95620449,Avenida d'Amado Granell Mesado,València,València,Quatre Carreres,es,Ciutat de les Arts i de les Ciencies,39.4549501,-0.3609564,2277,11,1000,flat,87,True,2,2,good,1.0
+95614155,Avenida d'Ausiàs March,València,València,Quatre Carreres,es,En Corts,39.4529389,-0.3710209,2091,7,950,flat,100,True,4,1,good,1.0
+90114143,Plaza Jaca,València,València,La Saïdia,es,Trinitat,39.4853597,-0.3714725,1658,2,700,flat,73,False,2,1,good,1.0
+88190623,"Avenida de França, 55",València,València,Camins al Grau,es,Penya-Roja,39.459157,-0.3453311,3044,3,850,flat,79,True,1,1,good,1.0
+95573014,Calle Explorador Andrés,València,València,Algirós,es,Ciutat Jardí,39.4704697,-0.34381609999999996,2869,6,675,flat,90,False,2,1,good,1.0
+95388603,Calle d'En Colom,València,València,Ciutat Vella,es,El Mercat,39.4733386,-0.37809139999999997,257,4,1400,flat,100,True,2,1,good,0.0
+92027980,Avenida de la Plata,València,València,Quatre Carreres,es,En Corts,39.4514866,-0.37055509999999997,2257,4,615,flat,65,True,1,1,good,1.0
+95265701,Calle de la Llanterna,València,València,Ciutat Vella,es,El Mercat,39.4734083,-0.3802756,364,3,900,flat,90,True,3,1,good,1.0
+95171106,Calle de Pedro Cabanes,València,València,Rascanya,es,Torrefiel,39.4959807,-0.3760687,2765,3,600,flat,75,True,2,1,good,1.0
+95093890,Calle Santa Genoveva Torres,València,València,Rascanya,es,Sant Llorenç,39.4917338,-0.3626877,2609,9,1150,flat,100,True,3,2,good,1.0
+94422420,Calle de Borriana,València,València,L'Eixample,es,Gran Vía,39.4634109,-0.3686464,1130,3,900,flat,100,False,4,2,good,
+94269304,"Avenida de Peris i Valero, 54",València,València,Quatre Carreres,es,En Corts,39.4579262,-0.37300829999999996,1511,8,1440,flat,65,True,1,1,good,1.0
+94045603,"Avenida Hermanos Maristas, 28",València,València,Quatre Carreres,es,Ciutat de les Arts i de les Ciencies,39.4535374,-0.36141819999999997,2380,11,1400,flat,95,True,3,2,good,1.0
+93286367,"Calle Padre Huérfanos, 4",València,València,Ciutat Vella,es,El Carme,39.4792654,-0.3780149,907,1.0,1100,flat,65,True,2,2,good,1.0
+93132353,"Calle Jorge Juan, 14",València,València,L'Eixample,es,El Pla del Remei,39.4690153,-0.3695576,699,1.0,950,flat,85,False,2,1,good,1.0
+706709,"Calle Pie de la Cruz, 7",València,València,Ciutat Vella,es,El Pilar,39.4731426,-0.3806228,367,2.0,750,flat,100,True,3,2,good,1.0
+95721367,Calle blanquerias,València,València,Ciutat Vella,es,El Carme,39.4785964,-0.3761303,836,1.0,1100,flat,95,False,3,1,good,0.0
+86971676,Calle Ruaya,València,València,La Saïdia,es,Morvedre,39.4862653,-0.37654279999999996,1684,2.0,700,flat,80,True,3,2,good,1.0
+95672494,Calle de la Democracia,València,València,L'Olivereta,es,Nou Moles,39.4747632,-0.4022955,2188,5.0,750,flat,90,True,3,2,good,1.0
+95618033,Calle Felipe Vives Cañamás,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4706013,-0.3341076,3702,3.0,750,flat,82,True,3,1,good,1.0
+95527170,cuba,València,València,L'Eixample,es,Russafa,39.4618621,-0.37932859999999996,1045,3.0,800,flat,90,True,3,2,good,1.0
+95489598,Calle de Vicent Sancho Tello,València,València,El Pla del Real,es,Mestalla,39.4705847,-0.3550098,1908,4.0,700,flat,87,False,2,1,good,1.0
+93573334,Arquitecto Alfaro,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4633452,-0.335024,3725,3.0,650,flat,75,True,2,1,good,0.0
+95421095,barrio El Carme,València,València,Ciutat Vella,es,El Carme,39.4769819,-0.3781246,655,4.0,800,penthouse,43,True,1,1,good,1.0
+95338288,Avenida Mare Nostrum,València,Alboraya,La Patacona,es,,39.4904412,-0.32759299999999997,4771,8.0,1250,flat,88,True,2,2,good,1.0
+25247817,"Calle Viver, 25",València,València,Rascanya,es,Sant Llorenç,39.4881146,-0.3639845,2205,3.0,875,flat,88,True,3,2,good,1.0
+90114796,Calle dels Jofrens,València,València,Ciutat Vella,es,El Mercat,39.4748068,-0.3762681,417,5.0,1300,studio,43,False,0,1,good,0.0
+95170324,Calle del Progrés,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4684377,-0.32987299999999997,4076,,1200,countryHouse,70,False,2,2,good,
+94907698,barrio Nou Moles,València,València,L'Olivereta,es,Nou Moles,39.472347,-0.39477619999999997,1511,1.0,790,flat,69,True,3,1,good,1.0
+94504816,barrio Soternes,València,València,L'Olivereta,es,Soternes,39.4684382,-0.4164983,3383,2.0,640,flat,97,True,3,2,good,1.0
+93941708,barrio La Petxina,València,València,Extramurs,es,La Petxina,39.4749343,-0.3902353,1193,5.0,1150,penthouse,96,True,2,2,good,1.0
+93896864,barrio El Mercat,València,València,Ciutat Vella,es,El Mercat,39.4754849,-0.3792036,513,1.0,1250,flat,78,True,2,2,good,0.0
+93709904,Calle Conde de Salvatierra,València,València,L'Eixample,es,El Pla del Remei,39.470338,-0.3667353,905,6.0,700,flat,80,False,1,1,good,1.0
+87026121,bailen,València,València,Extramurs,es,La Roqueta,39.4669007,-0.3774897,469,1.0,1000,flat,98,True,3,2,good,1.0
+89112698,Calle del Poeta Llombart,València,València,Ciutat Vella,es,El Mercat,39.4742704,-0.37678659999999997,352,4.0,1333,flat,60,False,1,1,good,1.0
+90560508,Calle Berenguer Montoliu,València,València,Poblats Marítims,es,Playa de la Malvarrosa,39.482379,-0.3281872,4391,3.0,700,flat,65,True,2,1,good,0.0
+89425470,"Calle San Vicente Martír, 35",València,València,Ciutat Vella,es,Sant Francesc,39.471427,-0.3773091,34,10.0,900,penthouse,97,True,4,1,good,1.0
+89131459,barrio Aiora,València,València,Camins al Grau,es,Aiora,39.466839,-0.3524672,2178,2.0,1000,flat,77,False,2,1,good,1.0
+95757600,barrio Trinitat,València,València,La Saïdia,es,Trinitat,39.4825563,-0.36802579999999996,1497,2.0,600,flat,86,True,3,1,good,1.0
+95515265,barrio Gran Vía,València,València,L'Eixample,es,Gran Vía,39.4673789,-0.3669675,974,2.0,800,flat,91,False,4,1,good,1.0
+88817181,barrio La Xerea,València,València,Ciutat Vella,es,La Xerea,39.4762053,-0.3734962,649,3.0,1100,duplex,90,True,1,2,good,1.0
+95711992,barrio Malilla,València,València,Quatre Carreres,es,Malilla,39.4556131,-0.3782297,1726,4.0,580,flat,60,True,1,1,good,1.0
+40258916,barrio Arrancapins,València,València,Extramurs,es,Arrancapins,39.4685355,-0.3854879,764,9.0,700,penthouse,50,False,1,1,good,1.0
+95627952,barrio Sant Pau,València,València,Campanar,es,Sant Pau,39.4905328,-0.400703,2951,6.0,900,flat,94,True,2,2,good,1.0
+95621234,"Calle Editor Manuel Aguilar, El Mercat",València,València,Ciutat Vella,es,El Mercat,39.4721535,-0.3789897,189,3.0,1000,flat,95,False,3,2,good,1.0
+95603207,Calle de la Reina,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4712998,-0.3281686,4211,2.0,790,flat,65,True,3,1,good,0.0
+95593914,Calle de Suīssa,València,València,Quatre Carreres,es,La Punta,39.4548754,-0.3396672,3696,4.0,950,flat,75,True,2,1,good,1.0
+95591042,Avenida d'Ausiàs March,València,València,Quatre Carreres,es,En Corts,39.4528389,-0.3731209,2063,7.0,870,flat,91,True,4,1,good,1.0
+95590989,Calle de Josep Benlliure,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4632657,-0.3324608,3941,2.0,550,flat,53,False,2,1,good,0.0
+95588550,Calle de Carme Crespo,València,València,Benimaclet,es,Benimaclet,39.4839194,-0.359072,2110,1.0,700,flat,70,True,2,1,good,0.0
+95587106,Avenida Ausiás March,València,València,Quatre Carreres,es,En Corts,39.4551389,-0.3723209,1826,7.0,990,flat,100,True,4,1,good,1.0
+95570880,barrio El Cabanyal-El Canyamelar,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4748998,-0.3298686,4087,1.0,790,flat,70,False,3,1,good,1.0
+92156499,Av. del Cid,València,València,L'Olivereta,es,Soternes,39.4694597,-0.4143306,3189,4.0,550,flat,75,True,2,1,good,1.0
+95543417,BENICARLO,València,València,Benimaclet,es,Benimaclet,39.485659,-0.3629946,2026,3.0,800,flat,86,True,3,2,good,1.0
+91353889,Calle Archena,València,València,L'Olivereta,es,Soternes,39.4725621,-0.404502,2345,3.0,600,flat,80,True,2,1,good,1.0
+91219135,Calle de la Reina,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4710998,-0.32676859999999996,4331,2.0,790,flat,67,True,3,1,good,0.0
+95505317,barrio La Roqueta,València,València,Extramurs,es,La Roqueta,39.4640377,-0.3794036,809,3.0,950,flat,97,True,4,1,good,1.0
+95474882,Hospital,València,València,Ciutat Vella,es,El Pilar,39.4694536,-0.38313739999999996,539,3.0,700,flat,65,True,2,1,good,1.0
+95383665,Calle de Bernat Descoll,València,València,Quatre Carreres,es,Malilla,39.4498776,-0.3782676,2363,7.0,750,flat,93,True,3,2,good,1.0
+94861026,Calle del Músic Peydró,València,València,Ciutat Vella,es,El Mercat,39.4717163,-0.3766052,85,1.0,700,flat,54,True,1,1,good,1.0
+28046282,Avenida Blasco Ibañez,València,València,Algirós,es,La Vega Baixa,39.4729287,-0.34802079999999996,2515,4.0,675,flat,56,True,1,1,good,1.0
+94596787,MARINA ALTA,València,València,Campanar,es,Sant Pau,39.4924711,-0.4029221,3239,3.0,1000,flat,65,True,1,1,good,1.0
+95265996,Calle Rodrigo de Pertegás,València,València,Camins al Grau,es,La Creu del Grau,39.4601254,-0.33988399999999996,3431,6.0,800,flat,90,True,2,1,good,1.0
+94092638,Calle del Matemàtico Marzal,València,València,Extramurs,es,La Roqueta,39.4675348,-0.3796218,448,3,850,flat,70,True,1,1,good,0.0
+91110829,Calle Doctor Juan José Dómine,València,València,Poblats Marítims,es,El Grau,39.4610422,-0.33102139999999997,4122,2,800,flat,100,True,3,2,renew,1.0
+82099745,Avenida Novelista Vicente Blasco Ibáñez,València,Alboraya,La Patacona,es,,39.487771,-0.3268355,4704,5,900,flat,72,True,2,1,good,1.0
+81568367,Mare Nostrum,València,Alboraya,La Patacona,es,,39.4902412,-0.325193,4946,2,900,flat,75,True,2,1,good,1.0
+38440493,Calle de cavite,València,València,Poblats Marítims,es,Playa de la Malvarrosa,39.475892,-0.3246668,4543,,2000,flat,75,False,2,1,good,
+36656937,Avenida Mare Nostrum,València,Alboraya,La Patacona,es,,39.4876105,-0.3251382,4832,bj,1200,flat,62,True,1,1,good,1.0
+95744779,Cardenal Benlloch,València,Mislata,Cardenal Benlloch,es,,39.47513,-0.42283329999999997,3938,3,650,flat,100,True,3,1,good,1.0
+95710132,Avenida de Francia,València,València,Camins al Grau,es,Penya-Roja,39.4604902,-0.3515442,2502,8,950,flat,95,True,2,2,good,1.0
+95655381,Calle Micer Mascó s/n,València,València,El Pla del Real,es,Exposició,39.4756191,-0.3631216,1310,2,900,flat,60,True,1,1,good,1.0
+95627727,barrio Nou Moles,València,València,L'Olivereta,es,Nou Moles,39.468121,-0.39293239999999996,1387,2,750,flat,92,True,2,1,good,0.0
+95557909,Calle del Mestre Sosa,València,València,Extramurs,es,Arrancapins,39.4620283,-0.38760259999999996,1346,3,750,flat,85,False,2,1,good,1.0
+95556796,"Calle de la Marina Alta, 10",València,València,Campanar,es,Sant Pau,39.4926524,-0.4034084,3282,2,1050,flat,100,True,3,2,good,1.0
+92961843,barrio La Vega Baixa,València,València,Algirós,es,La Vega Baixa,39.4758989,-0.3510217,2311,8,750,flat,80,True,2,1,good,1.0
+95443468,barrio El Cabanyal-El Canyamelar,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4728383,-0.3322425,3866,bj,1500,flat,60,True,1,1,good,1.0
+95432631,barrio El Cabanyal-El Canyamelar,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4705383,-0.3331425,3785,bj,1500,flat,50,True,1,1,good,0.0
+95394451,barrio Nou Benicalap,València,València,Benicalap,es,Nou Benicalap,39.4940397,-0.3879106,2707,bj,840,flat,88,True,2,2,good,1.0
+95290261,barrio El Carme,València,València,Ciutat Vella,es,El Carme,39.4763912,-0.3805694,651,5,960,duplex,80,True,2,2,good,0.0
+94812528,barrio El Botànic,València,València,Extramurs,es,El Botànic,39.4773004,-0.38567579999999996,998,4,750,flat,95,True,2,2,good,1.0
+94573122,barrio La Seu,València,València,Ciutat Vella,es,La Seu,39.47374,-0.3747373,361,,1600,flat,55,True,1,1,good,1.0
+93468717,barrio La Roqueta,València,València,Extramurs,es,La Roqueta,39.4672267,-0.3776517,434,1,1300,flat,93,False,3,2,good,1.0
+93468716,barrio La Roqueta,València,València,Extramurs,es,La Roqueta,39.4671267,-0.37885169999999996,465,3,1050,flat,93,False,3,2,good,1.0
+91690232,barrio El Carme,València,València,Ciutat Vella,es,El Carme,39.481362,-0.37823389999999996,1141,3,800,penthouse,60,True,1,1,good,0.0
+89090584,barrio El Grau,València,València,Poblats Marítims,es,El Grau,39.4608659,-0.3349295,3806,3,1500,flat,100,True,3,2,good,0.0
+95758939,Calle de Pepita,València,València,La Saïdia,es,Morvedre,39.4821864,-0.3759478,1235,5,650,flat,83,False,3,1,good,1.0
+95735326,Barracas,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4693848,-0.3305341,4013,4,650,flat,74,True,2,1,good,1.0
+95098769,Calle del Almirante Cadarso,València,València,L'Eixample,es,Gran Vía,39.465569,-0.3679614,1007,2,650,flat,50,True,1,1,good,1.0
+95728176,Calle de l'Hospital,València,València,Ciutat Vella,es,El Pilar,39.4691536,-0.38063739999999996,364,3,800,flat,56,True,2,2,good,1.0
+95726084,Calle de Don Juan de Austria,València,València,Ciutat Vella,es,Sant Francesc,39.469397,-0.3723067,464,2,750,flat,51,True,1,1,good,1.0
+95689662,"Calle de la Marina, 3",València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4727237,-0.3314011,3938,3,650,flat,50,True,1,1,good,0.0
+95648051,Jativa,València,València,Extramurs,es,La Roqueta,39.4691466,-0.3766541,225,3,600,flat,46,True,1,1,good,1.0
+95600581,barrio Mestalla,València,València,El Pla del Real,es,Mestalla,39.4701847,-0.3551098,1902,5,700,flat,64,True,2,1,good,1.0
+95597748,Calle de l'Escultor José Capuz,València,València,Quatre Carreres,es,Mont-Olivet,39.4592476,-0.3632397,1785,4,1000,flat,95,True,2,2,good,1.0
+38232477,"Calle de ciscar, 27",València,València,L'Eixample,es,Gran Vía,39.4659621,-0.3653994,1166,7,899,penthouse,90,True,2,1,good,1.0
+95540304,"Calle Marina Alta, 4",València,València,Campanar,es,Sant Pau,39.4909629,-0.4023211,3082,2,1050,flat,100,True,3,2,good,1.0
+88065871,barrio Sant Pau,València,València,Campanar,es,Sant Pau,39.4922694,-0.4028504,3218,bj,1100,flat,89,True,2,1,good,1.0
+95500504,barrio Sant Pau,València,València,Campanar,es,Sant Pau,39.4910085,-0.40436000000000005,3210,2,750,flat,76,True,2,2,good,1.0
+95499468,Calle de l'Escultor José Capuz,València,València,Quatre Carreres,es,Mont-Olivet,39.4608155,-0.36348339999999996,1645,4,1000,flat,100,True,2,2,good,1.0
+95495338,Calle de Platero Suarez,València,València,La Saïdia,es,Morvedre,39.4849444,-0.37363979999999997,1567,3,730,flat,80,True,3,1,good,0.0
+95489255,CREU ROJA s/n,València,Xirivella,Barrio de la Luz,es,,39.4625707,-0.4136718,3268,1,700,duplex,80,True,1,2,good,1.0
+95483739,Plaza Comunión de San Juan s/n,València,València,Ciutat Vella,es,El Mercat,39.4743723,-0.3796286,415,1,750,flat,70,True,2,1,good,1.0
+95468836,"Calle de Pelai, 17",València,València,Extramurs,es,La Roqueta,39.4666007,-0.3784954,514,1,730,flat,60,True,1,1,good,1.0
+95264251,"Cartagena, 5",València,València,L'Olivereta,es,Nou Moles,39.4705943,-0.3937274,1416,7,950,penthouse,78,True,2,1,good,1.0
+85974388,"Vicente Sancho Tello, 19",València,València,El Pla del Real,es,Mestalla,39.4697847,-0.35620979999999997,1810,5,750,flat,64,True,2,1,good,1.0
+95753079,barrio L'Hort de Senabre,València,València,Jesús,es,L'Hort de Senabre,39.4541848,-0.390354,2194,2,600,flat,63,False,1,1,good,0.0
+95747604,Calle Rodrigo de Pertegás,València,València,Camins al Grau,es,La Creu del Grau,39.4595971,-0.3456704,2997,2,650,flat,70,True,2,1,good,0.0
+95741707,"Calle Montesa, 9",València,València,Patraix,es,Barrio de Favara,39.4545828,-0.3924763,2256,4,625,flat,77,True,2,1,good,1.0
+95711138,WAKSMAN,València,València,Quatre Carreres,es,En Corts,39.454479,-0.3707418,1932,1,800,flat,85,True,2,2,good,0.0
+95675019,Calle Reverendo R Tramoyeres,València,València,Benimaclet,es,Benimaclet,39.486792,-0.36123659999999996,2218,5,785,flat,67,True,2,1,good,1.0
+93676738,"Avenida de las Cortes Valencianas, 26",València,València,Benicalap,es,Benicalap,39.4921435,-0.39992869999999997,3042,13,750,studio,55,True,0,1,good,1.0
+95627453,Calle del Mur de Santa Anna,València,València,Ciutat Vella,es,La Seu,39.4777199,-0.3758274,743,3,850,flat,58,False,1,1,good,1.0
+95596138,"Calle Palau, 7",València,València,Ciutat Vella,es,La Seu,39.4754722,-0.3736768,572,4,950,flat,95,True,2,1,good,0.0
+95551878,Calle CENTRO COMERCIAL GRAN TURIA,València,Xirivella,Barrio de la Luz,es,,39.4657507,-0.4124312,3079,bj,750,duplex,94,True,1,2,good,1.0
+95512158,"Calle Palau, 7",València,València,Ciutat Vella,es,La Seu,39.4754722,-0.3736768,572,4,950,flat,95,True,2,1,good,0.0
+36568059,"Calle de Ripalda, 32",València,València,Ciutat Vella,es,El Carme,39.4786893,-0.3819052,931,1,690,studio,65,True,0,1,good,0.0
+95448538,Calle del Progrés,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4693362,-0.3303229,4031,1,650,flat,43,True,1,1,good,0.0
+95409350,Calle dels Cavallers,València,València,Ciutat Vella,es,El Carme,39.4782966,-0.37808369999999997,800,1,970,flat,80,True,2,1,good,0.0
+94797185,"Calle de la Reina, 83",València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4673569,-0.32912379999999997,4150,,800,flat,70,True,3,1,good,0.0
+95301029,Calle d'Alzira,València,València,Extramurs,es,Arrancapins,39.4673835,-0.3867751,918,2,750,flat,75,True,3,1,good,1.0
+95288292,Calle del Doctor Lluch,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4647674,-0.32873369999999996,4222,,800,flat,40,True,1,1,good,0.0
+91759956,Calle del Pare Lluís Navarro,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.461393,-0.330631,4144,1,950,flat,70,True,2,1,good,0.0
+94922416,Paseo Serra d 'Espadá,València,Alboraya,La Patacona,es,,39.4881238,-0.3261812,4772,5,795,flat,64,False,1,1,good,1.0
+94789232,Avenida de la Malva-Rosa,València,València,Poblats Marítims,es,Playa de la Malvarrosa,39.4793833,-0.326138,4480,5,1000,flat,78,True,3,1,good,0.0
+94777934,Calle dels Cavallers,València,València,Ciutat Vella,es,El Carme,39.4757966,-0.3783837,528,1,970,flat,80,True,2,1,good,0.0
+94694481,Avenida de la Malva-Rosa,València,València,Poblats Marítims,es,Playa de la Malvarrosa,39.4826452,-0.3284453,4379,bj,800,flat,79,True,3,1,good,0.0
+94313951,Calle d'Antoni Reig i Ventura,València,València,Campanar,es,Nou Campanar,39.4807235,-0.4035603,2498,7,820,flat,95,False,2,2,good,1.0
+94098426,Calle Jorge Juan,València,València,L'Eixample,es,El Pla del Remei,39.4669517,-0.3673991,963,2,1300,flat,90,False,2,1,good,1.0
+94050105,Calle de l'Hort de Sant Valeri,València,València,Quatre Carreres,es,Na Rovella,39.4597551,-0.3582556,2062,1,1200,flat,100,True,2,2,good,1.0
+93304615,Calle Santa Genoveva Torres,València,València,Rascanya,es,Sant Llorenç,39.4927754,-0.360913,2785,14,1250,flat,100,True,3,2,good,1.0
+93176793,Calle del Pare Lluís Navarro,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4655189,-0.3281505,4259,1,800,flat,70,True,2,2,good,0.0
+92851757,Avenida Mare Nostrum,València,Alboraya,La Patacona,es,,39.4860735,-0.3250693,4775,1,1200,flat,54,True,1,1,good,1.0
+90553030,Calle de Méndez Núñez,València,València,Poblats Marítims,es,El Grau,39.4603163,-0.3374876,3617,3,850,flat,87,True,3,1,good,0.0
+88278274,Paseo Serra d 'Espadá,València,Alboraya,La Patacona,es,,39.48693,-0.3272,4640,bj,898,flat,77,True,1,1,good,1.0
+86742165,Calle Cirilo Amorós,València,València,L'Eixample,es,El Pla del Remei,39.4681884,-0.36515149999999996,1087,1,1100,flat,92,True,2,2,good,1.0
+86718014,Colón,València,València,L'Eixample,es,El Pla del Remei,39.4705267,-0.3726884,396,7,780,flat,75,False,1,1,good,1.0
+95756131,barrio Mestalla,València,València,El Pla del Real,es,Mestalla,39.4733459,-0.3530268,2092,2,575,flat,44,True,2,1,good,1.0
+95678223,Avenida de Burjassot,València,València,La Saïdia,es,Marxalenes,39.4843727,-0.38275359999999997,1547,2,845,flat,80,True,3,1,good,0.0
+95654855,Calle de Balmes,València,València,Ciutat Vella,es,El Pilar,39.4740608,-0.3795147,380,4,850,flat,100,True,4,1,good,1.0
+95618985,Blasco Ibañez,València,Mislata,La Constitución - Canaleta,es,,39.4714103,-0.4106514,2868,1,500,flat,84,True,2,1,good,1.0
+95524120,Avenida de Burjassot,València,València,La Saïdia,es,Marxalenes,39.4818727,-0.38135359999999996,1246,2,845,flat,80,True,3,1,good,1.0
+92035469,Calle de l'Arquitecte Alfaro,València,València,Poblats Marítims,es,El Grau,39.4623684,-0.33512719999999996,3743,2,700,flat,70,True,2,1,good,0.0
+95375128,Calle ANTONI REIG I VENTURA,València,València,Campanar,es,Nou Campanar,39.4833235,-0.4059603,2813,7,790,flat,66,True,2,2,good,1.0
+95347958,Calle del Cura Planelles,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4691319,-0.329325,4118,2,750,flat,68,True,3,1,good,0.0
+95350270,Olimpia Arozena Torres,València,València,L'Olivereta,es,Nou Moles,39.4694494,-0.39431469999999996,1477,2,750,flat,92,True,2,1,good,1.0
+95318700,Calle dels Adreçadors,València,València,Ciutat Vella,es,El Mercat,39.4712439,-0.37886139999999996,140,3,900,flat,90,True,3,1,good,1.0
+95121293,Calle del Literat Gabriel Miró,València,València,Extramurs,es,La Petxina,39.4737101,-0.3911551,1228,4,720,flat,75,True,2,1,good,1.0
+94836832,Calle Abén al Abbar,València,València,Camins al Grau,es,Albors,39.4674395,-0.3525953,2154,7,600,flat,51,True,2,1,good,1.0
+94554876,Archiduque Carlos,València,València,Patraix,es,Patraix,39.4641235,-0.3938847,1627,2,500,flat,71,True,2,1,good,1.0
+94180479,Calle de Pérez Pujol,València,València,Ciutat Vella,es,Sant Francesc,39.4691696,-0.3766736,222,5,875,flat,60,True,1,1,good,1.0
+93204538,Calle Calderón de la Barca,València,València,La Saïdia,es,Trinitat,39.4843049,-0.3667464,1720,3,1200,flat,55,True,2,1,good,1.0
+91610708,Avenida del Cardenal Benlloch,València,València,Algirós,es,L'Amistat,39.4736666,-0.35367909999999997,2041,1,780,flat,80,False,2,1,good,1.0
+95760179,barrio Morvedre,València,València,La Saïdia,es,Morvedre,39.4846864,-0.3760478,1511,5,675,flat,80,False,3,1,good,1.0
+95731588,barrio La Vega Baixa,València,València,Algirós,es,La Vega Baixa,39.4759989,-0.3535217,2106,,800,flat,80,False,2,1,good,1.0
+95659795,barrio Albors,València,València,Camins al Grau,es,Albors,39.4720305,-0.3544407,1959,4,610,flat,60,True,2,1,good,0.0
+95621182,Calle Pere Cabanes,València,València,Rascanya,es,Torrefiel,39.495765,-0.37873439999999997,2742,2,600,flat,80,True,2,1,good,1.0
+95573398,ALCALDE ALBORS,València,València,L'Olivereta,es,Nou Moles,39.4734616,-0.39527229999999997,1569,5,675,flat,65,False,3,1,good,1.0
+95398892,Calle de Alboraya,València,València,La Saïdia,es,Trinitat,39.4852661,-0.3690362,1722,3,675,flat,87,True,3,1,good,1.0
+94415028,Maestro Sosa,València,València,Extramurs,es,Arrancapins,39.4603563,-0.38852359999999997,1540,1,1300,flat,100,True,3,2,good,1.0
+94323522,Calle Poeta Artola,València,València,Algirós,es,La Vega Baixa,39.4753857,-0.3468577,2650,3,640,flat,70,True,1,1,good,1.0
+39691931,barrio El Mercat,València,València,Ciutat Vella,es,El Mercat,39.4753558,-0.37727869999999997,470,6,1650,flat,100,True,3,2,good,1.0
+95752823,barrio Morvedre,València,València,La Saïdia,es,Morvedre,39.4853864,-0.3756478,1591,5,675,flat,80,True,3,1,good,1.0
+89731792,La Constitución - Canaleta,València,Mislata,La Constitución - Canaleta,es,,39.4763317,-0.4182111,3564,bj,475,flat,43,True,1,1,good,0.0
+95624997,barrio Mont-Olivet,València,València,Quatre Carreres,es,Mont-Olivet,39.4617162,-0.36344139999999997,1579,3,725,flat,80,False,3,1,good,
+95623515,barrio La Creu del Grau,València,València,Camins al Grau,es,La Creu del Grau,39.46202,-0.3445377,2983,2,660,flat,63,True,2,1,good,1.0
+92481976,"Calle Barraca, 163",València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.469526,-0.3291248,4133,1,850,flat,60,True,1,1,good,0.0
+95613072,"Rubén Vela, 74",València,València,Quatre Carreres,es,En Corts,39.4530839,-0.37249129999999997,2046,7,950,flat,100,True,4,1,good,1.0
+95594411,Calle de Don Juan de Austria,València,València,Ciutat Vella,es,Sant Francesc,39.47028,-0.3732492,354,2,750,flat,40,True,1,1,good,1.0
+95583431,Calle Alfahuir,València,València,Rascanya,es,Sant Llorenç,39.4903636,-0.362129,2501,9,1150,flat,100,True,3,2,good,1.0
+95572805,"Calle Filipinas, 13",València,València,L'Eixample,es,Russafa,39.4602331,-0.3778149,1211,5,1000,penthouse,100,True,2,1,good,1.0
+95546630,barrio Patraix,València,València,Patraix,es,Patraix,39.4635282,-0.3904506,1414,5,830,flat,99,True,2,2,good,1.0
+95543630,barrio Nou Campanar,València,València,Campanar,es,Nou Campanar,39.4818738,-0.4034002,2543,2,950,flat,81,True,2,2,good,1.0
+95395755,"Calle Escultor Jose Capuz, 3",València,València,Quatre Carreres,es,Mont-Olivet,39.4619338,-0.3626602,1615,4,1050,flat,100,True,2,2,good,1.0
+95378060,Calle dels Sants Just i Pastor,València,València,Algirós,es,L'Illa Perduda,39.4649946,-0.33561959999999996,3636,5,650,flat,85,True,3,1,good,1.0
+95695653,Calle Carmen Crespo,València,València,Benimaclet,es,Benimaclet,39.4864194,-0.356272,2475,1,700,flat,64,True,2,1,good,1.0
+95695101,GIBRALTAR,València,València,L'Eixample,es,Russafa,39.4646091,-0.3771604,724,1,700,flat,70,True,2,1,good,1.0
+95619832,barrio La Seu,València,València,Ciutat Vella,es,La Seu,39.471644,-0.3764629,88,2,1350,flat,100,True,2,2,good,1.0
+95679327,barrio El Pilar,València,València,Ciutat Vella,es,El Pilar,39.4728263,-0.3814149,405,1,850,flat,72,False,1,2,good,1.0
+95670950,Calle de l'Hospital,València,València,Ciutat Vella,es,Sant Francesc,39.4709267,-0.3838958,571,1,500,studio,44,True,0,1,good,1.0
+83110818,barrio Nou Moles,València,València,L'Olivereta,es,Nou Moles,39.4711756,-0.39988759999999995,1944,8,650,penthouse,50,True,1,1,good,1.0
+95665702,País Valenciá,València,Mislata,País Valenciá,es,,39.4806141,-0.42307469999999997,4073,1,550,flat,78,False,3,1,good,0.0
+95653848,Calle de Conchita Piquer,València,València,Campanar,es,El Calvari,39.4886335,-0.3925507,2349,5,625,flat,72,True,3,1,good,1.0
+95648810,Calle Brasil,València,València,L'Olivereta,es,Nou Moles,39.4713938,-0.3974003,1730,2,700,flat,71,False,4,1,good,0.0
+95648365,Calle de Berni y Català,València,València,Rascanya,es,Torrefiel,39.4940135,-0.3770436,2545,2,850,flat,100,True,3,2,good,0.0
+95616617,"Pechina, 66",València,València,L'Olivereta,es,Nou Moles,39.4737493,-0.4012513,2081,5,900,penthouse,100,True,3,2,good,1.0
+95557795,Calle Salvador Giner,València,València,Ciutat Vella,es,El Carme,39.47971,-0.37947000000000003,973,3,1100,flat,90,True,3,2,good,1.0
+95498873,Calle la Guardia Civil,València,València,Benimaclet,es,Benimaclet,39.4799933,-0.3550319,2145,3,750,flat,100,True,3,2,good,1.0
+95437324,"Avenida de Francia, 55",València,València,Camins al Grau,es,Penya-Roja,39.4591591,-0.3453311,3044,5,799,flat,65,True,1,1,good,1.0
+95431375,barrio La Llum,València,València,L'Olivereta,es,La Llum,39.4658933,-0.4118177,3024,1,750,flat,84,True,2,2,good,1.0
+95428178,Calle de l'Hospital,València,València,Ciutat Vella,es,El Pilar,39.4708536,-0.38363739999999996,550,3,700,flat,55,True,2,2,good,1.0
+37293507,"Calle del mar, 5",València,València,Ciutat Vella,es,La Seu,39.474241,-0.37490209999999996,400,2,1400,flat,90,True,2,2,good,1.0
+95382420,"Calle Escultor José Capuz, 10",València,València,Quatre Carreres,es,Mont-Olivet,39.4615546,-0.362828,1631,5,1050,flat,100,True,2,2,good,1.0
+86289934,Calle de Don Juan de Austria,València,València,Ciutat Vella,es,Sant Francesc,39.4698872,-0.3743401,284,2,750,flat,50,True,1,2,good,1.0
+95214462,Calle del Triador,València,València,Ciutat Vella,es,El Pilar,39.4712244,-0.3812962,348,1,1050,flat,78,True,3,1,good,0.0
+95200218,barrio En Corts,València,València,Quatre Carreres,es,En Corts,39.4543899,-0.3734567,1888,7,675,flat,87,False,3,1,good,1.0
+39431179,barrio Mestalla,València,València,El Pla del Real,es,Mestalla,39.4714693,-0.3576025,1685,2,650,flat,57,True,1,1,good,1.0
+95168852,Calle del Doctor Gil i Morte,València,València,Extramurs,es,Arrancapins,39.463062,-0.3807407,945,5,900,flat,95,True,3,1,good,1.0
+94963074,barrio Vara de Quart,València,València,Patraix,es,Vara de Quart,39.4638871,-0.3966877,1853,4,750,flat,98,False,4,2,good,1.0
+85139820,"Calle de las Monjas de Santa Catalina, Valencia s/n Valencia",València,València,Ciutat Vella,es,Sant Francesc,39.4709944,-0.3718312,464,4,899,flat,70,True,1,1,good,1.0
+83755688,"Calle Rosario, 10",València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.463574,-0.3317518,3993,5,999,duplex,85,True,2,2,good,1.0
+94177536,"Calle de Esteban Ballester, 12",València,València,Poblats Marítims,es,Beteró,39.4728891,-0.3361358,3533,3,800,flat,84,True,4,1,good,1.0
+95698509,OLIMPIA AROCENA TORRES,València,València,L'Olivereta,es,Nou Moles,39.4691026,-0.39489409999999997,1532,2,750,flat,92,True,2,1,good,0.0
+95698476,Santa Genoveva Torres,València,València,Rascanya,es,Sant Llorenç,39.4903221,-0.36479429999999996,2386,9,1150,flat,100,True,3,2,good,1.0
+91396256,Calle de Don Juan de Austria,València,València,Ciutat Vella,es,Sant Francesc,39.468397,-0.3748067,367,2,750,flat,50,True,1,1,good,0.0
+95693940,Avenida MALVARROSA,València,València,Poblats Marítims,es,Playa de la Malvarrosa,39.479814,-0.3271196,4408,4,700,flat,78,True,2,1,good,1.0
+88445939,Calle de la Reina,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4746294,-0.3297931,4090,1,850,flat,72,True,2,1,good,0.0
+95630345,Calle Pintor Orrente,València,Benimàmet,,es,,39.5028285,-0.41422739999999997,4743,4,550,flat,70,True,3,1,good,0.0
+34356677,Calle de fontanars dels alforins,València,València,Patraix,es,Patraix,39.4599526,-0.3901358,1663,5,790,flat,90,True,3,2,good,1.0
+95544188,Calle columbretes,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4695651,-0.32853699999999997,4183,3,650,flat,82,True,2,1,good,0.0
+95467058,Malvarrosa,València,València,Poblats Marítims,es,Playa de la Malvarrosa,39.4817107,-0.3264584,4514,3,750,flat,59,True,1,1,good,1.0
+83217236,"Calle Barraca, Valencia, 1",València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4638141,-0.3300045,4134,1,850,flat,95,True,3,1,good,0.0
+95225120,"Calle Eixarchs, 20",València,València,Ciutat Vella,es,El Mercat,39.4744658,-0.3809189,487,1,875,studio,30,False,0,1,good,1.0
+95223952,"Calle Santa Genoveva Torres, 2",València,València,Rascanya,es,Sant Llorenç,39.4949131,-0.3617223,2961,9,1150,flat,100,True,3,2,good,1.0
+91364521,"Calle d'En Llopis, 2",València,València,Ciutat Vella,es,La Seu,39.4780506,-0.37324959999999996,842,1,550,flat,45,True,1,1,good,1.0
+95098355,"Mediterrani, 17",València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4678202,-0.32960049999999996,4105,1,850,flat,66,False,2,2,good,0.0
+95087455,barrio Campanar,València,València,Campanar,es,Campanar,39.4807885,-0.40125489999999997,2324,1,850,flat,100,True,3,1,good,0.0
+83879204,"Calle Barraca, Valencia, 67",València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.466302,-0.32967189999999996,4117,2,800,flat,70,True,2,1,good,0.0
+94380167,"peris y valero, 90",València,València,Quatre Carreres,es,En Corts,39.4589012,-0.3703571,1481,2,850,flat,79,True,2,2,good,1.0
+87768803,"Calle de San Rafael, 34",València,València,Poblats Marítims,es,Playa de la Malvarrosa,39.4786218,-0.32825309999999996,4286,2,670,flat,56,True,3,1,good,0.0
+93258720,"Calle Mendizábal, 31",València,València,Poblats Marítims,es,Playa de la Malvarrosa,39.4836925,-0.32804829999999996,4446,1,800,flat,76,True,3,1,good,0.0
+30858719,"Avenida de Pérez Galdós, 77",València,València,L'Olivereta,es,Nou Moles,39.468257,-0.3912988,1248,6,550,flat,50,False,1,1,good,1.0
+88845136,"AV. DEL PUERTO, 231",València,València,Poblats Marítims,es,El Grau,39.4617306,-0.3378871,3535,1,750,flat,80,True,1,1,good,1.0
+95753685,barrio Sant Pau,València,València,Campanar,es,Sant Pau,39.4890622,-0.4015648,2887,3,900,flat,84,True,2,2,good,1.0
+95740872,ARQUITECTO ARNAU,València,València,Benimaclet,es,Benimaclet,39.4858595,-0.35761539999999997,2349,3,650,flat,75,True,2,1,good,1.0
+34305287,Calle d'astúries,València,València,Camins al Grau,es,Camí Fondo,39.4622185,-0.35120219999999996,2444,2,600,flat,70,True,3,1,good,0.0
+95653759,reina,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4745998,-0.3264686,4374,2,790,flat,65,True,3,1,good,0.0
+95640253,Calle de Vicent Sancho Tello,València,València,El Pla del Real,es,Mestalla,39.471584,-0.3552304,1889,5,750,flat,75,True,2,1,good,1.0
+95615771,Calle de Pedro Cabanes,València,València,Rascanya,es,Torrefiel,39.494165,-0.3754344,2566,2,600,flat,85,True,2,1,good,1.0
+95613736,Calle de Matías Perelló,València,València,L'Eixample,es,Russafa,39.4632977,-0.3690889,1116,2,800,flat,80,False,2,1,good,1.0
+95592803,Zona Aragón s/n,València,València,El Pla del Real,es,Mestalla,39.4709126,-0.3576437,1681,7,630,studio,40,True,0,1,good,1.0
+89423896,Paseo ALAMEDA,València,València,Camins al Grau,es,Penya-Roja,39.4570755,-0.3419045,3411,3,775,flat,75,True,1,1,good,1.0
+95538457,Calle de la Marina Baixa,València,València,Campanar,es,Sant Pau,39.4933765,-0.40577009999999997,3481,1,1200,flat,75,True,2,1,good,1.0
+88838103,Calle de Tramoyeres,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4738939,-0.3293337,4123,5,650,flat,84,True,3,2,good,1.0
+95518289,hospital,València,València,Ciutat Vella,es,Sant Francesc,39.4690945,-0.3848726,693,3,700,flat,60,True,2,2,good,1.0
+95517827,"Calle Santa Genoveva Torres, 2",València,València,Rascanya,es,Sant Llorenç,39.4949131,-0.3617223,2961,9,1150,flat,100,True,3,2,good,1.0
+90502608,Calle de Xulilla,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4661472,-0.3256767,4460,2,900,flat,80,True,2,1,good,0.0
+95407958,Calle Antonio Ponz,València,València,Poblats Marítims,es,Playa de la Malvarrosa,39.4820124,-0.3250849,4636,,700,flat,65,True,3,1,good,0.0
+95343949,barrio El Mercat,València,València,Ciutat Vella,es,El Mercat,39.4732439,-0.37776139999999997,240,3,900,flat,80,True,3,1,good,1.0
+95114770,Calle Antonio Ponz,València,València,Poblats Marítims,es,Playa de la Malvarrosa,39.4820439,-0.3256706,4589,3,600,flat,75,True,3,1,good,0.0
+95082959,Avenida del Port,València,València,El Pla del Real,es,Mestalla,39.465252,-0.3583348,1748,,575,flat,50,True,1,1,good,1.0
+94918617,Avenida del Primado Reig,València,València,La Saïdia,es,Trinitat,39.4835938,-0.36328000000000005,1832,1,750,flat,82,True,4,1,good,1.0
+94810445,Calle Don Juan de Austria,València,València,Ciutat Vella,es,Sant Francesc,39.4717189,-0.3715556,492,4,600,studio,42,True,0,1,good,1.0
+94153848,Calle del Pintor Maella,València,València,Camins al Grau,es,La Creu del Grau,39.4640556,-0.3460785,2787,5,800,flat,85,True,2,2,good,1.0
+35545532,barrio Sant Francesc,València,València,Ciutat Vella,es,Sant Francesc,39.4714839,-0.37664519999999996,64,5,875,penthouse,60,True,1,2,good,1.0
+33851575,barrio Ciutat de les Arts i de les Ciencies,València,València,Quatre Carreres,es,Ciutat de les Arts i de les Ciencies,39.45685,-0.35957000000000006,2195,1,780,flat,60,True,1,1,good,1.0
+95757387,Calle de Rodrigo de Pertegás,València,València,Camins al Grau,es,La Creu del Grau,39.4622971,-0.3444704,2978,2,650,flat,60,False,2,1,good,1.0
+95756037,Avenida del Puerto,València,València,El Pla del Real,es,Mestalla,39.467452,-0.3579348,1706,5,575,flat,45,True,1,1,good,1.0
+95750606,barrio Morvedre,València,València,La Saïdia,es,Morvedre,39.4823864,-0.3760478,1256,5,675,flat,83,True,3,1,good,1.0
+94271065,barrio Russafa,València,València,L'Eixample,es,Russafa,39.458089,-0.3705482,1558,3,850,flat,62,True,2,1,good,1.0
+95735124,barrio Torrefiel,València,València,Rascanya,es,Torrefiel,39.4972695,-0.3712601,2952,2,600,flat,85,True,2,1,good,1.0
+95728924,barrio Malilla,València,València,Quatre Carreres,es,Malilla,39.4547386,-0.3761315,1824,2,950,flat,95,True,2,2,good,1.0
+95717896,barrio Russafa,València,València,L'Eixample,es,Russafa,39.4627215,-0.3675636,1249,2,800,flat,80,True,2,1,good,1.0
+95702179,barrio La Petxina,València,València,Extramurs,es,La Petxina,39.4731697,-0.38731889999999997,894,3,720,flat,80,True,3,1,good,1.0
+95693949,"Calle de Higinio Noja, 25",València,València,Camins al Grau,es,La Creu del Grau,39.461874,-0.3460741,2865,2,650,flat,62,False,2,1,good,0.0
+95661203,barrio Exposició,València,València,El Pla del Real,es,Exposició,39.4756016,-0.364695,1186,5,900,flat,60,True,1,1,good,1.0
+95660905,barrio El Cabanyal-El Canyamelar,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4741907,-0.33029339999999996,4043,,650,flat,50,True,1,1,good,0.0
+95659615,barrio Penya-Roja,València,València,Camins al Grau,es,Penya-Roja,39.4569712,-0.342318,3385,3,750,flat,80,True,1,1,good,1.0
+95583614,barrio Safranar,València,València,Patraix,es,Safranar,39.455119,-0.3980497,2521,2,650,flat,59,True,1,1,good,1.0
+95600674,barrio En Corts,València,València,Quatre Carreres,es,En Corts,39.4595065,-0.370753,1406,2,1000,penthouse,60,True,1,2,good,0.0
+95600669,barrio El Cabanyal-El Canyamelar,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4639674,-0.3279337,4306,bj,800,flat,40,True,1,1,good,0.0
+95600524,barrio Sant Pau,València,València,Campanar,es,Sant Pau,39.4917711,-0.40172209999999997,3112,2,1050,flat,100,True,3,2,good,0.0
+95600405,barrio Fonteta de Sant Lluìs,València,València,Quatre Carreres,es,Fonteta de Sant Lluìs,39.4471374,-0.36883669999999996,2762,7,870,flat,100,True,4,1,good,1.0
+95599826,barrio Benimaclet,València,València,Benimaclet,es,Benimaclet,39.4873713,-0.35936579999999996,2369,1,700,flat,70,True,2,1,good,0.0
+95597797,barrio Malilla,València,València,Quatre Carreres,es,Malilla,39.4503477,-0.3781099,2311,,900,flat,70,True,2,1,good,1.0
+95564979,barrio Playa de la Malvarrosa,València,València,Poblats Marítims,es,Playa de la Malvarrosa,39.4737133,-0.32466839999999997,4521,2,750,flat,65,True,1,1,good,0.0
+95564773,barrio Penya-Roja,València,València,Camins al Grau,es,Penya-Roja,39.4576902,-0.34854419999999997,2880,11,1300,flat,50,True,1,1,good,0.0
+95542276,barrio Sant Antoni,València,València,La Saïdia,es,Sant Antoni,39.4880272,-0.3726683,1920,,800,flat,96,True,2,1,good,1.0
+95527710,barrio Mont-Olivet,València,València,Quatre Carreres,es,Mont-Olivet,39.4597268,-0.3658746,1599,5,695,flat,75,True,2,1,good,1.0
+95514579,barrio Sant Antoni,València,València,La Saïdia,es,Sant Antoni,39.4883594,-0.3724496,1960,2,650,flat,95,True,3,1,good,1.0
+95511446,Musico peydro,València,València,Ciutat Vella,es,El Mercat,39.4707899,-0.3781807,89,1,650,studio,55,False,0,1,good,0.0
+95054431,barrio Beteró,València,València,Poblats Marítims,es,Beteró,39.47031,-0.33630099999999996,3514,2,750,flat,85,True,3,2,good,0.0
+83826654,barrio Sant Francesc,València,València,Ciutat Vella,es,Sant Francesc,39.4680053,-0.3774628,347,8,2500,penthouse,90,True,2,1,good,1.0
+90996686,barrio Sant Francesc,València,València,Ciutat Vella,es,Sant Francesc,39.4698464,-0.3746274,265,8,2500,penthouse,92,True,2,1,good,1.0
+95756034,LUIS OLIAG,València,València,Quatre Carreres,es,Mont-Olivet,39.4625684,-0.3637222,1500,3,650,flat,78,True,1,1,good,1.0
+95756451,blanquearías,València,València,Ciutat Vella,es,El Carme,39.4813611,-0.3788506,1146,1,1100,flat,98,True,3,1,good,0.0
+95749780,barrio Morvedre,València,València,La Saïdia,es,Morvedre,39.4857864,-0.3776478,1630,5,675,flat,80,True,3,1,good,1.0
+95730251,Calle Bisbe Albalat,València,València,Rascanya,es,Torrefiel,39.4945186,-0.3712579,2651,bj,570,flat,75,True,3,1,good,0.0
+92394097,Gran Vía del Marqués del Turia,València,València,L'Eixample,es,Gran Vía,39.4668604,-0.3742737,537,1,800,flat,75,True,1,1,good,1.0
+95720462,barrio Trinitat,València,València,La Saïdia,es,Trinitat,39.4809356,-0.3705563,1232,4,650,flat,80,True,3,1,good,1.0
+95065195,Calle de l'Arxiduc Carles,València,València,Patraix,es,Patraix,39.4629843,-0.3950413,1776,2,675,flat,70,False,2,1,good,1.0
+95556996,barrio Sant Francesc,València,València,Ciutat Vella,es,Sant Francesc,39.4667783,-0.3750109,519,1,650,flat,40,True,1,1,good,0.0
+95541130,barrio El Cabanyal-El Canyamelar,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4713998,-0.3284686,4186,2,790,flat,67,True,3,1,good,0.0
+95499377,Los Juzgados,València,Mislata,Los Juzgados,es,,39.4689377,-0.4173175,3448,3,650,flat,75,False,2,1,good,1.0
+789418,barrio Sant Llorenç,València,València,Rascanya,es,Sant Llorenç,39.4958001,-0.3616759,3051,7,850,flat,100,True,3,2,good,1.0
+95277861,barrio El Pla del Remei,València,València,L'Eixample,es,El Pla del Remei,39.4676476,-0.37169179999999996,613,1,800,flat,65,True,1,1,good,1.0
+95258788,Avenida arocena torres s/n,València,València,L'Olivereta,es,Nou Moles,39.470474,-0.3964561,1651,2,750,flat,92,True,2,1,good,1.0
+84147943,"Barraca, 266",València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4730114,-0.3283585,4200,1,875,chalet,80,False,2,1,good,
+85469593,Calle Acequia Cadena,València,València,Poblats Marítims,es,Playa de la Malvarrosa,39.4755516,-0.32503719999999997,4507,1,750,flat,72,True,1,1,good,1.0
+26898170,"Calle Almas, 5",València,València,Ciutat Vella,es,Sant Francesc,39.469294,-0.3784288,227,1,900,flat,98,True,2,1,good,1.0
+92221641,Calle Reverendo José Pinazo,València,València,Benimaclet,es,Benimaclet,39.4866454,-0.3623319,2148,5,750,flat,80,True,3,1,good,1.0
+37593815,Avenida Mare Nostrum,València,Alboraya,La Patacona,es,,39.4885735,-0.3263693,4777,1,1200,flat,62,True,1,1,good,1.0
+84053387,barrio La Petxina,València,València,Extramurs,es,La Petxina,39.474379,-0.3941749,1498,3,750,flat,70,True,2,1,good,1.0
+95590327,barrio Malilla,València,València,Quatre Carreres,es,Malilla,39.4504044,-0.380957,2325,6,850,flat,70,False,2,1,good,1.0
+95589987,Calle de la Reina,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4710366,-0.3294263,4103,2,790,flat,67,True,3,1,good,0.0
+86441796,GUILLEM DE CASTRO,València,Burjassot,El Castell,es,,39.5056391,-0.4110134,4809,4,475,flat,60,True,3,1,good,0.0
+95450799,Cardenal Benlloch,València,Mislata,Cardenal Benlloch,es,,39.4718557,-0.42215969999999997,3856,4,600,flat,97,False,3,2,good,1.0
+95304264,cardenall benlloch,València,València,El Pla del Real,es,Mestalla,39.4716422,-0.3544901,1953,6,850,flat,75,True,1,1,good,1.0
+95289740,Olimpia Arozena Torres,València,València,L'Olivereta,es,Nou Moles,39.4709494,-0.3936147,1405,2,750,flat,92,True,2,1,good,0.0
+91587605,"Calle de la Visitación, 3",València,València,La Saïdia,es,Morvedre,39.4832167,-0.37731509999999996,1344,bj,875,studio,50,False,0,2,good,1.0
+95225073,"Calle Eixarchs, 20",València,València,Ciutat Vella,es,El Mercat,39.4744658,-0.3809189,487,3,1100,flat,40,True,1,1,good,1.0
+95166323,barrio Mont-Olivet,València,València,Quatre Carreres,es,Mont-Olivet,39.4594988,-0.36414369999999996,1712,4,1050,flat,100,True,12,2,good,0.0
+90884155,"Obispos San Jerónimo, 5",València,València,Ciutat Vella,es,El Carme,39.4769878,-0.37765289999999996,653,bj,700,flat,50,True,1,1,good,1.0
+39088244,barrio Benicalap,València,València,Benicalap,es,Benicalap,39.4913565,-0.3927041,2612,4,550,flat,92,True,1,1,good,1.0
+94937768,barrio L'Hort de Senabre,València,València,Jesús,es,L'Hort de Senabre,39.4529975,-0.38914499999999996,2259,2,725,flat,95,True,3,2,good,1.0
+94843297,barrio Malilla,València,València,Quatre Carreres,es,Malilla,39.4464507,-0.3779218,2743,3,665,flat,95,True,4,2,good,1.0
+94535685,Calle de Sueca,València,València,L'Eixample,es,Russafa,39.4587884,-0.3744285,1392,1,1000,flat,90,True,3,1,good,1.0
+93738244,"Calle El Santo Caliz, 1",València,València,Ciutat Vella,es,La Seu,39.4757267,-0.37562049999999997,530,1,890,flat,60,True,1,1,good,0.0
+92893033,Calle de Mossèn Femades,València,València,Ciutat Vella,es,Sant Francesc,39.4698076,-0.3762387,169,3,1000,studio,58,True,0,1,good,1.0
+92097360,"Calle Doctor Lluch, 199",València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4708205,-0.3279604,4229,1,800,flat,60,True,1,1,good,1.0
+91774613,"C/Salvador, 7",València,València,Ciutat Vella,es,La Seu,39.477198,-0.37404719999999997,728,1,1050,flat,78,True,2,2,good,1.0
+91693198,"Avenida de Peris i Valero, 99",València,València,L'Eixample,es,Russafa,39.4591895,-0.3707839,1437,2,1550,flat,96,True,3,2,good,1.0
+91278658,"Avenida Tres Forques, 8",València,València,Patraix,es,Patraix,39.4643827,-0.3893412,1281,6,1000,flat,85,True,3,1,good,1.0
+95674539,Calle Buen Orden,València,València,Extramurs,es,Arrancapins,39.4696917,-0.3887728,1002,9,750,penthouse,45,True,1,1,good,1.0
+95641955,Olimpia Arozena Torres,València,València,L'Olivereta,es,Nou Moles,39.4707007,-0.3938897,1430,2,750,flat,92,True,2,1,good,0.0
+95634723,Calle Islas Canarias,València,València,Camins al Grau,es,La Creu del Grau,39.4596106,-0.3397463,3463,2,680,flat,85,True,3,1,good,1.0
+37635062,Gran Via del Marqués del Túria,València,València,L'Eixample,es,Gran Vía,39.463616,-0.3713955,973,1,800,flat,70,True,1,1,good,1.0
+95601964,Calle del Padre Esteban Pernet,València,València,L'Olivereta,es,La Llum,39.4660352,-0.412589,3086,2,695,flat,85,True,2,2,good,1.0
+95572587,Pintor Maella,València,València,Camins al Grau,es,Penya-Roja,39.4598544,-0.34885649999999996,2739,6,850,flat,82,True,3,1,good,1.0
+95556839,padre esteban pernet,València,València,L'Olivereta,es,La Llum,39.4672352,-0.413889,3175,3,695,flat,85,True,2,2,good,1.0
+95514598,Avenida de la Malvarrosa,València,València,Poblats Marítims,es,Playa de la Malvarrosa,39.4789445,-0.32945989999999997,4191,2,750,flat,65,True,1,1,good,1.0
+95512047,Av.Cortes Valencianas,València,València,Campanar,es,Sant Pau,39.489127,-0.3997691,2783,19,1290,penthouse,80,True,2,2,good,1.0
+91223569,"Calle de la Reina, Cabanyal",València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4698981,-0.3283587,4197,2,790,flat,70,True,3,1,good,0.0
+95468210,Calle doctor lluch,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4672437,-0.3299467,4081,2,1600,flat,60,True,2,1,good,0.0
+95468159,Calle Doctor Lluch,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4701437,-0.3271467,4300,1,1700,flat,75,True,2,1,good,0.0
+95316492,Calle Rector Zaragoza,València,València,Benimaclet,es,Benimaclet,39.4885472,-0.3586482,2509,2,780,flat,70,True,1,1,good,1.0
+95193755,Calle de la Serrania,València,València,Campanar,es,Sant Pau,39.4917143,-0.4019505,3120,7,750,flat,73,True,1,1,good,1.0
+90114798,Calle dels Jofrens,València,València,Ciutat Vella,es,El Mercat,39.4715068,-0.37596809999999997,116,5,1200,studio,43,False,0,1,good,0.0
+95097256,Calle de Baix,València,València,Ciutat Vella,es,El Carme,39.4769789,-0.3785666,661,1,650,flat,73,True,1,1,good,1.0
+94926442,barrio Benimaclet,València,València,Benimaclet,es,Benimaclet,39.4829624,-0.3626848,1814,1,800,flat,90,False,3,1,good,1.0
+89258673,Calle del Doctor Lluch,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4720205,-0.3269604,4316,2,935,flat,70,False,1,1,good,1.0
+89630218,Calle del Doctor Lluch,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4716205,-0.3295604,4092,2,900,flat,70,False,1,1,good,1.0
+86224343,"Calle Balmes, 21",València,València,Ciutat Vella,es,El Pilar,39.4734492,-0.3820433,486,4,950,penthouse,64,True,1,1,good,1.0
+91135911,Calle del Periodista Gil Sumbiela,València,València,Benicalap,es,Benicalap,39.4929189,-0.389891,2655,4,800,flat,80,True,3,1,good,1.0
+95659724,barrio El Pilar,València,València,Ciutat Vella,es,El Pilar,39.4695536,-0.3812374,385,3,700,flat,55,True,2,2,good,1.0
+95655093,Calle del Mar,València,València,Ciutat Vella,es,La Xerea,39.4735215,-0.36939259999999996,724,6,650,flat,35,True,1,1,good,1.0
+95605631,Plaza Clara Campoamor,València,Burjassot,El Castell,es,,39.5029235,-0.4057132,4298,1,625,flat,77,True,2,1,good,1.0
+95581022,Benimàmet,València,Benimàmet,,es,,39.5024285,-0.41672739999999997,4857,4,550,flat,70,False,3,1,good,0.0
+95581011,Calle de Vicent Sancho Tello,València,València,El Pla del Real,es,Mestalla,39.4683847,-0.3546098,1965,4,750,flat,87,False,2,1,good,1.0
+95567636,"Calle Creu Roja, 1",València,València,Patraix,es,Vara de Quart,39.4606215,-0.41242599999999996,3238,bj,750,duplex,100,True,0,2,good,1.0
+88814052,juan verdeguer s/n,València,València,Poblats Marítims,es,El Grau,39.4587831,-0.33616809999999997,3782,1,660,flat,60,True,2,1,good,0.0
+95553657,barrio Trinitat,València,València,La Saïdia,es,Trinitat,39.4867167,-0.362558,2143,2,680,studio,55,False,0,1,good,1.0
+38166412,Avenida del Cid,València,València,L'Olivereta,es,Nou Moles,39.4705832,-0.402315,2153,1,525,flat,45,False,1,1,good,1.0
+95511345,Calle de na Jordana,València,València,Ciutat Vella,es,El Carme,39.478081,-0.3791361,790,bj,1200,flat,82,False,2,2,good,0.0
+95475115,Calle Escultor José Capuz,València,València,Quatre Carreres,es,Mont-Olivet,39.4592476,-0.3612397,1905,4,1050,flat,100,True,2,2,good,1.0
+95469966,Calle del Historiador Sanchis Sivera,València,València,Extramurs,es,Arrancapins,39.4674201,-0.3872239,950,8,750,flat,65,False,2,1,good,1.0
+95450746,Olimpia Arozena Torres,València,València,L'Olivereta,es,Nou Moles,39.4719494,-0.39531469999999996,1554,2,750,flat,97,True,2,1,good,0.0
+95343951,olimpia arozena torres,València,València,L'Olivereta,es,Nou Moles,39.4689338,-0.393897,1450,2,750,flat,92,False,2,1,good,0.0
+95337064,Calle del Rincón de Ademuz,València,València,L'Olivereta,es,Nou Moles,39.4738538,-0.40265259999999997,2202,1,615,flat,80,False,2,1,good,1.0
+95289384,"Calle Creu Roja, 1",València,València,Patraix,es,Vara de Quart,39.4606215,-0.41242599999999996,3238,1,750,duplex,88,True,1,1,good,1.0
+95166048,Calle Carrícola,València,València,Jesús,es,La Creu Coberta,39.4514742,-0.38575689999999996,2303,2,650,flat,70,True,2,1,good,1.0
+95016720,Calle Santander,València,València,Jesús,es,L'Hort de Senabre,39.4526845,-0.3912112,2375,bj,650,flat,92,True,2,1,good,1.0
+94919729,Calle Santa Genoveva Torres,València,València,Rascanya,es,Sant Llorenç,39.4952526,-0.3640405,2912,3,750,flat,80,True,2,2,good,1.0
+94442430,Calle de Josep Benlliure,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4639038,-0.3294053,4183,5,700,flat,90,True,3,2,good,1.0
+92694137,Calle del Almirante Cadarso,València,València,L'Eixample,es,Gran Vía,39.4639187,-0.3658636,1262,1,850,flat,80,True,2,1,good,1.0
+92088811,Mare Nostrum,València,Alboraya,La Patacona,es,,39.4886623,-0.32752349999999997,4691,1,1190,flat,72,True,1,1,good,1.0
+86499441,Calle de Salvà,València,València,Ciutat Vella,es,La Xerea,39.4710866,-0.37314759999999997,351,,1150,flat,70,False,2,1,good,
+86189856,Calle de l'Impressor Lambert Palmart,València,València,Algirós,es,Ciutat Jardí,39.4721524,-0.3453985,2735,5,1100,flat,100,True,4,2,good,1.0
+95752159,"Calle Pepita, Morvedre, Saidia",València,València,La Saïdia,es,Morvedre,39.4870239,-0.3755475,1773,5,675,flat,80,True,3,1,good,1.0
+95736688,Calle San Juan Bosco,València,València,Rascanya,es,Els Orriols,39.496338,-0.3707299,2858,1,600,flat,55,False,3,1,good,0.0
+95698594,"Calle Pare Rico, 16",València,València,Extramurs,es,La Petxina,39.4715975,-0.3889014,1002,3,720,flat,80,True,3,1,good,1.0
+95622461,"Calle De OLIMPIA AROCENA TORRES, 2",València,València,L'Olivereta,es,Nou Moles,39.4699727,-0.39278359999999995,1340,2,750,flat,92,True,2,1,good,0.0
+35031166,Calle de l'alcalde albors,València,València,L'Olivereta,es,Nou Moles,39.4742511,-0.39258479999999996,1362,bj,525,flat,50,True,1,1,good,1.0
+95732836,Calle de Pedro Cabanes,València,València,Rascanya,es,Torrefiel,39.4961539,-0.37669739999999996,2783,2,600,flat,80,True,2,1,good,1.0
+95730978,Calle del Marqués de Montortal,València,València,Rascanya,es,Torrefiel,39.4937743,-0.3757944,2521,1,620,flat,75,False,3,1,good,0.0
+95728888,Avenida de las Cortes Valencianas,València,València,Campanar,es,Sant Pau,39.491027,-0.4003691,2973,13,850,studio,48,True,0,1,good,1.0
+95728060,Paseo Serra d 'Espadá,València,Alboraya,La Patacona,es,,39.4842163,-0.3296831,4333,,950,flat,80,True,2,2,good,1.0
+95727892,barrio Barrio de Favara,València,València,Patraix,es,Barrio de Favara,39.4572299,-0.39368709999999996,2092,2,900,flat,91,True,3,2,good,1.0
+95725786,"Calle Peris Celda, 13",València,València,Benicalap,es,Ciutat Fallera,39.4990277,-0.3947506,3447,2,750,flat,90,True,4,2,good,1.0
+95724488,barrio El Grau,València,València,Poblats Marítims,es,El Grau,39.4642557,-0.3370633,3531,5,890,flat,84,True,4,1,good,1.0
+95722025,Calle de Matias Perelló,València,València,L'Eixample,es,Russafa,39.4625625,-0.3675077,1266,1,1200,flat,90,True,2,1,good,1.0
+95720031,"Calle CARRICOLA, 7",València,València,Jesús,es,La Creu Coberta,39.4521742,-0.3869569,2266,2,650,flat,70,True,2,1,good,1.0
+95718490,"Calle de Calatrava, 3",València,València,Ciutat Vella,es,La Seu,39.475742,-0.3777965,515,3,750,flat,72,True,1,1,good,1.0
+95710428,pedro cabanes,València,València,Rascanya,es,Torrefiel,39.4955921,-0.3787589,2723,2,600,flat,80,True,2,1,good,1.0
+95706903,Calle Andarella,València,Xirivella,Barrio de la Luz,es,,39.4605803,-0.4155955,3495,3,700,flat,88,True,1,2,good,1.0
+95703193,barrio Benimaclet,València,València,Benimaclet,es,Benimaclet,39.4848618,-0.35564819999999997,2401,1,700,flat,70,True,2,1,good,0.0
+95702707,barrio El Mercat,València,València,Ciutat Vella,es,El Mercat,39.47058,-0.380061,249,3,900,flat,90,True,3,1,good,1.0
+95702413,Calle Carrícola,València,València,Jesús,es,La Creu Coberta,39.4506742,-0.3855569,2383,2,650,flat,70,True,2,1,good,1.0
+95105202,Calle Padre Luis Navarro,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4655258,-0.3312462,3996,1,750,duplex,65,True,1,2,good,0.0
+94938078,Paseo Serra d 'Espadá,València,Alboraya,La Patacona,es,,39.4864886,-0.3304949,4360,4,750,flat,65,True,2,1,good,1.0
+34295275,"doctor berenguer ferrer, 2",València,València,L'Olivereta,es,La Fontsanta,39.4664369,-0.4097826,2841,7,650,flat,85,True,3,1,good,1.0
+87495590,Calle Mendoza,València,València,Ciutat Vella,es,La Seu,39.4747631,-0.3766448,407,1,1100,flat,93,True,2,1,good,0.0
+95105178,Calle del Progreso,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4666692,-0.3284817,4214,bj,750,duplex,65,True,1,1,good,0.0
+95105168,Calle Padre Luis Navarro,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4651258,-0.3281462,4266,bj,600,flat,55,True,1,1,good,0.0
+91820125,"Estrella, 20  ",València,València,Extramurs,es,La Roqueta,39.465559,-0.38069929999999996,686,1,690,flat,61,True,2,1,good,1.0
+93929757,"Avenida Maestro Rodrigo, 41",València,València,Campanar,es,Nou Campanar,39.4816271,-0.4014009,2380,5,900,flat,79,True,2,2,good,1.0
+92521930,Calle de la Pau,València,València,Ciutat Vella,es,La Seu,39.474544,-0.3734629,499,,1350,flat,99,True,2,2,good,1.0
+95501277,Blasco Ibañez,València,Mislata,Los Juzgados,es,,39.4748226,-0.4091707,2771,1,550,flat,74,True,2,1,good,0.0
+95425609,barrio Soternes,València,València,L'Olivereta,es,Soternes,39.4718182,-0.40702839999999996,2558,4,690,flat,77,True,2,1,good,0.0
+95235861,Calle Santa Genoveva Torres,València,València,Rascanya,es,Sant Llorenç,39.4930247,-0.3639563,2688,8,975,flat,85,True,3,2,good,1.0
+95235298,Calle Santa Genoveva Torres,València,València,Rascanya,es,Sant Llorenç,39.4937131,-0.3634223,2777,7,975,flat,82,True,3,2,good,1.0
+94758490,MAESTRO GOZALBO s/n,València,València,L'Eixample,es,Gran Vía,39.4654162,-0.3694153,923,5,1200,flat,91,True,2,2,good,1.0
+95730965,Calle de Cadis,València,València,L'Eixample,es,Russafa,39.4616317,-0.37547389999999997,1066,4,600,studio,35,True,0,1,good,0.0
+94595637,Calle dels Vivons,València,València,L'Eixample,es,Russafa,39.460689,-0.3732482,1209,3,850,flat,77,False,2,1,good,1.0
+95718567,Calle de Castelló,València,València,L'Eixample,es,Russafa,39.463529199999996,-0.37493089999999996,867,4,1200,flat,91,True,3,2,good,1.0
+89301605,Avenida Mare Nostrum,València,Alboraya,La Patacona,es,,39.4906412,-0.326793,4842,,1200,flat,75,True,2,1,good,1.0
+88146295,Avenida Vicente Blasco Ibáñez Novelista,València,Alboraya,La Patacona,es,,39.4887342,-0.3290149,4578,,976,flat,99,True,2,2,good,1.0
+95644198,Calle de Rodrigo de Pertegás,València,València,Camins al Grau,es,La Creu del Grau,39.4595254,-0.339784,3463,6,750,flat,90,True,2,1,good,1.0
+95601674,"Calle Músico Martínez Coll, 1",València,València,Benimaclet,es,Camí de Vera,39.4856303,-0.3542046,2551,3,650,flat,66,True,2,1,good,1.0
+95542571,Calle de Sant Ignasi de Loiola,València,València,Extramurs,es,La Petxina,39.4730927,-0.3881204,959,2,1200,flat,61,False,2,2,good,1.0
+30340613,Calle de l'Explorador Andrés,València,València,Algirós,es,Ciutat Jardí,39.4712132,-0.3449422,2771,3,700,flat,75,True,3,1,good,1.0
+95753959,Calle de Sant Ignasi de Loiola,València,València,Extramurs,es,La Petxina,39.4731927,-0.38922039999999997,1053,2,1200,flat,61,False,2,1,good,1.0
+95736075,Calle Sueca,València,València,L'Eixample,es,Russafa,39.463826,-0.3774727,811,2,1350,flat,91,True,2,2,good,1.0
+95724464,Calle de Tramoyeres,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4723166,-0.3296068,4090,bj,930,flat,50,True,1,1,good,0.0
+94873995,Calle Colón,València,València,Ciutat Vella,es,Sant Francesc,39.4704807,-0.3741516,274,9,1000,flat,85,False,2,1,good,1.0
+94856277,Calle San Vicente Martir,València,València,Ciutat Vella,es,Sant Francesc,39.4739041,-0.3754722,344,3,1350,flat,98,True,2,1,good,1.0
+94808346,Calle del Músic Peydró,València,València,Ciutat Vella,es,El Mercat,39.4712656,-0.3794352,189,1,1700,flat,94,True,4,2,good,0.0
+94444939,Calle de la Pau,València,València,Ciutat Vella,es,La Seu,39.471744,-0.37566289999999997,151,2,1350,flat,99,False,2,2,good,1.0
+95568819,"Calle Doctor Domagk, 3",València,València,L'Eixample,es,Russafa,39.4570881,-0.3766536,1561,12,850,flat,91,True,3,1,good,1.0
+95663587,"Calle Santa Genoveva Torres, 21",València,València,Rascanya,es,Sant Llorenç,39.4944491,-0.3623316,2891,6,900,flat,85,True,3,2,good,1.0
+95724972,Avenida de Peris i Valero,València,València,Quatre Carreres,es,Mont-Olivet,39.4611414,-0.3632361,1635,2,850,flat,90,True,2,2,good,1.0
+95709887,barrio El Pla del Remei,València,València,L'Eixample,es,El Pla del Remei,39.47155,-0.36867000000000005,736,1,1000,flat,69,True,2,2,good,1.0
+90142221,barrio Gran Vía,València,València,L'Eixample,es,Gran Vía,39.4662516,-0.3616407,1444,8,1100,penthouse,57,False,1,1,good,1.0
+95566027,"Calle Olimpia alocena torres, 2",València,València,L'Olivereta,es,Nou Moles,39.4702007,-0.39488969999999995,1518,2,750,flat,92,True,2,1,good,0.0
+95421127,barrio Penya-Roja,València,València,Camins al Grau,es,Penya-Roja,39.458657,-0.3453311,3069,5,800,flat,65,True,1,1,good,1.0
+95420725,barrio Penya-Roja,València,València,Camins al Grau,es,Penya-Roja,39.4628503,-0.3524894,2314,1,1300,flat,65,True,2,1,good,1.0
+95431484,barrio Sant Francesc,València,València,Ciutat Vella,es,Sant Francesc,39.4715075,-0.37818809999999997,92,4,800,flat,75,True,2,2,good,0.0
+95368443,barrio Russafa,València,València,L'Eixample,es,Russafa,39.4597975,-0.3752527,1270,5,800,penthouse,43,False,1,1,good,1.0
+95303322,barrio Nou Moles,València,València,L'Olivereta,es,Nou Moles,39.4695947,-0.3948104,1517,2,750,flat,90,True,3,1,good,0.0
+95232626,barrio Nou Moles,València,València,L'Olivereta,es,Nou Moles,39.4669026,-0.3987135,1902,1,750,flat,75,True,3,1,good,0.0
+95230531,barrio Benimaclet,València,València,Benimaclet,es,Benimaclet,39.4826837,-0.36232149999999996,1814,7,950,flat,70,True,2,1,good,0.0
+95221161,barrio Benimaclet,València,València,Benimaclet,es,Benimaclet,39.4890152,-0.3616176,2398,1,780,flat,84,True,1,1,good,0.0
+30739402,barrio Arrancapins,València,València,Extramurs,es,Arrancapins,39.4656301,-0.3862682,986,7,650,flat,30,False,1,1,good,0.0
+95154500,barrio Benimaclet,València,València,Benimaclet,es,Benimaclet,39.4827933,-0.3552319,2291,4,1150,flat,100,True,3,2,good,1.0
+95096759,barrio Sant Llorenç,València,València,Rascanya,es,Sant Llorenç,39.4934131,-0.3626223,2777,9,1150,flat,100,True,3,2,good,0.0
+95096708,barrio Penya-Roja,València,València,Camins al Grau,es,Penya-Roja,39.4578423,-0.35234119999999997,2597,14,1300,flat,100,True,2,2,good,0.0
+94922415,barrio Nou Campanar,València,València,Campanar,es,Nou Campanar,39.4819235,-0.4051603,2680,1,840,flat,86,False,2,1,good,1.0
+94761288,barrio El Pla del Remei,València,València,L'Eixample,es,El Pla del Remei,39.4709695,-0.37010119999999996,612,11,1600,penthouse,70,True,1,1,good,1.0
+94584666,barrio El Carme,València,València,Ciutat Vella,es,El Carme,39.47832,-0.37962,825,2,800,flat,80,True,2,1,good,1.0
+94220786,barrio El Carme,València,València,Ciutat Vella,es,El Carme,39.4772305,-0.3849084,945,3,890,flat,95,True,2,1,good,1.0
+92786553,barrio El Pilar,València,València,Ciutat Vella,es,El Pilar,39.4730405,-0.3815684,428,,1350,flat,99,True,2,2,good,
+81888074,danzas,València,València,Ciutat Vella,es,El Mercat,39.474702,-0.3785171,412,5,495,flat,40,False,1,1,good,1.0
+95753185,Calle del Vinalopó,València,València,Algirós,es,La Vega Baixa,39.4796806,-0.3519386,2370,5,600,flat,51,True,1,1,good,1.0
+91236759,Calle de Játiva,València,València,Extramurs,es,La Roqueta,39.4688831,-0.37686169999999997,251,5,450,flat,40,False,1,1,good,1.0
+95621015,barrio Exposició,València,València,El Pla del Real,es,Exposició,39.4740366,-0.3638921,1190,5,650,flat,66,False,1,1,good,1.0
+95585901,"Avenida Ausiás March, En Corts",València,València,Quatre Carreres,es,En Corts,39.4546942,-0.37358749999999996,1853,7,870,flat,100,True,4,1,good,1.0
+95544268,barrio Mestalla,València,València,El Pla del Real,es,Mestalla,39.4696485,-0.35898189999999996,1575,2,800,flat,68,True,2,1,good,1.0
+95500031,barrio El Cabanyal-El Canyamelar,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4715377,-0.32802899999999996,4223,2,1299,flat,87,True,2,1,good,0.0
+95499204,barrio El Cabanyal-El Canyamelar,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4684377,-0.32792899999999997,4242,1,1449,flat,87,True,2,1,good,0.0
+94063849,Calle Hermanos Villalonga s/n,València,València,Benimaclet,es,Benimaclet,39.4851676,-0.3575508,2300,2,550,flat,50,False,2,1,good,0.0
+91693117,"Avenida de Peris i Valero, 99",València,València,L'Eixample,es,Russafa,39.4591895,-0.3707839,1437,3,1350,flat,76,True,2,2,good,1.0
+91542898,"Avenida de Peris i Valero, 99",València,València,L'Eixample,es,Russafa,39.4591895,-0.3707839,1437,2,1200,studio,32,True,0,1,good,1.0
+91169549,barrio El Grau,València,València,Poblats Marítims,es,El Grau,39.4617422,-0.3334214,3902,2,800,flat,94,True,3,2,good,1.0
+95649036,Calle de La Marina,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4725417,-0.3307865,3990,3,650,flat,55,True,1,1,good,0.0
+95628248,Calle Río Segre,València,València,Benicalap,es,Nou Benicalap,39.4975906,-0.3818006,2968,4,690,flat,65,True,1,1,good,1.0
+95563867,Plaza de Nou Moles,València,València,L'Olivereta,es,Nou Moles,39.473183,-0.3960494,1630,2,750,flat,97,True,2,1,good,0.0
+95561057,Calle de la salut,València,València,Ciutat Vella,es,La Seu,39.4782026,-0.3750789,808,3,850,flat,80,True,2,1,good,1.0
+89233453,Calle del Cabrit,València,València,Ciutat Vella,es,El Carme,39.4772769,-0.3779706,687,1,1500,studio,40,False,0,1,good,1.0
+89752608,Calle dels Columbretes,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4675988,-0.3317825,3921,bj,750,flat,51,True,1,1,good,0.0
+95312772,barrio Sant Francesc,València,València,Ciutat Vella,es,Sant Francesc,39.4699132,-0.37070339999999996,576,1,850,flat,62,False,1,1,good,1.0
+92377411,Calle EMILIO MARÍ,València,València,Benicalap,es,Benicalap,39.494735,-0.3929338,2950,1,580,flat,72,True,2,1,good,1.0
+88726587,Calle de María Cristina,València,València,Ciutat Vella,es,El Mercat,39.4716474,-0.3764441,89,6,800,flat,97,True,3,1,good,1.0
+95344902,BEATO JUAN GRANDE,València,València,Poblats Marítims,es,Playa de la Malvarrosa,39.4786083,-0.3307327,4077,2,700,flat,94,True,3,1,good,0.0
+89678060,Conquista,València,València,Ciutat Vella,es,El Mercat,39.4776983,-0.3791042,748,1,1300,flat,100,True,4,1,good,0.0
+95697594,Calle San Juan Bosco,València,València,Rascanya,es,Els Orriols,39.4955229,-0.3708413,2767,1,600,flat,55,False,3,1,good,0.0
+95691061,Calle de Gibraltar,València,València,L'Eixample,es,Russafa,39.4607091,-0.3793604,1172,,800,flat,75,True,2,1,good,1.0
+95657819,Calle d'Eugènia Viñes,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4707153,-0.3256458,4428,1,650,flat,50,False,1,1,good,0.0
+95620983,Calle de Pedro Cabanes,València,València,Rascanya,es,Torrefiel,39.493767,-0.3793592,2524,2,600,flat,80,True,2,1,good,1.0
+95485513,Calle de Vicent Sancho Tello,València,València,El Pla del Real,es,Mestalla,39.4687847,-0.3570098,1755,4,700,flat,80,True,2,1,good,1.0
+95470561,Calle Santa Genoveva Torres,València,València,Rascanya,es,Sant Llorenç,39.4945754,-0.36361299999999996,2857,9,1050,flat,100,False,3,2,good,1.0
+95467270,barrio El Mercat,València,València,Ciutat Vella,es,El Mercat,39.4720666,-0.3787721,168,2,700,flat,75,True,1,1,good,0.0
+95389681,Calle Escultor José Capuz s/n,València,València,Quatre Carreres,es,Mont-Olivet,39.4601598,-0.3615655,1815,4,1000,flat,100,True,2,2,good,1.0
+95302071,Calle d'Antoni Reig i Ventura,València,València,Campanar,es,Nou Campanar,39.483723499999996,-0.4064603,2872,6,750,flat,60,True,2,1,good,1.0
+95290481,Calle Carrícola,València,València,Jesús,es,La Creu Coberta,39.4526742,-0.3868569,2211,2,650,flat,70,True,2,1,good,1.0
+92484110,Calle Linterna,València,València,Ciutat Vella,es,El Mercat,39.4737026,-0.3790423,326,2,600,flat,68,True,1,1,good,1.0
+95273800,Calle Danzas,València,València,Ciutat Vella,es,El Mercat,39.4761989,-0.380033,613,1,750,flat,54,True,1,1,good,1.0
+95377254,Calle Carteros,València,València,Jesús,es,La Creu Coberta,39.4536775,-0.38951969999999997,2207,3,700,flat,81,True,3,1,good,1.0
+94936531,Calle Giménez y Costa,València,La Torre,,es,,39.4333395,-0.3908485,4360,2,770,penthouse,90,True,3,2,good,1.0
+94278441,Calle Marqués de Zenete,València,València,Extramurs,es,Arrancapins,39.4633028,-0.3854354,1118,8,1500,penthouse,45,True,1,1,good,1.0
+94368422,Calle dels Plàtans,València,València,Benicalap,es,Benicalap,39.49125,-0.3901243,2496,1,800,flat,65,True,2,1,good,0.0
+94171453,Calle Salamanca,València,València,L'Eixample,es,Gran Vía,39.4658766,-0.3634504,1319,1,1200,flat,86,True,2,1,good,1.0
+93060022,dr. gil y morte,València,València,Extramurs,es,Arrancapins,39.4607299,-0.3812152,1205,5,900,flat,95,True,3,1,good,1.0
+91757251,Avenida del Cardenal Benlloch,València,València,Camins al Grau,es,Albors,39.4674121,-0.3561272,1858,1,650,studio,50,True,0,1,good,1.0
+95710885,SAN PANCRACIO,València,València,La Saïdia,es,Marxalenes,39.4892505,-0.3871926,2189,3,500,flat,55,True,2,1,good,1.0
+95689617,Calle d'Olimpia Arozena Torres,València,València,L'Olivereta,es,Nou Moles,39.4704054,-0.3945323,1486,2,750,flat,92,True,2,1,good,0.0
+95648040,arxiduc cares,València,València,Patraix,es,Patraix,39.4612043,-0.3983111,2118,5,700,flat,100,True,3,1,good,1.0
+93742634,Calle de Pere Cabanes,València,València,Rascanya,es,Torrefiel,39.496265,-0.37823439999999997,2796,2,600,flat,85,True,2,1,good,1.0
+95599614,Avenida d'Ausiàs March,València,València,Quatre Carreres,es,En Corts,39.4517389,-0.3710209,2220,7,870,flat,100,True,4,1,good,1.0
+95499975,Calle de Sant Vicent de Paül,València,València,Rascanya,es,Els Orriols,39.4905756,-0.3698277,2254,,650,flat,78,True,3,1,good,1.0
+95456971,barrio El Carme,València,València,Ciutat Vella,es,El Carme,39.480181,-0.38183609999999996,1081,bj,1200,flat,78,True,2,2,good,0.0
+95404179,Paseo Alameda,València,València,Camins al Grau,es,Penya-Roja,39.4547712,-0.34171799999999997,3549,3,750,flat,75,True,1,1,good,1.0
+95398423,barrio El Grau,València,València,Poblats Marítims,es,El Grau,39.4622263,-0.3366247,3623,1,1400,flat,95,False,3,1,good,0.0
+95277577,SANTA GENOVEVA,València,València,Rascanya,es,Sant Llorenç,39.4953131,-0.3597223,3081,7,1150,flat,100,True,3,2,good,1.0
+86766354,Plaza Regino Mas,València,València,Benicalap,es,Ciutat Fallera,39.4997612,-0.3920337,3428,bj,390,studio,35,False,0,1,good,0.0
+87118786,Calle Doctor Gil y Morte,València,València,Extramurs,es,Arrancapins,39.4607363,-0.37932299999999997,1168,5,900,flat,100,True,3,1,good,1.0
+95211070,Calle de Tramoyeres,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4722354,-0.3325302,3839,2,600,flat,73,True,3,1,good,0.0
+94768131,barrio El Carme,València,València,Ciutat Vella,es,El Carme,39.477783,-0.38031899999999996,786,1,970,flat,70,True,2,1,good,0.0
+93574727,Calle de Bailèn,València,València,Extramurs,es,La Roqueta,39.4671168,-0.37837299999999996,455,1,1100,flat,85,True,3,2,good,1.0
+89877684,Calle de Xàtiva,València,València,Extramurs,es,La Roqueta,39.4681629,-0.3795829,385,5,750,flat,70,True,1,1,good,1.0
+89415567,Avenida de Jesús Morante Borrás,València,València,Quatre Carreres,es,La Punta,39.4391207,-0.3431784,4605,1,500,flat,30,True,1,1,good,0.0
+95735611,barrio Nou Moles,València,València,L'Olivereta,es,Nou Moles,39.4744287,-0.4040007,2326,2,750,flat,90,False,3,2,good,1.0
+95617927,barrio Torrefiel,València,València,Rascanya,es,Torrefiel,39.493265,-0.37723439999999997,2461,2,600,flat,85,False,2,1,good,1.0
+95717198,barrio La Petxina,València,València,Extramurs,es,La Petxina,39.4704437,-0.3912637,1206,2,720,flat,85,False,3,1,good,0.0
+95717211,barrio Trinitat,València,València,La Saïdia,es,Trinitat,39.4804742,-0.37230959999999996,1122,2,900,flat,85,False,3,1,good,1.0
+95705803,barrio Patraix,València,València,Patraix,es,Patraix,39.4658043,-0.39084199999999997,1308,1,750,flat,80,False,3,1,good,1.0
+95705802,barrio Sant Francesc,València,València,Ciutat Vella,es,Sant Francesc,39.4692927,-0.37884599999999996,245,9,900,flat,75,True,1,1,good,1.0
+95671743,Plaza Cisneros s/n,València,València,Ciutat Vella,es,La Seu,39.4778946,-0.3759209,761,,1700,flat,90,False,4,2,good,
+95653676,barrio Exposició,València,València,El Pla del Real,es,Exposició,39.474501599999996,-0.365795,1051,2,900,flat,52,True,1,1,good,1.0
+95653364,barrio Exposició,València,València,El Pla del Real,es,Exposició,39.4757016,-0.364695,1190,2,900,flat,52,True,1,1,good,1.0
+95624988,barrio L'Amistat,València,València,Algirós,es,L'Amistat,39.4702043,-0.3493559,2395,5,800,flat,100,False,3,2,good,1.0
+95590332,barrio En Corts,València,València,Quatre Carreres,es,En Corts,39.4548389,-0.3720209,1865,7,950,flat,100,False,4,1,good,1.0
+95590314,barrio Russafa,València,València,L'Eixample,es,Russafa,39.4630977,-0.36888889999999996,1144,2,800,flat,85,False,2,2,good,1.0
+1555884,barrio Torrefiel,València,València,Rascanya,es,Torrefiel,39.4900451,-0.3774668,2104,2,560,flat,70,True,1,1,good,0.0
+95430075,"Calle del Doctor Carlos Caballé Lancry, 9",València,València,Quatre Carreres,es,Malilla,39.4535783,-0.37965289999999996,1961,6,700,flat,94,False,3,2,good,1.0
+95318646,"Calle Cardenal Benlloch, 37",València,València,El Pla del Real,es,Mestalla,39.4692199,-0.3557687,1854,6,850,flat,65,True,1,1,good,1.0
+95215458,barrio La Roqueta,València,València,Extramurs,es,La Roqueta,39.4681421,-0.38284809999999997,584,3,850,flat,59,False,1,1,good,1.0
+94582188,barrio El Mercat,València,València,Ciutat Vella,es,El Mercat,39.4759386,-0.3797914,578,4,1350,penthouse,65,True,2,1,good,1.0
+95676638,barrio L'Illa Perduda,València,València,Algirós,es,L'Illa Perduda,39.4726831,-0.3391613,3272,4,750,flat,80,True,2,1,good,1.0
+95674660,barrio Penya-Roja,València,València,Camins al Grau,es,Penya-Roja,39.4658547,-0.3548304,2010,6,600,studio,45,True,0,1,good,1.0
+95539870,barrio La Roqueta,València,València,Extramurs,es,La Roqueta,39.4681466,-0.3780541,338,3,600,studio,46,True,0,1,good,1.0
+85535370,La Constitución - Canaleta,València,Mislata,La Constitución - Canaleta,es,,39.4749562,-0.4125761,3062,1,600,flat,65,True,1,1,good,1.0
+95636293,barrio La Creu del Grau,València,València,Camins al Grau,es,La Creu del Grau,39.4637045,-0.34221189999999996,3117,4,750,flat,100,True,3,2,good,1.0
+95524837,barrio La Raiosa,València,València,Jesús,es,La Raiosa,39.4568918,-0.3828759,1654,3,600,flat,65,True,2,1,good,0.0
+95172859,barrio Nou Moles,València,València,L'Olivereta,es,Nou Moles,39.4696007,-0.3938897,1439,2,750,flat,92,False,3,1,good,0.0
+95227676,Calle Salamanca,València,València,L'Eixample,es,Gran Vía,39.4677766,-0.3627504,1297,2,800,flat,65,True,2,1,good,1.0
+95216058,Calle Salamanca,València,València,L'Eixample,es,Gran Vía,39.4663766,-0.36385039999999996,1264,3,930,flat,45,True,1,1,good,1.0
+95038923,Calle d'Antella,València,València,L'Olivereta,es,Tres Forques,39.4690599,-0.4022711,2160,2,650,flat,78,False,3,1,good,
+93694504,Salamanca,València,València,L'Eixample,es,Gran Vía,39.4672259,-0.3625637,1331,3,900,flat,38,True,1,1,good,1.0
+84116101,bailen,València,València,Extramurs,es,La Roqueta,39.4676007,-0.37918969999999996,426,1,1000,flat,98,True,3,2,good,1.0
+87250277,Calle Convento Jerusalén,València,València,Extramurs,es,La Roqueta,39.4644758,-0.3803759,786,1,750,flat,60,True,2,1,good,1.0
+39749681,barrio Sant Francesc,València,València,Ciutat Vella,es,Sant Francesc,39.4711927,-0.3755944,141,5,1100,flat,100,True,2,2,good,1.0
+92198861,Cardenal Benlloch,València,Mislata,Cardenal Benlloch,es,,39.4697564,-0.42048969999999997,3715,1,550,flat,84,False,3,1,good,1.0
+95739518,barrio Aiora,València,València,Camins al Grau,es,Aiora,39.4626834,-0.3413614,3219,4,650,flat,65,True,1,1,good,0.0
+95695727,barrio La Raiosa,València,València,Jesús,es,La Raiosa,39.4560323,-0.3816224,1719,4,900,flat,100,True,3,2,good,1.0
+32067482,"Calle de vicent sancho tello, 19",València,València,El Pla del Real,es,Mestalla,39.4696425,-0.3563754,1798,4,750,flat,75,False,2,1,good,1.0
+95416139,barrio Tormos,València,València,La Saïdia,es,Tormos,39.4899472,-0.3805036,2111,3,550,flat,68,True,2,1,good,0.0
+95375922,Plaza de Nou Moles,València,València,L'Olivereta,es,Nou Moles,39.470683,-0.3947494,1503,2,750,flat,97,True,2,1,good,1.0
+95336764,barrio Sant Francesc,València,València,Ciutat Vella,es,Sant Francesc,39.4702189,-0.3738556,307,2,750,flat,43,True,1,1,good,1.0
+95242977,CAMPOAMOR,València,València,Poblats Marítims,es,Beteró,39.4679786,-0.34025059999999996,3193,4,750,flat,73,True,2,1,good,1.0
+95214822,Calle de Baldoví,València,València,Ciutat Vella,es,Sant Francesc,39.4701502,-0.3802525,280,3,950,flat,82,False,2,2,good,1.0
+39689938,jaime beltran,València,València,Jesús,es,La Raiosa,39.458184,-0.3881187,1715,1,550,flat,27,True,1,1,good,1.0
+95659301,barrio El Cabanyal-El Canyamelar,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4702981,-0.3280587,4222,2,790,flat,82,True,3,1,good,1.0
+95648103,"MARINA, 13",València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4726907,-0.3305934,4007,3,650,studio,55,True,0,1,good,0.0
+95577964,barrio En Corts,València,València,Quatre Carreres,es,En Corts,39.4567109,-0.3755013,1609,2,800,flat,96,True,2,1,good,1.0
+95538561,barrio El Carme,València,València,Ciutat Vella,es,El Carme,39.4788105,-0.38042689999999996,897,5,960,duplex,86,True,2,2,good,0.0
+95492023,"Plaza del Carmen, 11",València,València,Ciutat Vella,es,El Carme,39.4790044,-0.3784278,882,4,1275,flat,68,True,4,1,good,0.0
+95350630,Calle MUSICO PEYDRO s/n,València,València,L'Eixample,es,Russafa,39.459867,-0.370761,1369,1,700,flat,50,True,1,1,good,0.0
+94751381,Calle d'Olimpia Arozena Torres,València,València,L'Olivereta,es,Nou Moles,39.4706401,-0.3931308,1365,3,650,flat,73,True,3,1,good,0.0
+94750802,Calle de Carrícola,València,València,Jesús,es,La Creu Coberta,39.4537742,-0.3885569,2159,2,650,flat,65,True,2,1,good,1.0
+95668655,barrio El Cabanyal-El Canyamelar,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4738907,-0.3318934,3904,3,650,studio,50,True,0,1,good,0.0
+95667998,barrio Torrefiel,València,València,Rascanya,es,Torrefiel,39.4961608,-0.3769997,2784,1,700,flat,70,True,3,2,good,1.0
+95650856,Barrio de la Luz,València,Xirivella,Barrio de la Luz,es,,39.4611858,-0.415429,3459,bj,700,duplex,92,True,1,2,good,1.0
+95642494,barrio La Creu del Grau,València,València,Camins al Grau,es,La Creu del Grau,39.4604733,-0.34066409999999997,3355,8,800,penthouse,95,True,3,1,good,1.0
+95612192,barrio Playa de la Malvarrosa,València,València,Poblats Marítims,es,Playa de la Malvarrosa,39.4811968,-0.3261068,4528,2,750,flat,60,True,1,1,good,1.0
+95597129,barrio El Cabanyal-El Canyamelar,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4719998,-0.3295686,4092,2,790,flat,77,True,3,1,good,0.0
+95594894,barrio El Mercat,València,València,Ciutat Vella,es,El Mercat,39.4704439,-0.3800614,253,3,900,flat,90,True,3,1,good,1.0
+92005225,barrio La Petxina,València,València,Extramurs,es,La Petxina,39.4735377,-0.3875722,926,3,695,flat,85,True,3,1,good,1.0
+95582628,barrio Russafa,València,València,L'Eixample,es,Russafa,39.4599977,-0.3672889,1503,2,800,flat,82,True,2,1,good,0.0
+95577971,barrio Marxalenes,València,València,La Saïdia,es,Marxalenes,39.4815727,-0.3835536,1282,2,845,flat,87,False,3,1,good,1.0
+95555739,barrio Russafa,València,València,L'Eixample,es,Russafa,39.4602116,-0.3723131,1284,4,800,penthouse,50,True,0,1,good,1.0
+95334799,Calle Fuente Podrida s/n,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.465685,-0.3278982,4277,bj,800,flat,60,True,1,1,good,1.0
+91572798,barrio Beteró,València,València,Poblats Marítims,es,Beteró,39.4689068,-0.3359968,3548,1,850,flat,82,True,3,2,good,1.0
+95294221,barrio Benicalap,València,València,Benicalap,es,Benicalap,39.4913192,-0.3948507,2706,4,900,flat,85,False,3,1,good,
+92788575,"Calle de la Reina, 28",València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4648498,-0.32901359999999996,4197,1,650,flat,65,True,2,1,good,1.0
+95174077,barrio Tormos,València,València,La Saïdia,es,Tormos,39.4907434,-0.3788467,2185,2,900,flat,75,False,3,1,good,
+95100600,barrio Gran Vía,València,València,L'Eixample,es,Gran Vía,39.465769,-0.3691614,913,7,650,penthouse,30,True,1,1,good,1.0
+95691212,Calle de Juan Verdeguer,València,València,Poblats Marítims,es,El Grau,39.4593831,-0.3342681,3912,2,650,flat,65,True,3,1,good,0.0
+95689102,Calle Carrícola,València,València,Jesús,es,La Creu Coberta,39.4536742,-0.3869569,2111,2,650,flat,75,True,2,1,good,1.0
+95671085,Calle Molinell,València,València,La Saïdia,es,Trinitat,39.4868096,-0.3701635,1846,3,725,flat,96,True,4,2,good,1.0
+95655386,Calle de Fontanars dels Alforins,València,València,Patraix,es,Safranar,39.4636358,-0.39841309999999996,1999,5,700,flat,100,True,3,1,good,1.0
+95647185,Calle de Pedro Cabanes,València,València,Rascanya,es,Torrefiel,39.495665,-0.3781344,2729,3,600,flat,85,True,2,1,good,1.0
+95646549,barrio Arrancapins,València,València,Extramurs,es,Arrancapins,39.4612305,-0.3799877,1124,5,900,flat,100,True,3,1,good,1.0
+95613768,Calle Fray Pedro Vives,València,València,La Saïdia,es,Sant Antoni,39.4854058,-0.37171699999999996,1657,6,800,flat,80,True,2,1,good,1.0
+89366112,barrio Patraix,València,València,Patraix,es,Patraix,39.4646791,-0.38853319999999997,1205,5,650,flat,60,False,3,1,good,1.0
+95570399,OLIMPIA AZUCENA TORRES,València,València,L'Olivereta,es,Nou Moles,39.4695007,-0.3956897,1594,2,750,flat,97,True,2,1,good,1.0
+95512164,Avenida Peris y Valero,València,València,Quatre Carreres,es,Malilla,39.4575223,-0.37554909999999997,1519,8,750,flat,90,True,3,2,good,1.0
+95502537,Calle BLASCO IBAÑEZ,València,Alboraya,La Patacona,es,,39.4882954,-0.3264033,4762,4,700,flat,65,True,1,1,good,1.0
+95278471,barrio La Raiosa,València,València,Jesús,es,La Raiosa,39.4563322,-0.38472449999999997,1765,3,600,flat,65,True,2,1,good,0.0
+89390533,Calle de la Reina,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4698678,-0.32940949999999997,4107,bj,900,flat,75,True,2,2,good,0.0
+87446846,barrio Nou Moles,València,València,L'Olivereta,es,Nou Moles,39.4708494,-0.3946147,1491,2,750,flat,92,True,2,1,good,0.0
+92325417,barrio L'Hort de Senabre,València,València,Jesús,es,L'Hort de Senabre,39.4564903,-0.3891229,1920,2,950,flat,90,True,3,2,good,1.0
+95640803,barrio Barrio de Favara,València,València,Patraix,es,Barrio de Favara,39.4539024,-0.39412909999999995,2401,2,570,flat,75,True,3,1,good,1.0
+95679745,barrio La Creu del Grau,València,València,Camins al Grau,es,La Creu del Grau,39.4641313,-0.34698209999999996,2710,2,850,flat,78,False,2,1,good,1.0
+95665559,barrio Nou Moles,València,València,L'Olivereta,es,Nou Moles,39.4719398,-0.40445509999999996,2337,2,500,flat,70,False,2,1,good,1.0
+95739851,barrio La Llum,València,València,L'Olivereta,es,La Llum,39.46721,-0.41073000000000004,2907,1,600,flat,85,True,3,2,good,1.0
+92484035,barrio Patraix,València,València,Patraix,es,Patraix,39.4581583,-0.3929083,1971,2,560,flat,65,True,2,1,good,0.0
+95706753,barrio L'Amistat,València,València,Algirós,es,L'Amistat,39.471281,-0.3525909,2115,4,650,flat,70,True,2,1,good,0.0
+95706610,País Valenciá,València,Mislata,País Valenciá,es,,39.4772421,-0.4243547,4100,3,550,flat,80,True,3,1,good,0.0
+95704331,barrio Torrefiel,València,València,Rascanya,es,Torrefiel,39.496065,-0.3786344,2775,2,600,flat,80,True,2,1,good,1.0
+92758990,barrio Morvedre,València,València,La Saïdia,es,Morvedre,39.4841978,-0.37022839999999996,1573,,750,flat,90,False,2,2,good,1.0
+95443599,Calle Marqués de Montortal,València,València,Rascanya,es,Torrefiel,39.4921215,-0.3736423,2355,2,600,flat,90,True,3,1,good,0.0
+95319559,Calle dels Soguers,València,València,Ciutat Vella,es,El Carme,39.4792159,-0.3806868,947,2,750,flat,60,True,1,1,good,0.0
+95703944,Barrio de la Luz,València,Xirivella,Barrio de la Luz,es,,39.4605858,-0.412429,3240,3,700,duplex,88,True,1,2,good,1.0
+95603122,San Ramón y Monte de Piedad,València,Xirivella,San Ramón y Monte de Piedad,es,,39.4654804,-0.43185239999999997,4729,4,550,flat,99,False,2,1,good,1.0
+95695266,Paseo ALAMEDA,València,València,Camins al Grau,es,Penya-Roja,39.4560523,-0.3455005,3198,3,750,flat,80,True,1,1,good,1.0
+95664613,País Valenciá,València,Mislata,País Valenciá,es,,39.4774024,-0.4207101,3795,3,650,flat,80,True,3,2,good,1.0
+95625190,barrio Benicalap,València,València,Benicalap,es,Benicalap,39.4890276,-0.3891014,2236,3,750,flat,91,False,3,1,good,1.0
+95559145,barrio Els Orriols,València,València,Rascanya,es,Els Orriols,39.4901756,-0.3702277,2202,1,650,flat,76,True,3,1,good,1.0
+92472772,barrio El Mercat,València,València,Ciutat Vella,es,El Mercat,39.472415,-0.37903539999999997,210,4,750,flat,50,False,1,1,good,1.0
+90750801,Paseo de la Alameda s/n,València,València,El Pla del Real,es,Mestalla,39.464262,-0.3584766,1781,3,750,flat,60,True,1,1,good,1.0
+95307652,barrio Benicalap,València,València,Benicalap,es,Benicalap,39.4933189,-0.389191,2672,4,900,flat,80,False,3,1,good,1.0
+95294226,barrio Nou Moles,València,València,L'Olivereta,es,Nou Moles,39.4703563,-0.3915693,1233,2,750,flat,93,False,2,1,good,
+92377031,barrio Benicalap,València,València,Benicalap,es,Benicalap,39.494035,-0.39333379999999996,2897,1,580,flat,72,True,2,1,good,1.0
+92038933,"Calle de Colón, 17",València,València,Ciutat Vella,es,Sant Francesc,39.4686807,-0.3730516,450,8,1000,flat,60,True,2,1,good,1.0
+85506065,"Plaza del Miracle del Mocadoret, 5",València,València,Ciutat Vella,es,La Seu,39.4743722,-0.37625159999999996,371,4,1100,flat,75,True,2,1,good,1.0
+95697691,barrio Nou Moles,València,València,L'Olivereta,es,Nou Moles,39.4693494,-0.3926147,1334,2,750,flat,92,True,2,1,good,0.0
+95684106,Calle d'Olimpia Arozena Torres,València,València,L'Olivereta,es,Nou Moles,39.4717715,-0.3917691,1249,2,750,flat,90,True,2,1,good,0.0
+95180937,"Calle Santa Genoveva Torres, Alfahuir",València,València,Rascanya,es,Sant Llorenç,39.4939457,-0.3614657,2876,9,1150,flat,100,True,3,2,good,1.0
+95615940,barrio Patraix,València,València,Patraix,es,Patraix,39.4585432,-0.3911763,1840,3,520,flat,69,True,3,1,good,0.0
+95606452,BRASIL,València,València,L'Olivereta,es,Nou Moles,39.4726397,-0.3990399,1878,2,700,flat,72,False,4,1,good,0.0
+95559961,PADRE ESTEBAN PERNET,València,València,L'Olivereta,es,La Fontsanta,39.4651461,-0.40460199999999996,2441,2,695,flat,85,True,2,2,good,1.0
+95198643,barrio Sant Llorenç,València,València,Rascanya,es,Sant Llorenç,39.4944131,-0.36002229999999996,2981,9,1150,flat,100,True,3,2,good,1.0
+94972047,barrio Soternes,València,València,L'Olivereta,es,Soternes,39.4727388,-0.4045781,2353,5,580,flat,90,True,2,1,good,0.0
+94207118,Cardenal Benlloch,València,Mislata,Cardenal Benlloch,es,,39.4717338,-0.4159449,3323,3,800,flat,84,True,3,2,good,1.0
+93983331,barrio La Roqueta,València,València,Extramurs,es,La Roqueta,39.4692831,-0.37996169999999996,310,7,650,flat,50,True,1,2,good,1.0
+27659210,"Calle Conde Salvatierra, 5",València,València,L'Eixample,es,El Pla del Remei,39.4709413,-0.3689419,712,2,700,flat,65,False,1,1,good,1.0
+33323977,barrio Aiora,València,València,Camins al Grau,es,Aiora,39.4666524,-0.3457123,2751,1,650,flat,50,True,1,1,good,0.0
+95721162,barrio Nou Moles,València,València,L'Olivereta,es,Nou Moles,39.4693613,-0.3942061,1469,2,750,flat,92,True,2,1,good,0.0
+95720554,barrio Malilla,València,València,Quatre Carreres,es,Malilla,39.452246099999996,-0.3775849,2099,4,750,flat,85,True,3,2,good,1.0
+95620063,barrio El Mercat,València,València,Ciutat Vella,es,El Mercat,39.4732372,-0.3790882,283,2,1000,flat,95,True,3,2,good,1.0
+95589106,barrio Sant Llorenç,València,València,Rascanya,es,Sant Llorenç,39.4932131,-0.3613223,2810,,1150,flat,100,False,3,2,good,1.0
+95587358,barrio La Creu Coberta,València,València,Jesús,es,La Creu Coberta,39.44966,-0.38352,2446,3,700,flat,85,False,2,1,good,1.0
+95484137,Calle d'Alfred Toran i Olmos,València,València,Camins al Grau,es,Penya-Roja,39.4612279,-0.3520772,2423,7,900,flat,90,True,3,2,good,1.0
+95404354,Calle de Sant Valero,València,València,L'Eixample,es,Russafa,39.4621543,-0.3734953,1047,5,790,flat,60,True,1,1,good,1.0
+95401233,Salvador Giner,València,València,Ciutat Vella,es,El Carme,39.4805915,-0.3797469,1074,3,800,flat,30,True,1,1,good,0.0
+92427117,Calle Doctor Jaime Segarra,València,València,Rascanya,es,Torrefiel,39.4976755,-0.3722529,2983,bj,570,flat,75,True,3,1,good,0.0
+91527547,Avenida Escultor Miquel Navarro Navarro,València,Mislata,La Constitución - Canaleta,es,,39.4789774,-0.4195565,3735,5,850,flat,80,True,2,2,good,1.0
+94779563,Avenida de la Malva-Rosa,València,València,Poblats Marítims,es,Playa de la Malvarrosa,39.4775475,-0.32734209999999997,4341,4,780,flat,95,True,4,1,good,0.0
+84854034,"Calle Doctor Manuel Candela, Valencia",València,València,Camins al Grau,es,Aiora,39.4678649,-0.34971779999999997,2389,7,670,flat,75,False,3,1,good,1.0
+93662471,Avenida del Port,València,València,Camins al Grau,es,Albors,39.4666852,-0.35560749999999997,1921,1,800,flat,85,True,3,1,good,1.0
+90879026,Avenida Doctor Peset Aleixandre,València,València,La Saïdia,es,Tormos,39.4902202,-0.3763722,2124,3,800,flat,100,True,3,2,good,1.0
+93236162,Plaza Conde de Carlet,València,València,Ciutat Vella,es,La Seu,39.4784576,-0.3743955,851,2,900,flat,100,True,3,2,good,1.0
+91073764,barrio Gran Vía,València,València,L'Eixample,es,Gran Vía,39.4655597,-0.36611649999999996,1137,1,850,flat,80,True,2,1,good,1.0
+88021299,Avenida Blasco Ibáñez,València,València,Algirós,es,Ciutat Jardí,39.4723531,-0.3430162,2940,5,980,flat,84,True,3,1,good,1.0
+40047678,barrio Sant Francesc,València,València,Ciutat Vella,es,Sant Francesc,39.4655838,-0.3754431,634,8,800,studio,82,True,0,1,good,1.0
+91283517,"Calle Maximiliano Thous, 23",València,València,La Saïdia,es,Sant Antoni,39.4877935,-0.3738708,1875,1,550,flat,60,False,1,1,good,1.0
+94313960,barrio Nou Campanar,València,València,Campanar,es,Nou Campanar,39.4829235,-0.40426029999999996,2664,5,740,flat,74,False,2,1,good,1.0
+90704182,barrio La Seu,València,València,Ciutat Vella,es,La Seu,39.4747792,-0.37620359999999997,416,1,1200,flat,80,True,2,2,good,1.0
+86498576,"Calle del Salvador, 5",València,València,Ciutat Vella,es,La Seu,39.4770554,-0.37410129999999997,712,en,800,studio,30,True,0,1,good,1.0
+95481091,Beatriz Tortosa,València,València,Algirós,es,L'Amistat,39.4710338,-0.349705,2363,4,595,flat,100,True,3,1,good,0.0
+95261297,barrio Albors,València,València,Camins al Grau,es,Albors,39.4717042,-0.354402,1961,2,800,flat,70,True,3,1,good,0.0
+95196772,Calle Padre Viñas,València,València,Rascanya,es,Els Orriols,39.4959826,-0.3715963,2806,5,595,studio,55,True,0,1,good,1.0
+95694117,"Calle Carrícola, 7-2",València,València,Jesús,es,La Creu Coberta,39.4521334,-0.38635349999999996,2251,2,650,flat,75,True,2,1,good,1.0
+95689722,Calle de Don Juan de Austria,València,València,Ciutat Vella,es,Sant Francesc,39.469097,-0.37250669999999997,464,2,750,studio,50,True,0,1,good,1.0
+86991268,Calle Jaime Beltrán,València,València,Jesús,es,La Raiosa,39.456184,-0.3871187,1865,1,550,flat,30,True,1,1,good,1.0
+95616911,barrio Penya-Roja,València,València,Camins al Grau,es,Penya-Roja,39.4543883,-0.3426086,3506,3,750,flat,85,True,1,1,good,1.0
+95582859,barrio El Mercat,València,València,Ciutat Vella,es,El Mercat,39.4712879,-0.37607969999999996,101,1,800,flat,80,True,1,1,good,1.0
+95569433,barrio La Llum,València,València,L'Olivereta,es,La Llum,39.4678352,-0.413589,3141,2,695,flat,85,True,2,2,good,1.0
+95527408,Calle de Exarchs,València,València,Ciutat Vella,es,El Mercat,39.4751352,-0.3796791,492,2,465,studio,28,False,0,1,good,0.0
+95519062,Calle del Padre Esteban Pernet,València,València,L'Olivereta,es,La Llum,39.4656352,-0.41128899999999996,2985,2,750,flat,80,True,2,2,good,1.0
+95388486,Calle del Rincón de Ademuz,València,València,L'Olivereta,es,Nou Moles,39.4720274,-0.4044056,2334,1,615,flat,85,True,2,1,good,1.0
+95199443,Calle DE CARRICOLA,València,València,Jesús,es,La Creu Coberta,39.4500134,-0.38883419999999996,2549,2,650,flat,75,True,2,1,good,1.0
+95135663,Olimpia Arozena Torres,València,València,L'Olivereta,es,Nou Moles,39.4717007,-0.39628969999999997,1636,2,750,flat,95,True,2,1,good,0.0
+95093194,Gil y Morte,València,València,Extramurs,es,Arrancapins,39.4641299,-0.3794152,799,1,1190,flat,70,True,2,1,good,1.0
+95015462,barrio El Mercat,València,València,Ciutat Vella,es,El Mercat,39.47593,-0.3780088,538,,990,flat,78,False,2,2,good,
+95015431,barrio La Xerea,València,València,Ciutat Vella,es,La Xerea,39.4742594,-0.3733434,483,4,1000,flat,89,False,2,2,good,1.0
+94828177,FERNANDO SASTRE,València,Mislata,La Constitución - Canaleta,es,,39.4728109,-0.41399149999999996,3160,2,550,flat,65,True,3,1,good,0.0
+92780060,Padre Anton Martin,València,València,Poblats Marítims,es,Playa de la Malvarrosa,39.47896,-0.3221746,4805,bj,900,flat,80,True,2,2,good,0.0
+92519072,Calle de San Jose de Calasanz,València,València,Extramurs,es,Arrancapins,39.4671599,-0.3880267,1025,8,825,penthouse,100,True,3,1,good,1.0
+91027303,Poeta césar simon,València,València,Camins al Grau,es,Aiora,39.4644138,-0.338813,3381,2,800,flat,100,True,3,2,good,1.0
+90762550,MENDIZABAL,València,València,Poblats Marítims,es,Playa de la Malvarrosa,39.4818337,-0.3272054,4456,1,850,flat,75,True,3,2,good,0.0
+1143240,Calle Convento de Jerusalén,València,València,Extramurs,es,La Roqueta,39.4688323,-0.3817798,465,1,700,flat,69,True,3,2,good,1.0
+95169398,barrio La Roqueta,València,València,Extramurs,es,La Roqueta,39.4689587,-0.3842315,646,4,775,flat,75,True,2,2,good,1.0
+91676810,San Vicente Martir,València,València,Ciutat Vella,es,Sant Francesc,39.472327,-0.3759091,175,10,900,flat,97,True,3,1,good,1.0
+39211576,Calle de Xiva,València,València,Patraix,es,Patraix,39.4665005,-0.3924031,1399,bj,450,flat,30,False,1,1,good,1.0
+95407522,San Vicente,València,València,Jesús,es,Sant Marcellí,39.44449,-0.38607,3056,5,675,flat,70,True,2,1,good,1.0
+92848706,barrio Ciutat de les Arts i de les Ciencies,València,València,Quatre Carreres,es,Ciutat de les Arts i de les Ciencies,39.45695,-0.35827000000000003,2265,8,950,duplex,81,True,3,2,good,1.0
+95109844,barrio Nou Moles,València,València,L'Olivereta,es,Nou Moles,39.4693933,-0.39246559999999997,1321,2,750,flat,97,True,2,1,good,0.0
+95672746,barrio Aiora,València,València,Camins al Grau,es,Aiora,39.4648771,-0.3506875,2382,1,800,flat,90,False,4,1,good,1.0
+95665671,La Constitución - Canaleta,València,Mislata,La Constitución - Canaleta,es,,39.4769161,-0.4176522,3528,3,550,flat,75,False,2,1,good,0.0
+88078928,barrio Malilla,València,València,Quatre Carreres,es,Malilla,39.4513294,-0.37336,2225,5,650,flat,85,True,3,1,good,1.0
+95640195,barrio L'Amistat,València,València,Algirós,es,L'Amistat,39.4708537,-0.3496015,2372,2,550,flat,90,True,3,1,good,1.0
+95639968,barrio Els Orriols,València,València,Rascanya,es,Els Orriols,39.4916054,-0.372625,2311,5,575,flat,71,True,2,1,good,1.0
+93263673,barrio Russafa,València,València,L'Eixample,es,Russafa,39.4608111,-0.37468379999999996,1167,2,650,flat,77,True,2,1,good,1.0
+95172865,barrio Nou Moles,València,València,L'Olivereta,es,Nou Moles,39.4676026,-0.40011349999999996,2002,1,750,flat,75,False,3,1,good,1.0
+86824323,barrio Playa de la Malvarrosa,València,València,Poblats Marítims,es,Playa de la Malvarrosa,39.4758111,-0.3288085,4189,4,1000,flat,80,True,3,1,good,1.0
+94239585,"Avenida del Puerto, Mestalla",València,València,El Pla del Real,es,Mestalla,39.4683011,-0.3574881,1723,4,575,flat,50,True,1,1,good,1.0
+92101193,Carretera Escrivà,València,València,Jesús,es,La Raiosa,39.4565774,-0.3836139,1707,1,475,studio,30,True,0,1,good,0.0
+95680003,barrio Playa de la Malvarrosa,València,València,Poblats Marítims,es,Playa de la Malvarrosa,39.4820542,-0.3287807,4332,4,700,flat,82,True,3,1,good,1.0
+95608373,"Calle d'Ausiàs March, 25",València,València,Quatre Carreres,es,En Corts,39.454584,-0.3736217,1864,7,870,flat,100,True,4,1,good,1.0
+95553397,barrio Penya-Roja,València,València,Camins al Grau,es,Penya-Roja,39.460288,-0.34581029999999996,2954,3,800,flat,82,True,1,1,good,1.0
+95553541,barrio La Creu Coberta,València,València,Jesús,es,La Creu Coberta,39.4499134,-0.3875342,2518,3,650,flat,89,True,2,1,good,1.0
+95647504,barrio Nou Moles,València,València,L'Olivereta,es,Nou Moles,39.4712632,-0.4019955,2125,7,500,flat,55,True,1,1,good,1.0
+95646801,barrio Els Orriols,València,València,Rascanya,es,Els Orriols,39.4984983,-0.3692644,3119,6,550,flat,90,True,3,1,good,1.0
+95613580,barrio La Seu,València,València,Ciutat Vella,es,La Seu,39.4737745,-0.3751162,346,2,925,flat,85,True,1,1,good,1.0
+90494996,barrio Mont-Olivet,València,València,Quatre Carreres,es,Mont-Olivet,39.4599001,-0.357882,2077,4,600,flat,75,True,2,1,good,1.0
+95581689,barrio La Petxina,València,València,Extramurs,es,La Petxina,39.4699234,-0.39029339999999996,1128,3,720,flat,80,True,3,1,good,1.0
+95531142,barrio Benicalap,València,València,Benicalap,es,Benicalap,39.4893886,-0.3860046,2165,1,600,flat,80,True,3,1,good,0.0
+88431938,barrio El Pilar,València,València,Ciutat Vella,es,El Pilar,39.4708263,-0.3819476,405,2,1300,flat,90,True,2,2,good,1.0
+91877929,barrio Na Rovella,València,València,Quatre Carreres,es,Na Rovella,39.4501887,-0.37191369999999996,2372,2,700,flat,90,True,3,1,good,0.0
+87294908,barrio Arrancapins,València,València,Extramurs,es,Arrancapins,39.4601363,-0.37932299999999997,1234,5,890,flat,88,False,3,1,good,1.0
+95689572,barrio Arrancapins,València,València,Extramurs,es,Arrancapins,39.4670641,-0.38726059999999995,971,8,1100,penthouse,80,True,2,1,good,1.0
+95689457,barrio Gran Vía,València,València,L'Eixample,es,Gran Vía,39.4641895,-0.3688981,1051,1,950,flat,80,True,2,1,good,1.0
+87855198,barrio La Roqueta,València,València,Extramurs,es,La Roqueta,39.4673712,-0.3798006,471,3,600,flat,60,True,2,1,good,0.0
+95403400,barrio Sant Isidre,València,València,Patraix,es,Sant Isidre,39.4541524,-0.4051401,3049,5,650,flat,84,True,3,1,good,1.0
+95339108,barrio Russafa,València,València,L'Eixample,es,Russafa,39.4607476,-0.3677563,1411,6,775,penthouse,55,True,2,1,good,1.0
+90081493,barrio Russafa,València,València,L'Eixample,es,Russafa,39.4571799,-0.3754648,1557,3,675,flat,80,True,3,1,good,1.0
+94688735,barrio Barrio de Favara,València,València,Patraix,es,Barrio de Favara,39.453958,-0.39460419999999996,2421,4,560,studio,49,True,0,1,good,1.0
+94516134,La Torre,València,La Torre,,es,,39.4372244,-0.3944261,4047,3,575,flat,80,True,3,1,good,0.0
+93577010,barrio La Creu del Grau,València,València,Camins al Grau,es,La Creu del Grau,39.4593281,-0.3401864,3440,bj,700,flat,82,True,2,1,good,0.0
+93394281,barrio Torrefiel,València,València,Rascanya,es,Torrefiel,39.4953711,-0.3732752,2717,5,650,flat,95,True,3,1,good,1.0
+38298198,barrio Playa de la Malvarrosa,València,València,Poblats Marítims,es,Playa de la Malvarrosa,39.4845862,-0.32497139999999997,4728,5,1200,flat,86,True,3,1,good,1.0
+89743565,barrio Nou Moles,València,València,L'Olivereta,es,Nou Moles,39.4681943,-0.40279109999999996,2217,1,850,studio,50,True,0,1,good,1.0
+95597396,barrio Aiora,València,València,Camins al Grau,es,Aiora,39.462363,-0.3391923,3407,3,650,flat,98,True,4,1,good,0.0
+95133844,"Calle Maximiliano Thous, 23",València,València,La Saïdia,es,Sant Antoni,39.4877935,-0.3738708,1875,1,850,flat,100,True,4,2,good,1.0
+95575616,barrio La Carrasca,València,València,Algirós,es,La Carrasca,39.4777601,-0.35368279999999996,2152,1,600,flat,70,True,2,1,good,1.0
+92035885,La Torre,València,La Torre,,es,,39.4356721,-0.3876378,4041,bj,260,studio,22,True,0,1,good,0.0
+95616679,barrio Trinitat,València,València,La Saïdia,es,Trinitat,39.4802407,-0.3694283,1215,1,650,flat,85,False,3,1,good,1.0
+95421818,barrio Sant Marcellí,València,València,Jesús,es,Sant Marcellí,39.44469,-0.38667,3048,5,625,flat,60,True,2,1,good,1.0
+83958004,barrio Benicalap,València,València,Benicalap,es,Benicalap,39.4914751,-0.38819359999999997,2450,3,550,flat,68,True,3,1,good,0.0
+95403027,barrio Nou Moles,València,València,L'Olivereta,es,Nou Moles,39.4710429,-0.40009819999999996,1962,5,640,flat,78,True,2,1,good,1.0
+95243601,barrio Torrefiel,València,València,Rascanya,es,Torrefiel,39.4929189,-0.3806865,2441,6,650,flat,72,True,3,1,good,1.0
+94220986,barrio Tormos,València,València,La Saïdia,es,Tormos,39.4865084,-0.3802544,1730,,800,flat,85,True,2,1,good,1.0
+95211091,barrio Exposició,València,València,El Pla del Real,es,Exposició,39.4790966,-0.36237759999999997,1553,3,550,studio,60,False,0,1,good,1.0
+95159940,barrio El Calvari,València,València,Campanar,es,El Calvari,39.4885143,-0.39050569999999996,2244,3,595,flat,60,True,2,1,good,1.0
+95000667,barrio La Creu Coberta,València,València,Jesús,es,La Creu Coberta,39.4521591,-0.38971279999999997,2364,bj,525,flat,60,True,2,1,good,1.0
+94842988,La Torre,València,La Torre,,es,,39.4346494,-0.3919351,4247,1,500,flat,70,True,2,1,good,0.0
+87596330,Benimàmet,València,Benimàmet,,es,,39.5028214,-0.4171758,4916,3,580,flat,86,True,2,1,good,0.0
+94596939,barrio Nou Moles,València,València,L'Olivereta,es,Nou Moles,39.4740896,-0.40232409999999996,2178,1,600,flat,73,True,3,1,good,1.0
+91533658,barrio El Calvari,València,València,Campanar,es,El Calvari,39.4861505,-0.3868599,1863,1,595,flat,52,True,2,1,good,1.0
+94374788,barrio El Calvari,València,València,Campanar,es,El Calvari,39.4850874,-0.3876736,1792,4,650,flat,50,True,2,1,good,1.0
+25917835,barrio La Roqueta,València,València,Extramurs,es,La Roqueta,39.467228,-0.38253699999999996,628,4,600,penthouse,60,True,2,1,good,0.0
+84531745,Benimàmet,València,Benimàmet,,es,,39.499425,-0.42110739999999997,4906,3,500,flat,68,True,2,1,good,0.0
+90937118,barrio Aiora,València,València,Camins al Grau,es,Aiora,39.4658456,-0.34675639999999996,2681,3,600,flat,53,True,1,1,good,1.0
+93744544,Benimàmet,València,Benimàmet,,es,,39.503087,-0.4172229,4940,2,600,flat,90,True,2,1,good,0.0
+92231910,barrio Natzaret,València,València,Poblats Marítims,es,Natzaret,39.4476637,-0.3345354,4499,2,600,flat,80,True,3,1,good,0.0
+86355240,barrio La Roqueta,València,València,Extramurs,es,La Roqueta,39.4668629,-0.3792829,505,5,575,studio,52,True,0,1,good,1.0
+89878966,barrio La Seu,València,València,Ciutat Vella,es,La Seu,39.4778968,-0.3758903,761,2,595,flat,62,True,1,1,good,0.0
+95368050,barrio Sant Pau,València,València,Campanar,es,Sant Pau,39.4922629,-0.4014211,3135,2,1100,flat,90,True,3,2,good,1.0
+95312268,Pueblo Nuevo/Poble Nou,València,Pueblo Nuevo/Poble Nou,,es,,39.5031008,-0.3708178,3598,2,650,flat,65,True,3,1,good,1.0
+92219488,Avenida de la Paz,València,Xirivella,Avenida de la Paz,es,,39.4644925,-0.42993519999999996,4583,1,600,flat,76,True,3,1,good,0.0
+94396615,barrio La Petxina,València,València,Extramurs,es,La Petxina,39.4759686,-0.3901676,1233,4,600,flat,45,True,1,1,good,1.0
+92686769,barrio En Corts,València,València,Quatre Carreres,es,En Corts,39.4559287,-0.3696758,1809,3,600,penthouse,60,True,1,1,good,0.0
+95722093,Cardenal Benlloch,València,Mislata,Cardenal Benlloch,es,,39.4743647,-0.4134565,3129,1,475,flat,95,True,3,1,good,1.0
+87121222,Calle Castellvins,València,València,Ciutat Vella,es,La Xerea,39.4725809,-0.37475909999999996,267,4,1000,flat,95,True,4,2,good,1.0
+95244598,Calle Conde de Torrefiel,València,València,Rascanya,es,Torrefiel,39.4961201,-0.377896,2779,4,550,flat,71,True,2,1,good,1.0
+95634834,barrio Natzaret,València,València,Poblats Marítims,es,Natzaret,39.445624,-0.33422029999999997,4655,1,550,flat,55,True,3,1,good,0.0
+95639698,barrio Albors,València,València,Camins al Grau,es,Albors,39.4720107,-0.3554806,1869,4,530,flat,62,True,1,1,good,1.0
+95594401,barrio Benimaclet,València,València,Benimaclet,es,Benimaclet,39.4843637,-0.3599959,2087,5,450,flat,56,True,2,1,good,1.0
+95402002,La Torre,València,La Torre,,es,,39.4331577,-0.39668729999999996,4539,10,650,flat,86,True,3,2,good,1.0
+94904467,La Torre,València,La Torre,,es,,39.4347823,-0.39792669999999997,4413,1,500,flat,70,True,2,1,good,0.0
+87604045,barrio Arrancapins,València,València,Extramurs,es,Arrancapins,39.4647376,-0.3841648,926,5,620,penthouse,55,True,2,1,good,0.0
+82613523,barrio Arrancapins,València,València,Extramurs,es,Arrancapins,39.4643376,-0.3839648,950,5,550,penthouse,55,True,0,1,good,0.0
+94152005,El Castell,València,Burjassot,El Castell,es,,39.5052136,-0.4081778,4627,1,525,flat,75,True,2,2,good,0.0
+94037248,barrio L'Hort de Senabre,València,València,Jesús,es,L'Hort de Senabre,39.4521053,-0.3948828,2601,4,500,studio,45,True,0,1,good,1.0
+92533233,barrio Barrio de Favara,València,València,Patraix,es,Barrio de Favara,39.4529343,-0.39403289999999996,2483,5,600,flat,90,True,2,1,good,1.0
+90047304,barrio Sant Francesc,València,València,Ciutat Vella,es,Sant Francesc,39.472233,-0.3772213,123,1,1650,flat,52,True,1,1,good,1.0
+88420389,barrio Russafa,València,València,L'Eixample,es,Russafa,39.4619798,-0.37215159999999997,1106,2,950,flat,60,True,1,1,good,0.0
+82991318,"SANTOS JUSTO Y PASTOR, 43",València,València,Algirós,es,Ciutat Jardí,39.4700087,-0.3487663,2446,4,675,flat,88,True,3,1,good,1.0
+88179480,Sierra Espadan,València,Alboraya,La Patacona,es,,39.48893,-0.3296,4542,7,950,flat,75,True,2,2,good,1.0
+95665105,barrio Tres Forques,València,València,L'Olivereta,es,Tres Forques,39.465186,-0.3984465,1936,1,650,flat,80,True,3,1,good,1.0
+95654808,La Patacona,València,Alboraya,La Patacona,es,,39.4840163,-0.3292831,4358,1,900,flat,81,True,2,2,good,1.0
+95633384,barrio El Carme,València,València,Ciutat Vella,es,El Carme,39.4791099,-0.3774189,888,4,1200,flat,48,True,1,1,good,0.0
+95499426,barrio Sant Marcellí,València,València,Jesús,es,Sant Marcellí,39.4450596,-0.3884821,3054,1,630,flat,50,True,1,1,good,1.0
+91154956,"Paseo Sierra de Espadán, 6",València,Alboraya,La Patacona,es,,39.4864364,-0.3285337,4513,3,680,flat,65,True,1,1,good,1.0
+94052788,"Calle de l'Actor Mauri, 1",València,València,Poblats Marítims,es,Beteró,39.4737583,-0.3356089,3584,,475,flat,70,True,2,1,good,0.0
+40527695,Avenida Mare Nostrum,València,Alboraya,La Patacona,es,,39.48948,-0.32761,4722,1,1450,flat,80,True,2,1,good,1.0
+83859164,"Calle Perfecte, 11",València,València,Quatre Carreres,es,En Corts,39.4574942,-0.3689338,1674,5,600,penthouse,61,True,2,1,good,0.0
+95618049,Calle de la Corona,València,València,Ciutat Vella,es,El Carme,39.4771872,-0.380442,728,1,1000,flat,57,True,1,1,good,1.0
+95505945,Calle del Pare Viñas,València,València,Rascanya,es,Els Orriols,39.4914024,-0.3732486,2280,2,550,flat,78,True,3,1,good,1.0
+95745988,Calle d'Aldaia,València,Xirivella,Avenida de la Paz,es,,39.4707056,-0.427589,4322,4,530,flat,79,True,3,1,good,1.0
+91897845,Calle de l'Erudit Pagès,València,València,Rascanya,es,Torrefiel,39.4965469,-0.3762886,2828,5,450,flat,69,False,2,1,good,0.0
+34050597,Calle de guillem de castro,València,València,Extramurs,es,El Botànic,39.4762976,-0.3852426,896,3,950,flat,100,True,3,2,good,1.0
+95761524,"Calle de l'Arxiduc Carles, 55",València,València,Patraix,es,Patraix,39.4643432,-0.3953698,1729,,630,flat,100,True,3,2,good,1.0
+95751810,Calle Pepe Alba,València,València,Camins al Grau,es,Aiora,39.465796,-0.3449704,2832,5,749,flat,75,True,2,1,good,1.0
+95750892,islas canarias,València,València,Camins al Grau,es,La Creu del Grau,39.4653408,-0.3451673,2826,5,680,flat,100,True,3,1,good,1.0
+95718158,Calle de la Marina Alta,València,València,Campanar,es,Sant Pau,39.4922629,-0.4007211,3096,3,780,flat,87,True,2,1,good,1.0
+95739376,Calle Asilo Infancia,València,València,Ciutat Vella,es,El Pilar,39.4705729,-0.38367219999999996,555,2,750,flat,65,True,2,1,good,0.0
+95736078,Calle dels Àngels,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4703845,-0.3308991,3978,bj,650,flat,65,False,1,1,good,0.0
+95427928,barrio La Petxina,València,València,Extramurs,es,La Petxina,39.4725927,-0.39182039999999996,1262,1,1300,flat,65,True,2,2,good,1.0
+95277225,barrio El Cabanyal-El Canyamelar,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4705876,-0.32961209999999996,4088,bj,800,flat,45,True,1,1,good,0.0
+95277187,barrio El Carme,València,València,Ciutat Vella,es,El Carme,39.4754641,-0.3769399,483,3,1600,flat,83,True,3,2,good,1.0
+95152110,barrio Nou Campanar,València,València,Campanar,es,Nou Campanar,39.4808781,-0.4011402,2320,7,1000,flat,100,True,2,2,good,1.0
+94685003,barrio Ciutat de les Arts i de les Ciencies,València,València,Quatre Carreres,es,Ciutat de les Arts i de les Ciencies,39.4499356,-0.36396429999999996,2616,10,1100,flat,98,True,2,2,good,1.0
+93665550,barrio La Seu,València,València,Ciutat Vella,es,La Seu,39.4720868,-0.3738073,313,4,1400,penthouse,82,True,1,1,good,1.0
+93429621,barrio El Botànic,València,València,Extramurs,es,El Botànic,39.4743008,-0.38492109999999996,748,4,1500,flat,85,True,2,2,good,1.0
+92569870,barrio La Roqueta,València,València,Extramurs,es,La Roqueta,39.4653763,-0.3810536,718,1,1200,flat,50,True,1,1,good,1.0
+92559152,barrio La Roqueta,València,València,Extramurs,es,La Roqueta,39.4660763,-0.37985359999999996,604,1,1200,flat,50,True,2,1,good,1.0
+92524565,barrio La Roqueta,València,València,Extramurs,es,La Roqueta,39.4682763,-0.37875359999999997,342,2,1200,flat,50,True,2,1,good,1.0
+92521503,barrio La Roqueta,València,València,Extramurs,es,La Roqueta,39.4656763,-0.3810536,688,3,1200,flat,50,True,1,1,good,1.0
+92521502,barrio La Roqueta,València,València,Extramurs,es,La Roqueta,39.4676763,-0.38135359999999996,521,3,1200,flat,50,True,1,1,good,1.0
+91498472,barrio En Corts,València,València,Quatre Carreres,es,En Corts,39.4600012,-0.3689571,1426,2,850,flat,80,True,2,2,good,1.0
+90325278,barrio La Seu,València,València,Ciutat Vella,es,La Seu,39.4754624,-0.3751483,514,,1900,flat,70,True,2,2,good,1.0
+95736213,"Calle Maestro Sosa, 10",València,València,Extramurs,es,Arrancapins,39.4623563,-0.38662359999999996,1264,2,950,flat,95,False,2,2,good,1.0
+95684969,Plaza del Miracle del Mocadoret,València,València,Ciutat Vella,es,La Seu,39.4728131,-0.3753371,248,1,1100,flat,93,True,2,1,good,1.0
+95602068,"Paseo de l'Albereda, 65",València,València,Camins al Grau,es,Penya-Roja,39.4546,-0.342003,3538,8,750,flat,72,True,1,1,good,1.0
+95584110,"JOSE CHABAS BORDEHORE, 3",València,València,Rascanya,es,Sant Llorenç,39.4933243,-0.3601199,2872,4,850,flat,79,True,2,2,good,1.0
+95433789,convento Jerusalén,València,València,Extramurs,es,La Roqueta,39.4657779,-0.3787403,608,4,1150,penthouse,50,True,1,1,good,1.0
+94959222,"Calle de Marvà, 27",València,València,Extramurs,es,Arrancapins,39.4638494,-0.38452179999999997,1022,bj,900,flat,80,True,3,2,good,0.0
+94436248,Paseo Serra d 'Espadá,València,Alboraya,La Patacona,es,,39.487908,-0.3292776,4519,,2400,flat,72,True,1,1,good,1.0
+93200542,Avenida Vicente Blasco Ibáñez Novelista,València,Alboraya,La Patacona,es,,39.4845366,-0.32936139999999997,4371,,850,flat,95,True,3,2,good,1.0
+39129069,Avenida Mare Nostrum,València,Alboraya,La Patacona,es,,39.4877735,-0.3265693,4726,,1100,flat,58,True,1,1,good,1.0
+91207197,Paseo Serra d 'Espadá,València,Alboraya,La Patacona,es,,39.4879163,-0.3308831,4394,,850,flat,82,True,2,2,good,0.0
+89294149,Paseo Serra d 'Espadá,València,Alboraya,La Patacona,es,,39.48449,-0.3304799,4279,,2300,flat,82,True,2,2,good,1.0
+89146971,Avenida Mare Nostrum,València,Alboraya,La Patacona,es,,39.4905412,-0.32659299999999997,4853,,950,flat,75,True,2,1,good,1.0
+88151116,Avenida Vicente Blasco Ibáñez Novelista,València,Alboraya,La Patacona,es,,39.4917342,-0.3277149,4828,,1170,flat,99,True,2,2,good,1.0
+88149735,Avenida Vicente Blasco Ibáñez Novelista,València,Alboraya,La Patacona,es,,39.4891342,-0.3259149,4838,,955,flat,85,True,1,1,good,1.0
+95740252,"Avenida de Burjassot, Valencia s/n",València,València,Benicalap,es,Benicalap,39.4913452,-0.39232039999999996,2594,9,700,flat,50,False,2,1,renew,1.0
+81132350,Avenida Vicente Blasco Ibáñez Novelista,València,Alboraya,La Patacona,es,,39.4904915,-0.32877059999999997,4683,,1050,flat,78,True,2,1,good,1.0
+94837276,Paseo Alameda,València,València,Camins al Grau,es,Penya-Roja,39.4609444,-0.3570003,2073,5,1100,flat,85,True,2,2,good,1.0
+88658172,Vicente Raga,València,València,Camins al Grau,es,Penya-Roja,39.4576523,-0.34658239999999996,3027,2,900,flat,90,True,2,2,good,1.0
+84536620,"Calle Francisco Moreno Usedo, Valencia",València,València,L'Olivereta,es,Nou Moles,39.4727736,-0.3981444,1803,4,700,flat,93,True,3,1,good,1.0
+94460381,Calle del Pintor Maella,València,València,Camins al Grau,es,La Creu del Grau,39.463352,-0.34825429999999996,2633,7,800,flat,79,True,2,1,good,1.0
+95617690,Calle del Pintor Maella,València,València,Camins al Grau,es,La Creu del Grau,39.464052,-0.3464543,2756,1,700,flat,80,True,3,1,good,1.0
+95610662,Calle Escultor José Capuz,València,València,Quatre Carreres,es,Mont-Olivet,39.4624476,-0.3622397,1608,4,1050,flat,100,True,2,2,good,1.0
+95583999,Calle de Cadis,València,València,L'Eixample,es,Russafa,39.4620116,-0.3745131,1039,5,800,penthouse,65,False,1,1,good,1.0
+95486266,Calle d'Escalante,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4712437,-0.32987299999999997,4065,,850,flat,72,True,2,1,good,0.0
+95751580,barrio Sant Pau,València,València,Campanar,es,Sant Pau,39.4891209,-0.3986567,2717,3,1100,flat,65,True,1,1,good,1.0
+95754405,Calle del Doctor Manuel Candela,València,València,Camins al Grau,es,Aiora,39.4673258,-0.3498577,2387,7,800,flat,63,True,2,1,good,1.0
+95310016,Calle Convento Jerusalén,València,València,Extramurs,es,La Roqueta,39.4674779,-0.3807403,504,4,1075,penthouse,45,True,1,1,good,1.0
+95726085,"Calle Carrícola, 9",València,València,Jesús,es,La Creu Coberta,39.4520529,-0.3869569,2278,2,600,flat,73,True,2,1,good,1.0
+95705376,"Calle Arzobispo Mayoral, 7",València,València,Ciutat Vella,es,Sant Francesc,39.4691907,-0.3781717,229,4,1000,flat,54,True,2,1,good,1.0
+84352094,"Calle Padre Luis Navarro, Valencia, 31",València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4641088,-0.33034389999999997,4100,1,900,flat,72,True,3,1,good,0.0
+95599276,Plaza de la Reina s/n,València,València,Ciutat Vella,es,La Seu,39.4743833,-0.37510289999999996,406,2,1600,studio,60,True,0,1,good,1.0
+95587846,"Calle Creu Roja, 1",València,València,Patraix,es,Vara de Quart,39.4606215,-0.41242599999999996,3238,bj,800,duplex,100,True,0,1,good,1.0
+95216188,Calle de Benimuslem,València,València,La Saïdia,es,Trinitat,39.4840738,-0.3711929,1530,2,850,flat,87,True,3,1,good,1.0
+92893680,Calle de Játiva,València,València,Ciutat Vella,es,Sant Francesc,39.4671064,-0.3772272,446,7,850,flat,55,True,2,1,good,1.0
+95728547,"Plaza de la Reina, 3",València,València,Ciutat Vella,es,La Seu,39.4738036,-0.37547959999999997,334,3,1100,flat,100,True,2,1,good,0.0
+95718919,Avenida del Primat Reig,València,València,El Pla del Real,es,Jaume Roig,39.4805791,-0.35911509999999996,1877,3,1000,flat,99,False,3,2,good,1.0
+95712576,"Calle Pintor Peiró, 9",València,València,El Pla del Real,es,Exposició,39.4751875,-0.3643226,1197,3,850,flat,74,True,2,1,good,1.0
+30582993,Avenida de les Balears,València,València,Camins al Grau,es,Penya-Roja,39.46183,-0.3552284,2153,3,750,flat,73,True,1,1,good,1.0
+95642289,Baleares,València,València,Camins al Grau,es,Penya-Roja,39.4642016,-0.3552161,2040,1,650,flat,69,True,3,1,good,1.0
+39533665,"Calle d'alemanya, 9",València,València,El Pla del Real,es,Jaume Roig,39.482435100000004,-0.3616463,1836,15,525,flat,40,True,1,1,good,1.0
+92139150,San Ramón y Monte de Piedad,València,Xirivella,San Ramón y Monte de Piedad,es,,39.465956,-0.4344972,4948,2,560,flat,80,True,2,1,good,1.0
+95295643,Plaza de Joan de Vila-rasa,València,València,Ciutat Vella,es,El Mercat,39.4721572,-0.3817393,403,4,1200,flat,91,True,2,1,good,1.0
+95211354,"Calle de las Comedias, 5",València,València,Ciutat Vella,es,La Xerea,39.473391,-0.3723066,492,6,750,penthouse,45,True,1,1,good,1.0
+85743675,Calle de Federico Alcácer Aguilar,València,València,Benicalap,es,Nou Benicalap,39.4946054,-0.3868216,2737,bj,730,flat,100,True,3,2,good,1.0
+95106491,"Jesus, 56",València,València,Extramurs,es,Arrancapins,39.4650437,-0.38467579999999996,929,5,750,flat,61,True,2,1,good,1.0
+95116036,Plaza OBISPO AMIGO,València,València,Extramurs,es,Arrancapins,39.4655554,-0.3864163,1002,5,1200,penthouse,63,True,2,1,good,1.0
+94829287,Calle Escultor José Capuz,València,València,Quatre Carreres,es,Mont-Olivet,39.4613298,-0.3601984,1823,3,800,flat,95,True,3,1,good,1.0
+94812083,Calle del Palleter,València,València,Extramurs,es,La Petxina,39.4719687,-0.3895334,1059,2,1250,flat,83,True,2,2,good,1.0
+94715697,Calle del Poeta Josep Cervera i Grífol,València,València,Quatre Carreres,es,Ciutat de les Arts i de les Ciencies,39.456028,-0.3576374,2376,3,750,flat,70,True,2,1,good,1.0
+94750930,Calle del Verger,València,València,Ciutat Vella,es,La Xerea,39.4710292,-0.3702656,598,1,1100,flat,81,True,1,1,good,0.0
+94598247,Calle de Cirilo Amorós,València,València,L'Eixample,es,El Pla del Remei,39.4708884,-0.3685515,745,1,950,flat,92,True,3,2,good,1.0
+94468760,Calle de la Estameñeria Vieja,València,València,Ciutat Vella,es,El Mercat,39.4756757,-0.3762367,513,2,700,duplex,54,True,0,1,good,0.0
+85319307,barrio Russafa,València,València,L'Eixample,es,Russafa,39.4608038,-0.3785925,1153,2,1100,flat,59,True,2,1,good,0.0
+91921281,"Avenida de las Cortes Valencianas, 45",València,València,Campanar,es,Sant Pau,39.4934746,-0.40216009999999996,3278,7,850,flat,95,True,2,2,good,1.0
+91551571,barrio Sant Francesc,València,València,Ciutat Vella,es,Sant Francesc,39.4704495,-0.3784342,127,4,1400,flat,75,True,1,1,good,1.0
+38440476,Calle de Vicente la Roda,València,València,Poblats Marítims,es,Playa de la Malvarrosa,39.4784721,-0.3244514,4603,,900,flat,70,True,2,2,good,0.0
+85847017,Calle de Carolina Álvarez,València,València,Camins al Grau,es,La Creu del Grau,39.4617574,-0.3459931,2876,,950,flat,85,False,2,1,good,1.0
+95561475,barrio Mestalla,València,València,El Pla del Real,es,Mestalla,39.4724885,-0.358595,1607,4,750,flat,88,True,3,1,good,1.0
+95498111,Calle de Bernabé Garcia,València,València,Poblats Marítims,es,Natzaret,39.4481211,-0.3333351,4554,1,725,flat,90,True,2,1,good,0.0
+91630702,"Avenida Mare Nostrum, 38",València,Alboraya,La Patacona,es,,39.4870735,-0.3257693,4759,2,800,studio,65,True,0,1,good,1.0
+91238818,Blasco Ibáñez,València,Alboraya,La Patacona,es,,39.4899915,-0.3273706,4766,5,900,flat,80,True,2,1,good,1.0
+95188126,Calle del Literat Azorín,València,Mislata,Cardenal Benlloch,es,,39.4749359,-0.41918819999999996,3625,5,560,flat,70,True,4,1,good,0.0
+94416967,Calle de Guillem de Castro,València,València,Ciutat Vella,es,El Carme,39.4793862,-0.38305819999999996,1045,3,950,flat,100,True,3,2,good,1.0
+95755363,"Calle Periodista Badía, 6",València,València,El Pla del Real,es,Exposició,39.4773451,-0.3631773,1390,3.0,625,flat,60,False,1,1,good,1.0
+95706953,"Calle del Padre Esteban Pernet, 22",València,València,L'Olivereta,es,La Llum,39.4673138,-0.41270219999999996,3073,3.0,695,flat,90,True,2,2,good,1.0
+95501010,"Calle de Méndez Núñez, 53",València,València,Poblats Marítims,es,El Grau,39.4593934,-0.3359219,3778,,495,flat,65,True,2,1,good,0.0
+39711876,Avenida Mare Nostrum,València,Alboraya,La Patacona,es,,39.4894835,-0.3260065,4847,,1500,flat,75,True,2,1,good,1.0
+95710259,Avenida de Joan XXIII,València,València,Rascanya,es,Torrefiel,39.4909576,-0.3823764,2249,1.0,650,flat,87,False,3,1,good,1.0
+89338358,"jurats, 35",València,València,L'Olivereta,es,Tres Forques,39.4688257,-0.405367,2427,3.0,650,flat,90,True,2,1,good,1.0
+95762426,"Calle del Mestre Sosa, 31",València,València,Extramurs,es,Arrancapins,39.4610716,-0.3835903,1243,,695,flat,75,True,2,1,good,1.0
+95761518,"Calle de Pere Aleixandre, 60",València,València,Quatre Carreres,es,Mont-Olivet,39.4593001,-0.35948199999999997,2012,,600,flat,65,True,2,2,good,1.0
+95734355,Avenida de Jesús Morante Borrás,València,València,Quatre Carreres,es,La Punta,39.4389691,-0.3445117,4547,,550,countryHouse,35,False,1,1,good,
+85686264,"Avenida del Camí Nou, 116",València,Xirivella,San Ramón y Monte de Piedad,es,,39.4652932,-0.43187939999999997,4734,,750,chalet,73,False,2,1,good,
+95666725,Calle de Manuel Melià i Fuster,València,València,Benicalap,es,Nou Benicalap,39.4948152,-0.3911203,2891,1.0,790,flat,97,False,2,2,good,1.0
+94757195,Avenida de Sant Josep Artesà,València,València,Benicalap,es,Ciutat Fallera,39.49969,-0.39556209999999997,3544,3.0,575,flat,60,True,3,1,good,0.0
+95604434,Calle de Molina de Segura,València,València,L'Olivereta,es,Tres Forques,39.4666989,-0.4041086,2358,3.0,580,flat,88,False,3,1,good,1.0
+95548349,Calle del Coronel Montesinos,València,València,Rascanya,es,Torrefiel,39.4956041,-0.37297929999999996,2746,1.0,560,flat,73,True,3,2,good,0.0
+93723866,Calle de Castelló,València,Mislata,La Constitución - Canaleta,es,,39.4779651,-0.4177609,3560,4.0,540,flat,86,True,3,1,good,0.0
+95423152,Calle de Fontanars dels Alforins,València,València,Patraix,es,Safranar,39.4570828,-0.3946229,2159,5.0,745,flat,90,True,3,2,good,1.0
+95283865,Tomás de Villarroya,València,València,Jesús,es,Sant Marcellí,39.4460943,-0.38750049999999997,2919,3.0,650,flat,89,True,2,1,good,1.0
+95253265,"Avenida de Francia, 159",València,València,Poblats Marítims,es,El Grau,39.458188,-0.33472389999999996,3922,1.0,1000,flat,78,True,3,2,good,1.0
+95225106,"Calle eixarchs, 20",València,València,Ciutat Vella,es,El Mercat,39.4744658,-0.3809189,487,5.0,1600,duplex,70,True,2,2,good,1.0
+89141754,quart,València,València,Ciutat Vella,es,El Carme,39.4777953,-0.38333259999999997,907,4.0,2000,penthouse,100,True,2,2,good,1.0
+95662123,Avenida de Burjassot,València,València,La Saïdia,es,Marxalenes,39.4836517,-0.38292299999999996,1476,5.0,900,flat,88,True,2,2,good,1.0
+95759556,Gran Via de Ferran el Catòlic,València,València,Extramurs,es,El Botànic,39.4704801,-0.3832159,518,9.0,1000,penthouse,63,True,1,1,good,1.0
+95751108,barrio El Cabanyal-El Canyamelar,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4730383,-0.3327425,3824,2.0,2000,flat,50,True,2,1,good,0.0
+95712867,Calle Ministro Luis Mayans,València,València,La Saïdia,es,Morvedre,39.4855978,-0.3699284,1727,7.0,750,flat,78,True,2,2,good,1.0
+95707828,barrio El Grau,València,València,Poblats Marítims,es,El Grau,39.456988,-0.3360239,3871,3.0,850,flat,97,True,3,2,good,1.0
+95689545,Calle Andarella,València,Xirivella,Barrio de la Luz,es,,39.4602858,-0.41312899999999997,3308,3.0,700,duplex,88,True,2,1,good,1.0
+95685524,"Calle del Pont de les Drassanes, 22",València,València,Poblats Marítims,es,Natzaret,39.4521809,-0.3322468,4399,,500,flat,91,True,3,1,good,0.0
+81867487,Republica Argentina,València,València,Algirós,es,L'Amistat,39.4736124,-0.353251,2077,2.0,700,flat,75,True,3,1,good,1.0
+95607839,Plaza Colegio Patriarca,València,València,Ciutat Vella,es,La Xerea,39.4733123,-0.3752026,299,4.0,900,flat,65,False,2,1,good,1.0
+95385757,barrio El Pla del Remei,València,València,L'Eixample,es,El Pla del Remei,39.4679153,-0.3679576,872,1.0,1300,flat,90,True,2,2,good,1.0
+95260490,barrio Sant Francesc,València,València,Ciutat Vella,es,Sant Francesc,39.4698531,-0.3715788,505,4.0,850,flat,62,True,1,1,good,1.0
+94822120,barrio Russafa,València,València,L'Eixample,es,Russafa,39.4598744,-0.37820329999999996,1253,1.0,1600,flat,62,True,2,2,good,1.0
+91714132,La Patacona,València,Alboraya,La Patacona,es,,39.4863735,-0.32646929999999996,4675,1.0,1200,flat,55,True,1,1,good,1.0
+91541504,barrio El Mercat,València,València,Ciutat Vella,es,El Mercat,39.4722858,-0.3753742,205,1.0,1100,flat,65,True,1,1,good,1.0
+91496279,barrio El Mercat,València,València,Ciutat Vella,es,El Mercat,39.4751858,-0.3753742,479,2.0,1100,flat,50,True,1,1,good,1.0
+91479973,barrio El Mercat,València,València,Ciutat Vella,es,El Mercat,39.4730858,-0.37817419999999996,232,2.0,1200,flat,75,True,1,1,good,1.0
+91455482,barrio El Mercat,València,València,Ciutat Vella,es,El Mercat,39.4757858,-0.3779742,522,3.0,1500,flat,70,True,2,2,good,1.0
+91090589,barrio Sant Francesc,València,València,Ciutat Vella,es,Sant Francesc,39.4696518,-0.377127,163,8.0,2500,penthouse,90,True,2,1,good,1.0
+89097406,barrio Aiora,València,València,Camins al Grau,es,Aiora,39.4661827,-0.3459663,2739,5.0,1200,flat,78,False,3,1,good,1.0
+88918792,barrio L'Amistat,València,València,Algirós,es,L'Amistat,39.4714922,-0.3498303,2352,3.0,1800,flat,100,True,4,2,good,1.0
+85320130,barrio Sant Francesc,València,València,Ciutat Vella,es,Sant Francesc,39.4707821,-0.3802685,262,10.0,1600,flat,85,True,1,1,good,1.0
+95696646,barrio El Botànic,València,València,Extramurs,es,El Botànic,39.4783768,-0.3854564,1071,3.0,850,flat,93,True,4,1,good,1.0
+95659463,barrio Sant Pau,València,València,Campanar,es,Sant Pau,39.4891694,-0.4032504,3001,4.0,750,flat,81,True,1,1,good,1.0
+95619212,barrio Safranar,València,València,Patraix,es,Safranar,39.4586627,-0.3944433,2025,14.0,850,flat,82,True,2,2,good,1.0
+83354430,barrio El Pla del Remei,València,València,L'Eixample,es,El Pla del Remei,39.4668675,-0.3736238,565,7.0,1200,penthouse,100,True,3,2,good,1.0
+95573229,barrio Sant Pau,València,València,Campanar,es,Sant Pau,39.4913629,-0.4039211,3210,2.0,1050,flat,100,True,3,2,good,1.0
+95754313,Calle de Salvador Giner,València,València,Ciutat Vella,es,El Carme,39.4812915,-0.3806469,1167,3.0,800,flat,40,True,1,1,good,0.0
+95753427,Plaza del Miracle del Mocadoret,València,València,Ciutat Vella,es,La Seu,39.4728131,-0.3757371,227,1.0,1100,flat,80,True,2,1,good,1.0
+90908340,Calle de Maluquer s/n,València,València,Extramurs,es,Arrancapins,39.4629646,-0.3850924,1130,1.0,650,flat,56,True,1,1,good,1.0
+84032606,Avenida Mare Nostrum,València,Alboraya,La Patacona,es,,39.4852735,-0.32496929999999996,4753,,1900,flat,66,True,1,1,good,0.0
+87800630,Avenida Mare Nostrum,València,Alboraya,La Patacona,es,,39.492167,-0.327489,4868,,850,flat,82,True,2,1,good,1.0
+38440526,Avenida Mare Nostrum,València,Alboraya,La Patacona,es,,39.4857484,-0.3274971,4568,6,1200,flat,100,False,3,2,good,1.0
+86183682,Paseo Serra d 'Espadá,València,Alboraya,La Patacona,es,,39.486808,-0.3271776,4636,,900,flat,82,True,2,2,good,1.0
+82084176,Avenida Vicente Blasco Ibáñez Novelista,València,Alboraya,La Patacona,es,,39.4900915,-0.32777059999999997,4740,,1050,flat,81,True,2,1,good,1.0
+38675185,Paseo Serra d 'Espadá,València,Alboraya,La Patacona,es,,39.486108,-0.3299776,4384,1,900,flat,86,True,2,2,good,1.0
+95725144,Calle Juan José Sister,València,València,Poblats Marítims,es,El Grau,39.4583761,-0.3325199,4091,2,750,flat,70,True,3,1,good,0.0
+95706407,"perez galdos, 7",València,València,Patraix,es,Patraix,39.4630915,-0.3875405,1256,bj,650,studio,58,True,0,1,good,1.0
+95648047,Calle de la Nau,València,València,Ciutat Vella,es,La Xerea,39.4715862,-0.37100649999999996,537,2,900,flat,86,True,2,1,good,1.0
+95640121,Calle de Cadis,València,València,L'Eixample,es,Russafa,39.4610405,-0.37254129999999996,1191,5,1100,flat,80,True,3,2,good,1.0
+91254837,Paseo de l'Albereda,València,València,Camins al Grau,es,Penya-Roja,39.4559712,-0.342118,3453,3,750,flat,70,True,1,1,good,1.0
+85943640,"Carrer dels Carnissers, 6",València,València,Ciutat Vella,es,El Pilar,39.4738213,-0.3821572,518,2,750,flat,85,True,2,2,good,0.0
+95619325,"Peris y Valero, 105",València,València,L'Eixample,es,Russafa,39.459474,-0.37029839999999997,1425,9,795,penthouse,88,True,2,2,good,1.0
+93741208,"Calle Marina Alta, 6",València,València,Campanar,es,Sant Pau,39.493021,-0.4032453,3303,2,1100,flat,90,True,3,2,good,1.0
+81903840,"Avenida Maestro Rodrigo, Valencia s/n",València,València,Campanar,es,Sant Pau,39.4841064,-0.4024261,2599,4,800,flat,54,True,1,1,good,1.0
+86821012,"Calle de L'Illa Cabrera, 82",València,València,Quatre Carreres,es,Malilla,39.4495713,-0.3712316,2451,4,740,flat,92,True,3,2,good,1.0
+95244012,Calle de la Serratella,València,València,Benicalap,es,Benicalap,39.4934899,-0.398588,3089,2,980,flat,96,True,3,2,good,1.0
+94947039,"Calle dels Jurats, 31",València,València,L'Olivereta,es,Tres Forques,39.4686977,-0.4050742,2404,3,650,flat,75,True,2,1,good,1.0
+95740192,Calle Peris Celda,València,València,Benicalap,es,Ciutat Fallera,39.5007881,-0.3938528,3593,2,750,flat,86,True,4,2,good,0.0
+95722100,ANTONIO PONZ,València,València,Poblats Marítims,es,Playa de la Malvarrosa,39.4787852,-0.3252481,4542,6,650,flat,82,True,3,1,good,1.0
+95439429,Calle de Sant Marcel·lí,València,València,Jesús,es,Sant Marcellí,39.4455268,-0.3896476,3038,4,620,flat,66,True,3,1,good,1.0
+95426099,Calle dels Plàtans,València,València,Benicalap,es,Benicalap,39.4933209,-0.3869494,2605,3,600,flat,74,True,3,1,good,0.0
+95426098,Calle de Josep Barberà Falcó,València,València,L'Olivereta,es,Tres Forques,39.4663205,-0.4009568,2104,4,620,flat,83,True,3,1,good,1.0
+95426094,Calle de la Floresta,València,València,Camins al Grau,es,Aiora,39.4646421,-0.3502402,2426,1,700,flat,72,True,3,1,good,1.0
+95426068,Calle dels Sants Just i Pastor,València,València,Algirós,es,Ciutat Jardí,39.468722,-0.3493301,2410,5,710,flat,72,True,4,1,good,1.0
+95399144,Calle de Méndez Núñez,València,València,Poblats Marítims,es,El Grau,39.4574934,-0.3358219,3864,bj,540,flat,51,True,2,1,good,0.0
+92176323,Calle de Benicàssim,València,Castellar-Oliveral,,es,,39.4302607,-0.365359,4656,4,500,flat,98,True,3,1,good,1.0
+88166168,Calle de Sant Jacint Castanyeda,València,València,Quatre Carreres,es,Mont-Olivet,39.458223,-0.3624732,1914,5,530,flat,46,True,1,1,good,0.0
+95294043,Calle el Fielat,València,Mislata,Los Juzgados,es,,39.4752225,-0.4100585,2853,12,780,penthouse,81,False,2,2,good,1.0
+94605689,Calle de la Reina,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4757653,-0.3286099,4205,2,700,flat,83,True,3,1,good,1.0
+95220775,Calle de l'Arquitecte Ribes,València,València,L'Olivereta,es,Soternes,39.473382,-0.4050876,2403,2,600,flat,80,True,2,1,good,1.0
+95173906,Calle de l'Agró,València,València,L'Olivereta,es,La Fontsanta,39.4657885,-0.40956899999999996,2837,3,610,flat,96,True,3,1,good,1.0
+95149043,Calle del Lugre,València,València,La Saïdia,es,Tormos,39.4912708,-0.3830656,2295,4,630,flat,69,True,3,1,good,1.0
+95058116,Calle Andreu Alfaro,València,València,Benicalap,es,Ciutat Fallera,39.4988443,-0.3967811,3509,3,700,flat,82,True,3,2,good,1.0
+95015619,Calle Rio Cenia,València,València,Poblats Marítims,es,Natzaret,39.45447,-0.33496000000000004,4074,3,530,flat,69,True,2,1,good,0.0
+94938636,Calle de Alquerías de les Bellver,València,València,Benicalap,es,Benicalap,39.4929114,-0.39534339999999996,2878,1,620,flat,59,True,3,1,good,1.0
+94911170,Calle del Duc de Mandas,València,València,Rascanya,es,Els Orriols,39.4951693,-0.3700302,2744,5,660,flat,78,True,3,2,good,1.0
+94826766,Calle de Sant Pius X,València,València,Jesús,es,Sant Marcellí,39.4449628,-0.3915507,3157,3,620,flat,68,True,3,1,good,1.0
+93512228,Avenida del Mestre Rodrigo,València,València,Campanar,es,Sant Pau,39.4851088,-0.40561929999999996,2889,6,1195,flat,100,True,3,2,good,1.0
+93512206,Avenida del Mestre Rodrigo,València,València,Campanar,es,Sant Pau,39.4870088,-0.4029193,2824,3,765,flat,54,True,1,1,good,1.0
+94616782,Calle de l'Erudit Orellana,València,València,Extramurs,es,Arrancapins,39.4721107,-0.3882836,954,5,760,flat,99,False,3,1,good,1.0
+94459805,Calle de Carrícola,València,València,Jesús,es,La Creu Coberta,39.4530087,-0.3886686,2240,5,620,flat,76,True,3,1,good,1.0
+94129521,Calle de Manuel Melià i Fuster,València,València,Benicalap,es,Nou Benicalap,39.4988152,-0.3919203,3326,1,640,flat,62,False,1,1,good,1.0
+94101806,Calle de Godofred Ros,València,València,Quatre Carreres,es,Mont-Olivet,39.4592285,-0.3596101,2009,4,560,flat,74,False,3,1,good,0.0
+95261689,Avenida de Burjassot,València,València,La Saïdia,es,Marxalenes,39.4859517,-0.383523,1734,5,850,flat,70,True,2,2,good,1.0
+93414300,Calle de Salvador Giner,València,València,Ciutat Vella,es,El Carme,39.4788865,-0.3782328,867,1,1065,flat,93,True,3,2,good,1.0
+93068807,"Calle Turia, 63",València,València,Extramurs,es,El Botànic,39.4776778,-0.3855404,1019,5,1733,penthouse,91,True,2,2,good,1.0
+93068699,"Calle Turia, 63",València,València,Extramurs,es,El Botànic,39.4776778,-0.3855404,1019,5,1733,penthouse,95,True,2,2,good,1.0
+92738968,"Ernesto Che Guevara, 24",València,Mislata,Los Juzgados,es,,39.4730722,-0.4081371,2661,5,650,flat,43,True,1,1,good,1.0
+89710149,"Calle Huertos, 4",València,València,Ciutat Vella,es,El Carme,39.4799078,-0.3803264,1012,2,1678,duplex,79,True,2,2,good,1.0
+89707000,"Calle Huertos, 4",València,València,Ciutat Vella,es,El Carme,39.4799078,-0.3803264,1012,1,1403,flat,63,True,1,1,good,1.0
+89706317,"Calle Huertos, 4",València,València,Ciutat Vella,es,El Carme,39.4799078,-0.3803264,1012,2,1293,flat,53,True,1,1,good,1.0
+89705355,"Calle Huertos, 4",València,València,Ciutat Vella,es,El Carme,39.4799078,-0.3803264,1012,2,1568,flat,86,True,2,1,good,1.0
+88425744,"Calle Huertos, 4",València,València,Ciutat Vella,es,El Carme,39.4799078,-0.3803264,1012,bj,1403,duplex,72,True,1,1,good,1.0
+88425561,"Calle Huertos, 4",València,València,Ciutat Vella,es,El Carme,39.4799078,-0.3803264,1012,bj,1568,duplex,86,True,2,2,good,1.0
+38025150,"Calle Ernesto Che Guevara, 24",València,Mislata,Los Juzgados,es,,39.4731342,-0.4084426,2687,4,605,flat,40,True,1,1,good,1.0
+84116278,"Bailén, 2",València,València,Extramurs,es,La Roqueta,39.4674007,-0.3777897,416,1,1200,flat,85,True,3,2,good,1.0
+36038982,"Calle Ernesto Che Guevara, 24",València,Mislata,Los Juzgados,es,,39.4731342,-0.4084426,2687,16,800,flat,62,True,2,1,good,1.0
+93111022,"Calle Ignacio Hernandez Hervas, 5",València,La Torre,,es,,39.4350412,-0.39647099999999996,4338,,580,flat,60,True,2,1,newdevelopment,1.0
+89056905,Calle del Padre Urbano,València,València,La Saïdia,es,Sant Antoni,39.4875937,-0.3702878,1926,5,775,flat,99,True,2,1,good,1.0
+28563137,Calle Carlos Cervera,València,València,L'Eixample,es,Russafa,39.4650576,-0.3726117,782,4,630,flat,75,True,2,1,good,1.0
+89980102,Calle de Vicent Lladró Sena,València,Xirivella,Avenida de la Paz,es,,39.4689186,-0.42701229999999996,4279,2,650,flat,84,True,2,1,good,0.0
+88618780,Calle de La Marina Baja s/n,València,València,Campanar,es,Sant Pau,39.4905034,-0.40422179999999996,3163,3,850,flat,81,True,1,1,good,1.0
+95730064,Camino Moncada,València,València,Rascanya,es,Torrefiel,39.4918435,-0.3776021,2304,3,675,flat,74,True,2,1,good,1.0
+91895518,Calle del Triador,València,València,Ciutat Vella,es,El Pilar,39.4744733,-0.3838835,681,3,680,flat,60,True,3,2,good,0.0
+95706062,Calle Uruguai,València,València,Jesús,es,La Raiosa,39.4571042,-0.3850629,1697,5,700,flat,100,True,3,2,good,1.0
+95703884,Calle Domingo Gómez,València,València,Rascanya,es,Torrefiel,39.4913001,-0.3774569,2243,1,600,flat,90,True,3,1,good,1.0
+91830583,Gran Via del Marqués del Túria,València,València,L'Eixample,es,Gran Vía,39.4632604,-0.3721737,976,1,800,flat,70,False,1,1,good,1.0
+91336053,Calle Rascaña,València,València,Campanar,es,Campanar,39.4829835,-0.3976012,2189,3,650,flat,91,True,3,1,good,1.0
+82556790,barrio Penya-Roja,València,València,Camins al Grau,es,Penya-Roja,39.457357,-0.3448311,3175,5,800,flat,66,True,1,1,good,1.0
+84290259,Mare Nostrum,València,Alboraya,La Patacona,es,,39.4878181,-0.32473969999999996,4872,bj,750,flat,65,True,1,1,good,1.0
+34909131,"Pie de la cruz, 9",València,València,Ciutat Vella,es,El Pilar,39.4732088,-0.3807636,381,1,700,flat,90,True,3,2,good,1.0
+95754233,barrio Benimaclet,València,València,Benimaclet,es,Benimaclet,39.4840724,-0.3653164,1766,5,700,flat,61,False,2,1,good,1.0
+95742530,barrio Malilla,València,València,Quatre Carreres,es,Malilla,39.448424,-0.3780771,2524,2,600,flat,86,True,3,1,good,1.0
+95738756,barrio El Botànic,València,València,Extramurs,es,El Botànic,39.4728265,-0.3889863,1026,3,850,flat,66,True,2,1,good,0.0
+95734527,"Calle dels Sornells, 30",València,València,L'Eixample,es,Russafa,39.4600706,-0.3717275,1316,4,900,flat,61,True,3,1,good,1.0
+95724185,barrio Safranar,València,València,Patraix,es,Safranar,39.462025,-0.3980065,2049,5,700,flat,100,True,3,1,good,1.0
+95724033,barrio Beteró,València,València,Poblats Marítims,es,Beteró,39.4696847,-0.3361238,3532,7,950,flat,100,True,4,2,good,1.0
+95722194,barrio El Cabanyal-El Canyamelar,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4693281,-0.3307034,3999,bj,750,chalet,90,False,2,1,good,
+95573089,Calle Gibraltar,València,València,L'Eixample,es,Russafa,39.4639091,-0.3791604,818,1,800,flat,65,True,2,1,good,1.0
+95540646,Calle Benicarló,València,València,Benimaclet,es,Benimaclet,39.4852172,-0.3655137,1862,3,800,flat,86,True,3,2,good,1.0
+95463465,barrio El Mercat,València,València,Ciutat Vella,es,El Mercat,39.4739053,-0.3797565,377,3,850,flat,65,True,2,1,good,1.0
+94952253,barrio El Carme,València,València,Ciutat Vella,es,El Carme,39.4765976,-0.37825749999999997,614,3,1000,flat,99,True,1,1,good,0.0
+94853816,Barrio de la Luz,València,Xirivella,Barrio de la Luz,es,,39.463071,-0.415472,3401,1,750,duplex,99,True,1,1,good,1.0
+94804810,barrio Ciutat de les Arts i de les Ciencies,València,València,Quatre Carreres,es,Ciutat de les Arts i de les Ciencies,39.447336,-0.360964,2991,10,1050,flat,84,True,2,2,good,1.0
+94124780,barrio El Cabanyal-El Canyamelar,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4747637,-0.32696759999999997,4333,1,1300,studio,80,True,0,1,good,1.0
+93682762,barrio El Carme,València,València,Ciutat Vella,es,El Carme,39.48251,-0.37917,1276,3,1100,flat,90,True,3,2,good,1.0
+93394869,barrio El Mercat,València,València,Ciutat Vella,es,El Mercat,39.4764557,-0.3765402,595,,1375,chalet,78,False,3,2,good,
+93385526,barrio El Mercat,València,València,Ciutat Vella,es,El Mercat,39.4755557,-0.3796402,534,bj,1050,chalet,78,False,3,2,good,
+92227951,barrio La Seu,València,València,Ciutat Vella,es,La Seu,39.4738109,-0.37565129999999997,328,2,1100,flat,78,False,2,1,good,0.0
+91009334,barrio Sant Francesc,València,València,Ciutat Vella,es,Sant Francesc,39.4707134,-0.37519589999999997,181,2,800,studio,60,True,0,1,good,1.0
+92070668,barrio El Mercat,València,València,Ciutat Vella,es,El Mercat,39.4705192,-0.3764596,94,1,750,flat,60,False,1,1,good,0.0
+90491648,Benimàmet,València,Benimàmet,,es,,39.4966865,-0.4242428,4934,,1400,studio,50,True,0,1,good,0.0
+90491639,barrio El Mercat,València,València,Ciutat Vella,es,El Mercat,39.4710591,-0.3764244,70,1,1300,flat,97,True,2,2,good,1.0
+90490512,Benimàmet,València,Benimàmet,,es,,39.4957865,-0.4250428,4934,bj,1400,studio,50,True,0,2,good,0.0
+90368221,barrio La Petxina,València,València,Extramurs,es,La Petxina,39.4727687,-0.3868334,843,2,1300,flat,95,True,2,2,good,0.0
+90323746,barrio La Petxina,València,València,Extramurs,es,La Petxina,39.4698489,-0.3876957,908,1,1500,flat,92,True,2,2,good,0.0
+89938334,barrio El Grau,València,València,Poblats Marítims,es,El Grau,39.4626943,-0.3356965,3686,1,1000,studio,55,True,0,1,good,1.0
+89096789,barrio La Seu,València,València,Ciutat Vella,es,La Seu,39.4735109,-0.3768513,267,2,1300,flat,78,True,2,1,good,0.0
+88497367,barrio El Mercat,València,València,Ciutat Vella,es,El Mercat,39.4715328,-0.379864,230,3,1400,duplex,74,True,1,2,good,1.0
+85319686,barrio El Mercat,València,València,Ciutat Vella,es,El Mercat,39.477231,-0.3825092,816,3,1600,flat,46,True,1,1,good,0.0
+95739668,"lepanto, 29",València,Alboraya,Zona Ausias March,es,,39.4963292,-0.3482863,3745,1,550,flat,50,True,1,1,good,1.0
+95688189,Calle Pintor Peiró s/n,València,València,El Pla del Real,es,Exposició,39.475188,-0.3641732,1208,2,900,flat,52,True,1,1,good,1.0
+95652778,"Calle de Maria Fernanda d´Ocon, 5",València,València,Benicalap,es,Nou Benicalap,39.4975555,-0.3918094,3194,7,799,penthouse,85,True,2,2,good,1.0
+95589192,"Calle Abén al Abbar, 8",València,València,Camins al Grau,es,Albors,39.4670868,-0.3523865,2179,3,844,flat,80,True,3,2,good,1.0
+95542158,Avenida del Port,València,València,Camins al Grau,es,Aiora,39.4639392,-0.34242039999999996,3093,7,900,flat,98,True,3,2,good,1.0
+95483055,"Mare Nostrum, 7",València,Alboraya,La Patacona,es,,39.4912412,-0.32609299999999997,4926,3,950,flat,85,True,2,2,good,1.0
+95754483,Calle del Portal de Valldigna,València,València,Ciutat Vella,es,El Carme,39.4756556,-0.3807453,587,1,600,flat,63,True,1,1,good,1.0
+95751757,"Plaza de la Virgen, 3",València,València,Ciutat Vella,es,La Seu,39.475987,-0.37555449999999996,559,4,600,studio,45,True,0,1,good,0.0
+95748299,Avenida MALVARROSA,València,València,Poblats Marítims,es,Playa de la Malvarrosa,39.4811985,-0.32630129999999996,4512,5,650,flat,69,False,2,1,good,1.0
+95739297,Calle de la Creu Roja,València,València,Patraix,es,Vara de Quart,39.4625215,-0.413726,3274,,750,chalet,80,False,1,1,good,
+95732672,Calle Andarella,València,Xirivella,Barrio de la Luz,es,,39.4609858,-0.412829,3256,3,750,duplex,88,True,1,1,good,1.0
+95690403,"JUAN ALFONSO GIL ALBORS, 1",València,València,Camins al Grau,es,La Creu del Grau,39.4631908,-0.3474597,2703,5,750,flat,78,True,2,2,good,1.0
+95687795,Calle San Juan de la Peña,València,València,Rascanya,es,Els Orriols,39.4932899,-0.3677353,2596,2,560,flat,56,True,3,1,good,0.0
+95643395,"Garcilaso, 3",València,València,Ciutat Vella,es,El Carme,39.4791984,-0.37745249999999997,898,1,700,flat,91,True,2,2,good,0.0
+95600245,"Calle Vidal de Blanes, 17",València,València,Poblats Marítims,es,El Grau,39.459578,-0.33478009999999997,3863,3,600,flat,65,True,2,1,good,1.0
+28283098,"Calle Genaro la Huerta, 47",València,València,Benimaclet,es,Benimaclet,39.4865802,-0.3669945,1930,2,690,flat,68,True,2,1,good,1.0
+95466189,Calle de Blanes,València,València,Ciutat Vella,es,El Mercat,39.4737659,-0.3783272,308,2,1300,flat,95,True,2,2,good,0.0
+95383939,"SUECA, 81",València,València,L'Eixample,es,Russafa,39.4585302,-0.37283089999999997,1450,3,750,flat,75,True,2,1,good,1.0
+95312739,Calle de Buenos Aires,València,València,L'Eixample,es,Russafa,39.4626185,-0.37594849999999996,952,2,1150,flat,58,True,1,1,good,1.0
+95287384,Calle de la Corona,València,València,Ciutat Vella,es,El Carme,39.4789578,-0.3804643,914,1,850,flat,50,True,1,1,good,1.0
+95200211,Passatge de Giner,València,València,Ciutat Vella,es,La Seu,39.4724745,-0.3757162,199,3,925,flat,75,True,1,1,good,1.0
+95049184,Calle Creu Roja,València,València,Patraix,es,Vara de Quart,39.4597215,-0.414126,3410,1,800,duplex,100,True,1,1,good,1.0
+94595741,Calle de la Sénia,València,València,Ciutat Vella,es,El Mercat,39.4754551,-0.3799884,536,1,840,flat,78,False,2,2,good,1.0
+94595725,Calle de Joan Llorenç,València,València,Extramurs,es,La Petxina,39.4687489,-0.39089569999999996,1201,1,1000,flat,81,False,2,2,good,1.0
+94565059,Paseo Serra d 'Espadá,València,Alboraya,La Patacona,es,,39.4894959,-0.3267265,4792,2,869,flat,95,True,2,2,good,1.0
+94564836,Paseo Serra d 'Espadá,València,Alboraya,La Patacona,es,,39.4861959,-0.3287265,4487,bj,831,flat,63,True,1,1,good,1.0
+94564661,Paseo Serra d 'Espadá,València,Alboraya,La Patacona,es,,39.4863959,-0.32682649999999996,4647,2,749,flat,77,True,1,1,good,1.0
+94564577,Paseo Serra d 'Espadá,València,Alboraya,La Patacona,es,,39.4892959,-0.3296265,4558,8,933,penthouse,78,True,1,1,good,1.0
+93863587,Calle del Mestre Aguilar,València,València,L'Eixample,es,Russafa,39.4585232,-0.3697779,1540,4,975,flat,74,True,2,1,good,0.0
+91757359,Plaza del Col·legi del Patriarca,València,València,Ciutat Vella,es,La Xerea,39.4721067,-0.3749133,227,2,1000,flat,89,True,2,1,good,1.0
+91491564,Calle de Mosén Femades,València,València,Ciutat Vella,es,Sant Francesc,39.4708076,-0.3765387,69,3,1200,studio,69,True,0,1,good,1.0
+91099077,Calle de l'Almirall Cadarso,València,València,L'Eixample,es,Gran Vía,39.4645597,-0.3672165,1127,1,850,flat,90,True,2,1,good,1.0
+88892608,Calle Pérez Pujol,València,València,Ciutat Vella,es,Sant Francesc,39.4676696,-0.37347359999999996,501,5,875,penthouse,60,True,1,1,good,1.0
+95728704,Calle de la Reina,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4743998,-0.32626859999999996,4389,2,790,flat,68,True,3,1,good,0.0
+95696049,Avenida de Pérez Galdós,València,València,L'Olivereta,es,Nou Moles,39.4684351,-0.39253319999999997,1346,8,700,flat,81,True,3,1,good,1.0
+91649932,Avenida d'Aragó,València,València,El Pla del Real,es,Mestalla,39.4728711,-0.35716000000000003,1734,12,950,flat,90,True,3,2,good,1.0
+95632648,Calle de Russafa,València,València,L'Eixample,es,Russafa,39.4660133,-0.37457799999999997,612,5,700,flat,68,False,2,1,good,1.0
+95588544,Avenida d'Ausiàs March,València,València,Quatre Carreres,es,En Corts,39.4551389,-0.3725209,1822,7,990,flat,91,True,4,1,good,1.0
+95586600,Avenida del Cid,València,València,Patraix,es,Patraix,39.4670661,-0.3965535,1718,en,1000,flat,70,True,2,1,good,1.0
+95557422,barrio Sant Francesc,València,València,Ciutat Vella,es,Sant Francesc,39.4701034,-0.37912589999999996,197,10,1500,flat,60,True,2,1,good,1.0
+95526822,Calle de l'Arquitecte Alfaro,València,València,Poblats Marítims,es,El Grau,39.4608873,-0.3368894,3645,,1400,flat,97,True,3,1,good,0.0
+95098210,San Antonio,València,Mislata,La Constitución - Canaleta,es,,39.4752673,-0.4127769,3084,1,750,flat,55,True,1,1,good,1.0
+95736412,Avenida Maestro Rodrigo,València,València,Campanar,es,Sant Pau,39.4845088,-0.40351929999999997,2702,2,850,flat,80,True,2,2,good,1.0
+95757403,Avenida del Puerto,València,València,El Pla del Real,es,Mestalla,39.4685437,-0.35916119999999996,1577,3,780,flat,55,True,1,1,good,1.0
+95727907,barrio Sant Pau,València,València,Campanar,es,Sant Pau,39.4919622,-0.4000648,3034,21,1300,flat,100,True,2,2,good,1.0
+95703633,Calle de la Beneficencia,València,València,Ciutat Vella,es,El Carme,39.4770747,-0.3813006,748,2,700,flat,55,True,1,1,good,1.0
+81303138,Calle del Poeta Mas y Ros,València,València,Algirós,es,L'Amistat,39.46984,-0.35098,2258,7,850,flat,80,True,3,1,good,1.0
+92815582,barrio Benicalap,València,València,Benicalap,es,Benicalap,39.4929972,-0.402096,3235,2,690,flat,36,True,1,1,good,1.0
+92811759,barrio Benicalap,València,València,Benicalap,es,Benicalap,39.4950972,-0.400696,3340,2,600,studio,24,True,0,1,good,1.0
+95713362,Avenida del Primado Reig,València,València,El Pla del Real,es,Ciutat Universitària,39.4772965,-0.35398179999999996,2110,5,900,flat,83,True,2,2,good,1.0
+94745053,"Calle de la Reina Na Maria, 3",València,València,L'Eixample,es,Russafa,39.461241,-0.3725366,1170,4.0,850,flat,69,True,2,1,good,1.0
+95496451,barrio Mestalla,València,València,El Pla del Real,es,Mestalla,39.4702847,-0.3551098,1901,4.0,750,flat,87,False,2,1,good,1.0
+95029420,Buenos aires,València,València,L'Eixample,es,Russafa,39.4629925,-0.3766981,905,3.0,1000,flat,100,True,2,2,good,1.0
+94772932,barrio Benimaclet,València,València,Benimaclet,es,Benimaclet,39.4863489,-0.36125579999999996,2178,6.0,1000,penthouse,85,True,3,1,good,1.0
+95705805,barrio Sant Pau,València,València,Campanar,es,Sant Pau,39.4903711,-0.4036221,3115,3.0,1100,flat,78,True,1,1,good,1.0
+87546607,Calle PALANCIA s/n Valencia,València,València,Algirós,es,La Carrasca,39.4780106,-0.3527587,2236,7.0,650,penthouse,75,True,2,1,good,1.0
+93744311,"Carrera de la Fonteta de Sant Lluís, 132",València,València,Quatre Carreres,es,Na Rovella,39.448788,-0.36885779999999996,2585,,700,flat,75,True,3,2,good,0.0
+95689716,"Calle la Guardia Civil, 19",València,València,Benimaclet,es,Benimaclet,39.4824712,-0.35761719999999997,2104,6.0,700,flat,100,True,4,2,good,1.0
+95657014,Conde Altea,València,València,L'Eixample,es,Gran Vía,39.4650789,-0.3641675,1307,2.0,1000,flat,91,True,4,1,good,1.0
+95643118,Calle Micer Mascó s/n,València,València,El Pla del Real,es,Exposició,39.4756191,-0.3631216,1310,3.0,1200,flat,100,True,2,2,good,1.0
+95606332,"Avenida de la Plata, 9",València,València,Quatre Carreres,es,En Corts,39.4533866,-0.3717551,2027,5.0,625,flat,60,True,1,1,good,1.0
+95500568,"Juan de Garay, 4",València,València,Patraix,es,Barrio de Favara,39.453914,-0.39259659999999996,2323,1.0,530,flat,37,True,1,1,good,1.0
+95514225,Calle Padre Viñas,València,València,Rascanya,es,Els Orriols,39.4950826,-0.3719963,2701,5.0,560,flat,51,True,2,1,good,1.0
+95295261,Calle dels Adressadors,València,València,Ciutat Vella,es,El Mercat,39.4721439,-0.3781614,138,3.0,900,flat,90,True,3,1,good,1.0
+94760617,barrio Mestalla,València,València,El Pla del Real,es,Mestalla,39.4731779,-0.3545317,1962,7.0,750,flat,66,True,2,1,good,1.0
+94606098,Calle Antonio Ponz,València,València,Poblats Marítims,es,Playa de la Malvarrosa,39.4791439,-0.3285706,4271,3.0,700,flat,70,True,2,1,good,0.0
+92080214,"Plaza Mayor, 3",València,Mislata,La Constitución - Canaleta,es,,39.4748128,-0.4168674,3426,4.0,599,flat,64,True,2,1,good,1.0
+94044303,"Calle Abén al Abbar, 8",València,València,Camins al Grau,es,Albors,39.4670868,-0.3523865,2179,4.0,725,flat,90,True,4,2,good,1.0
+40559790,Calle d'Eugènia Viñes,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4672886,-0.326496,4376,,1500,flat,60,True,2,2,good,
+40559802,Calle d'Eugènia Viñes,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4658886,-0.326796,4368,,1500,flat,90,True,2,2,good,
+40559800,Calle d'Eugènia Viñes,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4685886,-0.324696,4518,,1500,flat,90,True,2,2,good,
+95741725,"Avenida del Primado Reig, 111",València,València,La Saïdia,es,Trinitat,39.4850167,-0.364058,1914,4.0,680,flat,52,True,1,1,good,1.0
+93592593,Avenida de las Cortes Valencianas,València,València,Campanar,es,Sant Pau,39.4901784,-0.4031113,3069,4.0,800,flat,90,True,2,2,good,1.0
+29359997,"Troya, 10",València,València,Extramurs,es,La Roqueta,39.4671186,-0.38209689999999996,610,6.0,800,flat,94,True,2,1,good,1.0
+95718805,"Calle Progreso, 313",València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.4726036,-0.3292249,4124,5.0,650,flat,59,False,2,1,good,0.0
+95658681,barrio Torrefiel,València,València,Rascanya,es,Torrefiel,39.4957599,-0.37425739999999996,2751,3.0,675,flat,72,True,3,1,good,1.0
+95633445,Avenida Olimpia Arozena Torres,València,València,L'Olivereta,es,Nou Moles,39.4683563,-0.39406929999999996,1477,2.0,750,flat,97,True,2,1,good,0.0
+95633225,barrio Russafa,València,València,L'Eixample,es,Russafa,39.463146,-0.3675694,1214,1.0,1500,flat,75,True,2,1,good,1.0
+89233451,Calle del Cabrit,València,València,Ciutat Vella,es,El Carme,39.4783769,-0.38117059999999997,874,4.0,2300,flat,50,False,1,1,good,1.0
+95546337,Calle de Sant Joan Bosco,València,València,Rascanya,es,Torrefiel,39.4946699,-0.3689691,2712,5.0,750,flat,90,True,2,1,good,1.0
+90603778,Paseo de l'Albereda,València,València,Camins al Grau,es,Penya-Roja,39.4542712,-0.344418,3383,3.0,750,flat,67,True,1,1,good,1.0
+39340957,Avenida Mare Nostrum s/n,València,Alboraya,La Patacona,es,,39.4915893,-0.325468,4991,6.0,720,flat,78,True,2,1,good,1.0
+90853865,"Serranos, 31",València,València,Ciutat Vella,es,El Carme,39.4788139,-0.3763188,858,5.0,800,studio,30,True,0,1,good,1.0
+94244607,"Calle Pp Orriols PRR-3, 4 D",València,València,Rascanya,es,Sant Llorenç,39.4914599,-0.36553,2474,4.0,800,flat,87,True,2,2,good,1.0
+92438581,Calle d'Escalante,València,València,Poblats Marítims,es,El Cabanyal-El Canyamelar,39.47235,-0.32956989999999997,4093,3.0,650,flat,60,True,1,1,good,0.0
+95695188,"Avenida de la Plata, 9",València,València,Quatre Carreres,es,En Corts,39.4533866,-0.3717551,2027,,650,flat,60,True,2,2,good,1.0
+94750800,Calle Reverendo José Pinazo,València,València,Benimaclet,es,Benimaclet,39.4868489,-0.36025579999999996,2276,6.0,1000,flat,85,True,3,1,good,1.0
+95606550,"Calle de Campoamor, 50",València,València,Algirós,es,Ciutat Jardí,39.4709,-0.34723000000000004,2575,3.0,1000,flat,95,True,3,2,good,1.0
+95595073,"Plaza Don Juan de Villarrasa, 12",València,València,Ciutat Vella,es,El Mercat,39.4736518,-0.3801692,377,2.0,850,flat,65,True,1,1,good,1.0
+95586942,Paseo Olimpia Arozena Torres,València,València,L'Olivereta,es,Nou Moles,39.4719494,-0.3930147,1357,2.0,750,flat,95,True,2,1,good,0.0
+85502272,Avenida Mare Nostrum,València,Alboraya,La Patacona,es,,39.4852121,-0.3249624,4752,,1450,flat,65,True,1,1,good,1.0
+95582213,"Avenida de França, 157",València,València,Poblats Marítims,es,El Grau,39.4582165,-0.334964,3902,,650,flat,75,False,3,1,good,1.0
+95543449,"Plaza Don Juan de Villarrasa, 12",València,València,Ciutat Vella,es,El Mercat,39.4736518,-0.3801692,377,2.0,850,flat,65,True,1,1,good,1.0
+95534977,"Calle de Pere de València, 2",València,València,Algirós,es,L'Illa Perduda,39.4686836,-0.3383196,3351,3.0,900,flat,97,True,4,1,good,1.0
+95406717,Calle d'Alvaro de Bazan,València,València,El Pla del Real,es,Jaume Roig,39.4827611,-0.36269239999999997,1797,4.0,975,flat,100,True,2,2,good,1.0
+90295626,Plaza de l'Ajuntament,València,València,Ciutat Vella,es,Sant Francesc,39.4723396,-0.3756296,193,4.0,1300,flat,85,True,3,2,good,1.0
+95333382,Calle de la Pianista Empar Iturbi,València,València,Jesús,es,La Raiosa,39.4532323,-0.3835224,2061,4.0,900,flat,95,True,3,2,good,1.0
+95255561,Calle del Pintor Vila Prades,València,València,Extramurs,es,La Petxina,39.4720593,-0.38939009999999996,1048,2.0,800,flat,90,True,2,1,good,0.0
+94922417,Paseo Serra d 'Espadá,València,Alboraya,La Patacona,es,,39.4893238,-0.3283812,4655,5.0,895,flat,86,False,2,2,good,1.0
+94811135,barrio El Pla del Remei,València,València,L'Eixample,es,El Pla del Remei,39.4712376,-0.36740249999999997,844,7.0,1600,duplex,87,True,2,2,good,1.0

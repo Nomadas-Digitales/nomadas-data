@@ -187,3 +187,64 @@ class Idealista:
             idealista_df.reset_index(drop=True,inplace=True)
 
         return idealista_df
+
+class IdealistaFeatureEngineering:
+    '''
+    Clase con métodos para hacer tareas de FeatureEngineering sobre el dataset de Idealista.
+    '''
+
+    def __init__(self, debug = False):
+        '''
+        Constructor
+        Parametros:
+            debug: si vale True muestra mensajes de debug
+        '''
+        self.__debug = debug
+    
+    
+    def nan_analysis(self, dataframe, display_analysis = True):
+        '''
+        Realiza un análisis de nans sobre el dataset de Idealista, generando un DataFrame con el resultado de dicho análisis.
+        Opcionalmente hace un display del DataFrame con el resultado del análisis de nans.
+        
+        Parametros:
+        * dataframe: DataFrame a analizar
+        * display_analysis: si vale True se hace un display del DataFrame con el resultado del análisis de nans
+        Resultado:
+        * El DataFrame con el resultado del análisis de nans
+        '''
+        nro_filas = dataframe.shape[0]
+
+        print("Valores nulos en cada columna:")
+        suma_nulos_cols = dataframe.isna().sum().to_frame()
+        suma_nulos_cols.columns = ['NroNulos']
+        suma_nulos_cols['PorcentajeNulos'] = 100 * suma_nulos_cols['NroNulos'] / nro_filas
+        suma_nulos_cols.sort_values(by='NroNulos', ascending=False, inplace=True)
+        cols_con_nulos = suma_nulos_cols[suma_nulos_cols['NroNulos'] > 0]
+        if display_analysis:
+            display(cols_con_nulos)
+
+    def floor_str_2_number(self, floor):
+        '''
+        Realiza estas conversiones de un texto con abreviatura de una planta a número:
+        - 'bj' (bajo) a 0
+        - 'ss' (semosotano) a -1
+        - 'st' (sotano) a -1
+        - 'en' (entresuelo) a 0
+        
+        Parametros:
+        * floor: valor a convertir
+        Resultado:
+        * valor convertido
+        '''
+        new_floor = floor
+
+        map_floor = { "bj": 0, "en": 0, "ss": -1, "st": -1 }
+        if not pd.isnull(floor) and isinstance(floor, str):
+            valor = map_floor.get(floor)
+            if valor != None:
+                new_floor = valor
+            else:
+                new_floor = float(floor)
+
+        return new_floor
